@@ -11,21 +11,26 @@
     <category title="System" />
     <item drawable="ic_calculator" />
     <item drawable="ic_calendar" />
-    <item drawable="ic_calendar2" />
     <item drawable="ic_calendar_alt" />
-    <item drawable="ic_calendar_alt2" />
     <item drawable="ic_camera" />
     <item drawable="ic_clock" />
     <item drawable="ic_downloads" />
     <item drawable="ic_phone" />
-    <item drawable="ic_phone2" />
-    <item drawable="ic_phone3" />
-    <item drawable="ic_phone4" />
     <item drawable="ic_settings" />
 
 
     <category title="Google" />
     <item drawable="ic_hangouts" />
+
+
+    <category title="Colors" />
+    <item drawable="ic_calendar_blue" />
+    <item drawable="ic_calendar_green" />
+    <item drawable="ic_calendar_red" />
+    <item drawable="ic_calendar_alt_blue" />
+    <item drawable="ic_phone_blue" />
+    <item drawable="ic_phone_green" />
+    <item drawable="ic_phone_red" />
 
 
     <category title="General" />
