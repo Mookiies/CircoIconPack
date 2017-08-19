@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Specify every icon to be shown in the manual icon picker seen
+         when long-pressing on an icon and selecting Edit then tapping
+         the icon
+    -->
+
+    <!-- Specific categories first, then the the rest of all icons, striving for alphabetical
+    order of app name -->
+
+    <category title="System" />
+    <item drawable="ic_calculator" />
+    <item drawable="ic_calendar" />
+    <item drawable="ic_calendar2" />
+    <item drawable="ic_calendar_alt" />
+    <item drawable="ic_calendar_alt2" />
+    <item drawable="ic_camera" />
+    <item drawable="ic_clock" />
+    <item drawable="ic_downloads" />
+    <item drawable="ic_phone" />
+    <item drawable="ic_phone2" />
+    <item drawable="ic_phone3" />
+    <item drawable="ic_phone4" />
+    <item drawable="ic_settings" />
+
+
+    <category title="Google" />
+    <item drawable="ic_hangouts" />
+
+
+    <category title="General" />
+    <item drawable="ic_color_circle" />
+    <!-- Every icon should be listed here -->
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Color Circle</string>
+    <string name="apply_icon_theme" translatable="false">Apply Icon Theme</string>
+    <string name="app_slogan" translatable="true">Stylish as always</string>
+    <string name="icon" translatable="true">Icon</string>
+</resources>
