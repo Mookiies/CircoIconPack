@@ -20,8 +20,15 @@
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ic_calendar" />
 
     <!-- General applications -->
-
-
+    <!-- TODO Changes
+     -sort alternates by color
+     -->
+    <!-- TODO new icons:
+    -music
+    -sms & sms alt
+    -email
+    -gmail
+    -->
 
     <!-- Auto-generating uniform replacement icons -->
     <iconback img1="ic_generic_back" />
