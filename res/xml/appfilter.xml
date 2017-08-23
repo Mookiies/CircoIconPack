@@ -20,7 +20,6 @@
     -browser-->
 
 
-
     <!-- Icon replacements for google apps -->
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ic_google_calendar" />
@@ -35,42 +34,19 @@
     <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="ic_email" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/.SearchActivity}" drawable="ic_google_app" />
     <item component="ComponentInfo{com.google.android.apps.books/.app.BooksActivity}" drawable="ic_google_books" />
-    <item component="ComponentInfo{com.google.android.apps.books/.app.BooksActivity}" drawable="ic_google_documents" />
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_documents" />
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="ic_google_games" />
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_google_music" />
     <item component="ComponentInfo{com.google.android.apps.plus/.phone.HomeActivity}" drawable="ic_google_plus" />
-
 
 
     <!-- General applications -->
     <item component="ComponentInfo{com.teslacoilsw.launcher/.preferences.SettingsActivity}" drawable="ic_nova" />
     <item component="ComponentInfo{com.snapchat.android/.LandingPageActivity}" drawable="ic_snapchat" />
     <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="ic_spotify" />
-    <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="ic_spotify" />
     <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
     <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="ic_textra" />
 
-    <!-- TODO new icons:
-    -music
-    -sms & sms alt
-    -email
-    -gmail
-    -new color variations (browser, calendar, contacts, phone
-    -allo
-    -duo
-    -android pay
-    -android auto
-    -android wear
-    -chrome + beta and dev
-    -google appp
-    -google books
-    -google music
-    -google docs
-    -google plus
-    -snapchat
-    -spotify
-    -textra
-    -->
 
     <!-- Auto-generating uniform replacement icons -->
     <iconback img1="ic_generic_back" />
