@@ -32,10 +32,17 @@
     <item drawable="ic_google_books" />
     <item drawable="ic_google_calendar" />
     <item drawable="ic_google_documents" />
+    <item drawable="ic_google_drive" />
+    <item drawable="ic_google_fit" />
     <item drawable="ic_google_games" />
+    <item drawable="ic_google_keep" />
     <item drawable="ic_google_music" />
+    <item drawable="ic_google_photos" />
+    <item drawable="ic_google_play" />
     <item drawable="ic_google_plus" />
     <item drawable="ic_hangouts" />
+    <item drawable="ic_youtube" />
+    <item drawable="ic_youtube_studio" />
 
 
     <category title="Colors" />

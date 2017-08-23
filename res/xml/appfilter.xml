@@ -33,12 +33,19 @@
     <item component="ComponentInfo{com.google.android.gm/.ConversationListActivityGmail}" drawable="ic_duo" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/.SearchActivity}" drawable="ic_google_app" />
     <item component="ComponentInfo{com.google.android.apps.books/.app.BooksActivity}" drawable="ic_google_books" />
-    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_documents" />
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ic_google_calendar" />
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_documents" />
+    <item component="ComponentInfo{com.google.android.apps.docs/.app.NewMainProxyActivity}" drawable="ic_google_drive" />
+    <item component="ComponentInfo{com.google.android.apps.fitness/.welcome.WelcomeActivity}" drawable="ic_google_fit" />
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="ic_google_games" />
+    <item component="ComponentInfo{com.google.android.keep/.activities.BrowseActivity}" drawable="ic_google_keep" />
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_google_music" />
+    <item component="ComponentInfo{com.google.android.apps.photos/.home.HomeActivity}" drawable="ic_google_photos" />
+    <item component="ComponentInfo{com.google.android.vending/.AssetBrowserActivity}" drawable="ic_google_play" />
     <item component="ComponentInfo{com.google.android.apps.plus/.phone.HomeActivity}" drawable="ic_google_plus" />
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
+    <item component="ComponentInfo{com.google.android.youtube/.app.honeycomb.Shell$HomeActivity}" drawable="ic_youtube" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.creator/.main.MainActivity}" drawable="ic_youtube_studio" />
 
 
     <!-- General applications -->
