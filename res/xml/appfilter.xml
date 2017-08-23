@@ -9,11 +9,9 @@
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_calculator" />
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="ic_camera" />
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="ic_clock" />
-    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="ic_contacts" />
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="ic_contacts" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="ic_downloads" />
-    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
-        drawable="ic_phone" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="ic_phone" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_settings" />
     <!-- System app to add
     -music
@@ -23,41 +21,31 @@
 
 
     <!-- Icon replacements for google apps -->
-    <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}"
-        drawable="ic_hangouts" />
-    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="ic_google_calendar" />
-    <item component="ComponentInfo{com.google.android.apps.fireball/.ui.conversationlist.ConversationListActivity}"
-        drawable="ic_allo" />
-    <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}"
-        drawable="ic_android_auto" />
-    <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}"
-        drawable="ic_android_pay" />
-    <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}"
-        drawable="ic_android_wear" />
+    <item component="ComponentInfo{com.google.android.apps.fireball/.ui.conversationlist.ConversationListActivity}" drawable="ic_allo" />
+    <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}" drawable="ic_android_auto" />
+    <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="ic_android_pay" />
+    <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="ic_android_wear" />
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="ic_chrome" />
     <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="ic_chrome_beta" />
     <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="ic_chrome_dev" />
     <item component="ComponentInfo{com.google.android.apps.tachyon/.MainActivity}" drawable="ic_duo" />
-    <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}"
-        drawable="ic_email" />
+    <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="ic_email" />
+    <item component="ComponentInfo{com.google.android.gm/.ConversationListActivityGmail}" drawable="ic_duo" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/.SearchActivity}" drawable="ic_google_app" />
     <item component="ComponentInfo{com.google.android.apps.books/.app.BooksActivity}" drawable="ic_google_books" />
-    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
-        drawable="ic_google_documents" />
-    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
-        drawable="ic_google_games" />
-    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}"
-        drawable="ic_google_music" />
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_documents" />
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ic_google_calendar" />
+    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="ic_google_games" />
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_google_music" />
     <item component="ComponentInfo{com.google.android.apps.plus/.phone.HomeActivity}" drawable="ic_google_plus" />
+    <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
 
 
     <!-- General applications -->
     <item component="ComponentInfo{com.teslacoilsw.launcher/.preferences.SettingsActivity}" drawable="ic_nova" />
     <item component="ComponentInfo{com.snapchat.android/.LandingPageActivity}" drawable="ic_snapchat" />
     <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="ic_spotify" />
-    <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}"
-        drawable="ic_reddit_alt" />
+    <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
     <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="ic_textra" />
 
 
