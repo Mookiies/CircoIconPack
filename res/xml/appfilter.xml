@@ -30,7 +30,7 @@
     <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="ic_chrome_dev" />
     <item component="ComponentInfo{com.google.android.apps.tachyon/.MainActivity}" drawable="ic_duo" />
     <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="ic_email" />
-    <item component="ComponentInfo{com.google.android.gm/.ConversationListActivityGmail}" drawable="ic_duo" />
+    <item component="ComponentInfo{com.google.android.gm/.ConversationListActivityGmail}" drawable="ic_gmail" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/.SearchActivity}" drawable="ic_google_app" />
     <item component="ComponentInfo{com.google.android.apps.books/.app.BooksActivity}" drawable="ic_google_books" />
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ic_google_calendar" />
@@ -41,7 +41,7 @@
     <item component="ComponentInfo{com.google.android.keep/.activities.BrowseActivity}" drawable="ic_google_keep" />
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_google_music" />
     <item component="ComponentInfo{com.google.android.apps.photos/.home.HomeActivity}" drawable="ic_google_photos" />
-    <item component="ComponentInfo{com.google.android.vending/.AssetBrowserActivity}" drawable="ic_google_play" />
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_google_play" />
     <item component="ComponentInfo{com.google.android.apps.plus/.phone.HomeActivity}" drawable="ic_google_plus" />
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
     <item component="ComponentInfo{com.google.android.youtube/.app.honeycomb.Shell$HomeActivity}" drawable="ic_youtube" />
