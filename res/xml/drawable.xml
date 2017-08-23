@@ -20,21 +20,52 @@
 
 
     <category title="Google" />
+    <item drawable="ic_allo" />
+    <item drawable="ic_android_auto" />
+    <item drawable="ic_android_pay" />
+    <item drawable="ic_android_wear" />
+    <item drawable="ic_chrome" />
+    <item drawable="ic_chrome_beta" />
+    <item drawable="ic_chrome_dev" />
+    <item drawable="ic_duo" />
+    <item drawable="ic_google_app" />
+    <item drawable="ic_google_books" />
+    <item drawable="ic_google_calendar" />
+    <item drawable="ic_google_documents" />
+    <item drawable="ic_google_games" />
+    <item drawable="ic_google_music" />
+    <item drawable="ic_google_plus" />
     <item drawable="ic_hangouts" />
 
 
     <category title="Colors" />
+    <item drawable="ic_browser_green" />
+    <item drawable="ic_browser_purple" />
+    <item drawable="ic_browser_red" />
+    <item drawable="ic_browser_yellow" />
     <item drawable="ic_calendar_blue" />
     <item drawable="ic_calendar_green" />
     <item drawable="ic_calendar_red" />
+    <item drawable="ic_calendar_yellow" />
     <item drawable="ic_calendar_alt_blue" />
+    <item drawable="ic_contacts_green" />
+    <item drawable="ic_contacts_purple" />
+    <item drawable="ic_contacts_red" />
+    <item drawable="ic_contacts_yellow" />
     <item drawable="ic_phone_blue" />
     <item drawable="ic_phone_green" />
     <item drawable="ic_phone_red" />
+    <item drawable="ic_phone_yellow" />
 
 
     <category title="General" />
     <item drawable="ic_color_circle" />
+    <item drawable="ic_nova" />
+    <item drawable="ic_snapchat" />
+    <item drawable="ic_spotify" />
+    <item drawable="ic_reddit" />
+    <item drawable="ic_reddit_alt" />
+    <item drawable="ic_textra" />
     <!-- Every icon should be listed here -->
 
 </resources>
