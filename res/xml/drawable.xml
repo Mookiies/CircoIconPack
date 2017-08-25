@@ -36,11 +36,20 @@
     <item drawable="ic_google_fit" />
     <item drawable="ic_google_games" />
     <item drawable="ic_google_keep" />
+    <item drawable="ic_google_maps" />
+    <item drawable="ic_google_movies" />
     <item drawable="ic_google_music" />
+    <item drawable="ic_google_news_weather" />
+    <item drawable="ic_google_now_launcher" />
     <item drawable="ic_google_photos" />
     <item drawable="ic_google_play" />
     <item drawable="ic_google_plus" />
+    <item drawable="ic_google_rewards" />
+    <item drawable="ic_google_sheets" />
+    <item drawable="ic_google_slides" />
+    <item drawable="ic_google_voice_search" />
     <item drawable="ic_hangouts" />
+    <item drawable="ic_my_maps" />
     <item drawable="ic_youtube" />
     <item drawable="ic_youtube_studio" />
 
@@ -66,12 +75,16 @@
 
 
     <category title="General" />
+    <item drawable="ic_cash" />
     <item drawable="ic_color_circle" />
+    <item drawable="ic_groupme" />
     <item drawable="ic_nova" />
     <item drawable="ic_snapchat" />
     <item drawable="ic_spotify" />
     <item drawable="ic_reddit" />
     <item drawable="ic_reddit_alt" />
+    <item drawable="ic_reddit_official_app" />
+    <item drawable="ic_smart_recorder" />
     <item drawable="ic_textra" />
     <!-- Every icon should be listed here -->
 

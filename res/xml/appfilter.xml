@@ -39,21 +39,37 @@
     <item component="ComponentInfo{com.google.android.apps.fitness/.welcome.WelcomeActivity}" drawable="ic_google_fit" />
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="ic_google_games" />
     <item component="ComponentInfo{com.google.android.keep/.activities.BrowseActivity}" drawable="ic_google_keep" />
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="ic_google_maps" />
+    <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="ic_google_movies" />
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_google_music" />
+    <item component="ComponentInfo{com.google.android.apps.genie.geniewidget/.activities.NewsActivity}" drawable="ic_google_news_weather" />
+    <item component="ComponentInfo{com.google.android.launcher/.StubApp}" drawable="ic_google_now_launcher" />
     <item component="ComponentInfo{com.google.android.apps.photos/.home.HomeActivity}" drawable="ic_google_photos" />
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_google_play" />
     <item component="ComponentInfo{com.google.android.apps.plus/.phone.HomeActivity}" drawable="ic_google_plus" />
+    <item component="ComponentInfo{com.google.android.apps.paidtasks/.LaunchActivity}" drawable="ic_google_rewards" />
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_sheets" />
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_slides" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/.VoiceSearchActivity}" drawable="ic_google_voice_search" />
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
+    <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="ic_my_maps" />
     <item component="ComponentInfo{com.google.android.youtube/.app.honeycomb.Shell$HomeActivity}" drawable="ic_youtube" />
     <item component="ComponentInfo{com.google.android.apps.youtube.creator/.main.MainActivity}" drawable="ic_youtube_studio" />
 
 
     <!-- General applications -->
+    <item component="ComponentInfo{com.squareup.cash/.ui.MainActivity}" drawable="ic_cash" />
+    <item component="ComponentInfo{com.groupme.android/.HomeActivity}" drawable="ic_groupme" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/.preferences.SettingsActivity}" drawable="ic_nova" />
     <item component="ComponentInfo{com.snapchat.android/.LandingPageActivity}" drawable="ic_snapchat" />
     <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="ic_spotify" />
     <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
+    <item component="ComponentInfo{com.laurencedawson.reddit_sync/.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
+    <item component="ComponentInfo{com.reddit.frontpage/.StartActivity}" drawable="ic_reddit_official_app" />
+    <item component="ComponentInfo{com.andrwq.recorder/.RecorderActivity}" drawable="ic_smart_recorder" />
     <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="ic_textra" />
+
+    <!-- TODO reddit app variations -->
 
 
     <!-- Auto-generating uniform replacement icons -->
