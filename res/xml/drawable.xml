@@ -47,12 +47,13 @@
     <item drawable="ic_google_rewards" />
     <item drawable="ic_google_sheets" />
     <item drawable="ic_google_slides" />
+    <item drawable="ic_google_translate" />
     <item drawable="ic_google_voice_search" />
     <item drawable="ic_hangouts" />
     <item drawable="ic_my_maps" />
     <item drawable="ic_youtube" />
+    <item drawable="ic_youtube_music" />
     <item drawable="ic_youtube_studio" />
-
 
     <category title="Colors" />
     <item drawable="ic_browser_green" />
@@ -75,17 +76,55 @@
 
 
     <category title="General" />
+    <item drawable="ic_amazon_kindle" />
+    <item drawable="ic_amazon_music" />
+    <item drawable="ic_amazon_music_alt" />
+    <item drawable="ic_amazon_prime_photos" />
+    <item drawable="ic_amazon_prime_video" />
+    <item drawable="ic_amazon_shopping" />
+    <item drawable="ic_audible" />
+    <item drawable="ic_bitmoji" />
     <item drawable="ic_cash" />
     <item drawable="ic_color_circle" />
+    <item drawable="ic_dropbox" />
+    <item drawable="ic_facebook" />
+    <item drawable="ic_facebook_messenger" />
     <item drawable="ic_groupme" />
+    <item drawable="ic_groupon" />
+    <item drawable="ic_hulu" />
+    <item drawable="ic_instagram" />
+    <item drawable="ic_instagram_alt" />
+    <item drawable="ic_lyft" />
+    <item drawable="ic_mc_donalds" />
+    <item drawable="ic_money_lover" />
+    <item drawable="ic_musically" />
+    <item drawable="ic_netflix" />
     <item drawable="ic_nova" />
-    <item drawable="ic_snapchat" />
-    <item drawable="ic_spotify" />
+    <item drawable="ic_pandora" />
+    <item drawable="ic_paypal" />
+    <item drawable="ic_pintrest" />
+    <item drawable="ic_pocket_cast" />
     <item drawable="ic_reddit" />
     <item drawable="ic_reddit_alt" />
     <item drawable="ic_reddit_official_app" />
+    <item drawable="ic_shazam" />
+    <item drawable="ic_skype" />
     <item drawable="ic_smart_recorder" />
+    <item drawable="ic_snapchat" />
+    <item drawable="ic_soundcloud" />
+    <item drawable="ic_soundhound" />
+    <item drawable="ic_spotify" />
+    <item drawable="ic_target" />
     <item drawable="ic_textra" />
+    <item drawable="ic_tinder" />
+    <item drawable="ic_tumblr" />
+    <item drawable="ic_twitter" />
+    <item drawable="ic_uber" />
+    <item drawable="ic_venmo" />
+    <item drawable="ic_walmart" />
+    <item drawable="ic_waze" />
+    <item drawable="ic_whatsapp" />
+    <item drawable="ic_yahoo_mail" />
     <!-- Every icon should be listed here -->
 
 </resources>
