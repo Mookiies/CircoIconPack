@@ -20,24 +20,24 @@
     <string name="app_name" translatable="false">Circo</string>
     <string name="apply_icon_theme" translatable="true">Apply Icon Theme</string>
     <string name="app_slogan" translatable="true">Stylish as always</string>
-    <string name="app_description" translatable="true">Clean simple colorful circles</string>
+    <string name="app_description">Clean simple colorful circles</string>
     <string name="icon" translatable="true">Icon</string>
 
     <!-- Edit these two strings to match your theme name -->
     <string name="theme_name" translatable="false">Circo</string>
 
     <!-- Apex Previews -->
-    <string name="theme_feature">theme_header</string>
-    <string name="theme_preview1">theme_preview1</string>
-    <string name="theme_preview2">theme_preview2</string>
-    <string name="theme_preview3">theme_preview3</string>
-    <string name="theme_preview4">theme_preview4</string>
-    <string name="theme_preview5">theme_preview5</string>
+    <string name="theme_feature" translatable="false">theme_header</string>
+    <string name="theme_preview1" translatable="false">theme_preview1</string>
+    <string name="theme_preview2" translatable="false">theme_preview2</string>
+    <string name="theme_preview3" translatable="false">theme_preview3</string>
+    <string name="theme_preview4" translatable="false">theme_preview4</string>
+    <string name="theme_preview5" translatable="false">theme_preview5</string>
 
     <!-- Apex Theme settings -->
     <bool name="config_apexskin">false</bool>
     <bool name="config_iconpack">true</bool>
-    <string name="theme_description">@string/app_description</string>
+    <string name="theme_description" translatable="false">@string/app_description</string>
 
     <!-- ADW Stuff -->
     <!-- 1=top dots, 2=top slider, 3=bottom slider, 4=ics slider -->
@@ -47,7 +47,7 @@
     <string name="main_dock_style" translatable="false">2</string>
 
     <!-- Go Launcher stuff -->
-    <string name="theme_title">@string/app_name</string>
+    <string name="theme_title" translatable="false">@string/app_name</string>
     <bool name="enableIconPack">true</bool>
     <bool name="enableDockPack">false</bool>
     <string name="go_applied">Thanks for using Circo</string>
