@@ -13,7 +13,7 @@
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_tinder.png)
 
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_youtube_music.png)
-![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_soundcloud.png)
+![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_reddit_official_app.png)
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_snapchat.png)
 
 
