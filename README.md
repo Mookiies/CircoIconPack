@@ -3,4 +3,4 @@ Circo Icon Pack
 
 Simple, beautiful, colorful icons.
 
-![Google Translate](/drawable-xxxhdpi/ic_google_translate.png "Optional Title")
+![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_google_translate.png)
