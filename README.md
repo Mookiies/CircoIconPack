@@ -3,7 +3,7 @@
 
 
 
-## Simple, beautiful, colorful icons.
+## Simple, beautiful, colorful icons
 
 
 
@@ -18,3 +18,5 @@
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_youtube_music.png)
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_soundcloud.png)
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_snapchat.png)
+
+## Supports multiple launchers
