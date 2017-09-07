@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+** Copyright 2017, mookie
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+-->
+
 <resources>
-    <string name="app_slogan">Test Translation</string>
-    <string name="icon">Test Translation</string>
+    <string name="app_slogan">Estiloso como siempre</string>
+    <string name="icon">icono</string>
+    <string name="app_description">Círculos coloridos simples</string>
+    <string name="apply_icon_theme">Applicar tema</string>
+    <string name="aviate_market">Aviate Launcher no esta instalado. Redireccionando al Play Store!</string>
+    <string name="back_button">" atrás"</string>
+    <string name="cancel">cancelar</string>
+    <string name="close">cerrar</string>
+    <string name="coming_soon">Viniendo pronto</string>
+    <string name="content">Tema de círculos simples</string>
+    <string name="finish_apply">Selecionar opciones y toca Applicar para finalizar</string>
 </resources>

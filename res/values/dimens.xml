@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margins -->
+    <dimen name="divider_thickness">1dp</dimen>
+    <dimen name="margin_small_sm">3dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_small_lg">5dp</dimen>
+    <dimen name="margin_medium_sm">8dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_medium_lg">12dp</dimen>
+    <dimen name="margin_large_sm">14dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+
+    <!-- Font sizes -->
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_small_lg">14sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_large">22dp</dimen>
+
+    <!-- ListView -->
+    <dimen name="listview_height">88dp</dimen>
+    <dimen name="launcher_title">48sp</dimen>
+
+</resources>

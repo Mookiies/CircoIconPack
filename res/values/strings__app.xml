@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+** Copyright 2013, the1dynasty
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+**
+** =========================================================================
+**
+** This file modified by mookie on 9/7/2017
+** Modifications include removals, additions, and edits.
+-->
+
+
+<resources>
+    
+	<string name="package_name" translatable="false">com.mookie.circo</string>
+	<string name="email_address" translatable="false">template@email.com</string>
+	<string name="market_rate" translatable="false">market://details?id=your.icons.name.here</string>
+	<string name="app_market" translatable="false">market://details?id=app.the1dynasty.oss</string>
+    
+  	<!-- APPLY THEME -->
+	<string name="installed" translatable="true">Installed</string>
+	<string name="not_installed" translatable="true">Not Installed</string>
+  	<!-- LAUNCHER NAMES -->
+  	<string name="launcher_apex" translatable="false">Apex</string>
+  	<string name="launcher_nova" translatable="false">Nova</string>
+  	<string name="launcher_aviate" translatable="false">Aviate</string>
+  	<string name="launcher_adw" translatable="false">ADW</string>
+  	<string name="launcher_al" translatable="false">Action</string>
+  	<string name="launcher_smart" translatable="false">Smart</string>
+  	<string name="launcher_next" translatable="false">Next</string>
+  	<string name="launcher_go" translatable="false">Go</string>
+  	<string name="launcher_holo" translatable="false">Holo</string>
+  	<!-- LAUNCHER PACKAGE NAMES -->
+  	<string name="launcher_apex_package" translatable="false">com.anddoes.launcher</string>
+  	<string name="launcher_nova_package" translatable="false">com.teslacoilsw.launcher</string>
+  	<string name="launcher_aviate_package" translatable="false">com.tul.aviate</string>
+  	<string name="launcher_adw_package" translatable="false">org.adw.launcher</string>
+  	<string name="launcher_al_package" translatable="false">com.actionlauncher.playstore</string>
+  	<string name="launcher_smart_package" translatable="false">ginlemon.flowerfree</string>
+  	<string name="launcher_next_package" translatable="false">com.gtp.nextlauncher</string>
+  	<string name="launcher_go_package" translatable="false">com.gau.go.launcherex</string>
+  	<string name="launcher_holo_package" translatable="false">com.mobint.hololauncher</string>
+  	<!-- LAUNCHER MARKET URL -->
+  	<string name="launcher_apex_market" translatable="false">market://details?id=com.anddoes.launcher</string>
+  	<string name="launcher_nova_market" translatable="false">market://details?id=com.teslacoilsw.launcher</string>
+  	<string name="launcher_aviate_market" translatable="false">market://details?id=com.tul.aviate</string>
+  	<string name="launcher_adw_market" translatable="false">market://details?id=org.adw.launcher</string>
+  	<string name="launcher_al_market" translatable="false">market://details?id=com.actionlauncher.playstore</string>
+  	<string name="launcher_smart_market" translatable="false">market://details?id=ginlemon.flowerfree</string>
+  	<string name="launcher_next_market" translatable="false">market://details?id=com.gtp.nextlauncher</string>
+  	<string name="launcher_go_market" translatable="false">market://details?id=com.gau.go.launcherex</string>
+  	<string name="launcher_holo_market" translatable="false">market://details?id=com.mobint.hololauncher</string>
+    <!-- APPLIED TOAST MESSAGES -->
+	<string name="finish_holo_apply" translatable="true">Go To Appearance settings -> Icon Packs and select this theme from the list.</string>
+	<string name="finish_apply" translatable="true">Select your options and press Apply to finalize!</string>
+	<string name="apex_market" translatable="true">Apex Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="nova_market" translatable="true">Nova Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="aviate_market" translatable="true">Aviate Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="adw_market" translatable="true">ADW Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="al_market" translatable="true">Action Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="smart_market" translatable="true">Smart Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="next_market" translatable="true">Next Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="go_market" translatable="true">Go Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="holo_market" translatable="true">Holo Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="not_supported" translatable="true">Not Supported</string>
+	<string name="coming_soon" translatable="true">Coming soon!</string>
+
+	<!-- Misc Stuff -->
+	<string name="content" translatable="true">Simple circle theme</string>
+	<string name="back_button" translatable="true">back</string>
+	<string name="share" translatable="true">share</string>
+	<string name="ok" translatable="true">ok</string>
+	<string name="close" translatable="true">close</string>
+  	<string name="cancel" translatable="true">cancel</string>
+
+
+</resources>

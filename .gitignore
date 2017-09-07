@@ -20,3 +20,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.gradle/
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/
+.idea/gradle.xml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+.idea/workspace.xml
+DynamicCalendarIconAPI.md
+GithubExample (LAPTOP-8A5AOV23's conflicted copy 2017-08-17).iml
+GithubExample.iml
+IconVectors/ic_circo.ai
+build/
+gradle/
+local.properties
