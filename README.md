@@ -2,7 +2,7 @@
 ===========================
 
 
-Simple, beautiful, colorful icons.
+### Simple, beautiful, colorful icons.
 
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_contacts.png)
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_google_translate.png)
