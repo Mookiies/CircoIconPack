@@ -20,7 +20,8 @@
 
     <!-- Icons are sorted first by category, then by alphabetical order of the icon name (ie. ic_icon) -->
 
-    <!-- Icons are themed by specifiy their activity component name and the drawable to replace it with -->
+    <!-- Icons are themed by their activity component name and the drawable to replace it with.
+         Some apps require multiple activity components in order to work with all launchers. -->
     <item component="ComponentInfo{com.mookie.circo/.MainActivity}" drawable="ic_circo" />
 
 
@@ -79,18 +80,23 @@
 
 
     <!-- General applications -->
+    <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="ic_action_launcher" />
+    <item component="ComponentInfo{org.adw.launcher/.LauncherActivity}" drawable="ic_adw_launcher" />
     <item component="ComponentInfo{com.amazon.kindle/.UpgradePage}" drawable="ic_amazon_kindle" />
     <item component="ComponentInfo{com.amazon.mp3/.client.activity.LauncherActivity}" drawable="ic_amazon_music" />
     <item component="ComponentInfo{com.amazon.clouddrive.photos/.display.LauncherActivity}" drawable="ic_amazon_prime_photos" />
     <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/.LauncherActivity}" drawable="ic_amazon_prime_video" />
     <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
+    <item component="ComponentInfo{com.anddoes.launcher/.Launcher}" drawable="ic_apex_launcher" />
     <item component="ComponentInfo{com.audible.application/.SplashScreen}" drawable="ic_audible" />
+    <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.bitstrips.imoji/.ui.LoginActivity}" drawable="ic_bitmoji" />
     <item component="ComponentInfo{com.squareup.cash/.ui.MainActivity}" drawable="ic_cash" />
     <item component="ComponentInfo{com.dropbox.android/.activity.DropboxBrowser}" drawable="ic_dropbox" />
     <item component="ComponentInfo{com.squareup.cash/.ui.MainActivity}" drawable="ic_cash" />
     <item component="ComponentInfo{com.facebook.katana/.LoginActivity}" drawable="ic_facebook" />
     <item component="ComponentInfo{com.facebook.orca/.auth.StartScreenActivity}" drawable="ic_facebook_messenger" />
+    <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="ic_go_launcher" />
     <item component="ComponentInfo{com.groupme.android/.HomeActivity}" drawable="ic_groupme" />
     <item component="ComponentInfo{com.groupon/.activity.TodaysDeal}" drawable="ic_groupon" />
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="ic_hulu" />
@@ -99,7 +105,8 @@
     <item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="ic_mc_donalds" />
     <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash}" drawable="ic_money_lover" />
     <item component="ComponentInfo{com.zhiliaoapp.musically/.activity.SplashActivity}" drawable="ic_musically" />
-    <!-- find out netflix com name -->
+    <!-- TODO find out netflix com name -->
+    <item component="ComponentInfo{com.gtp.nextlauncher.trial/com.gtp.nextlauncher.MainActivity}" drawable="ic_next_launcher" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/.preferences.SettingsActivity}" drawable="ic_nova" />
     <item component="ComponentInfo{com.pandora.android/.Main}" drawable="ic_pandora" />
     <item component="ComponentInfo{com.paypal.android.p2pmobile/.startup.activities.StartupActivity}" drawable="ic_paypal" />
@@ -110,6 +117,7 @@
     <item component="ComponentInfo{com.reddit.frontpage/.StartActivity}" drawable="ic_reddit_official_app" />
     <item component="ComponentInfo{com.shazam.android/.activities.SplashActivity}" drawable="ic_shazam" />
     <item component="ComponentInfo{com.skype.raider/.Main}" drawable="ic_skype" />
+    <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="ic_smart_launcher" />
     <item component="ComponentInfo{com.andrwq.recorder/.RecorderActivity}" drawable="ic_smart_recorder" />
     <item component="ComponentInfo{com.snapchat.android/.LandingPageActivity}" drawable="ic_snapchat" />
     <item component="ComponentInfo{com.soundcloud.android/.main.LauncherActivity}" drawable="ic_soundcloud" />
