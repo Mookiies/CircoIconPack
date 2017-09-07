@@ -99,6 +99,7 @@
     <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="ic_go_launcher" />
     <item component="ComponentInfo{com.groupme.android/.HomeActivity}" drawable="ic_groupme" />
     <item component="ComponentInfo{com.groupon/.activity.TodaysDeal}" drawable="ic_groupon" />
+    <item component="ComponentInfo{com.mobint.hololauncher/.Launcher}" drawable="ic_holo_launcher" />
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="ic_hulu" />
     <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="ic_instagram" />
     <item component="ComponentInfo{me.lyft.android/.ui.MainActivity}" drawable="ic_lyft" />
