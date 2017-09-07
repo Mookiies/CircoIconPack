@@ -20,4 +20,4 @@
 ## Supports multiple launchers
 
 ![](https://user-images.githubusercontent.com/22333355/30185498-c166688a-93ef-11e7-9ac2-56ad55c1f30a.png)
-![](https://user-images.githubusercontent.com/22333355/30185620-4192ab54-93f0-11e7-92e2-3ad864c006b7.png)
+
