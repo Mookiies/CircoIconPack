@@ -55,7 +55,6 @@ public class ApplyLauncherAdapter extends BaseAdapter
             holder = new ViewHolder();
             holder.title = (TextView) v.findViewById(R.id.title);
             holder.launcher_Image = (ImageView) v.findViewById(R.id.list_image);
-            holder.txtInstalled = (TextView) v.findViewById(R.id.txtInstalled);
 
             v.setTag(holder);
         }
@@ -128,19 +127,13 @@ public class ApplyLauncherAdapter extends BaseAdapter
         // Set installed status
         if(Utils.isPackageInstalled(packageName, context))
         {
-            holder.txtInstalled.setText(res.getString(R.string.installed));
-            holder.txtInstalled.setTextColor(res.getColor(R.color.icon_green));
             holder.launcher_Image.clearColorFilter();
         }
         else if (packageName.equals(res.getString(R.string.not_supported))) {
-            holder.txtInstalled.setText(res.getString(R.string.not_supported));
-            holder.txtInstalled.setTextColor(res.getColor(R.color.icon_red));
             holder.launcher_Image.setColorFilter(grayscaleFilter);
         }
         else
         {
-            holder.txtInstalled.setText(res.getString(R.string.not_installed));
-            holder.txtInstalled.setTextColor(res.getColor(R.color.icon_red));
             holder.launcher_Image.setColorFilter(grayscaleFilter);
         }
     }
@@ -164,6 +157,5 @@ public class ApplyLauncherAdapter extends BaseAdapter
     private class ViewHolder {
         public TextView title;
         public ImageView launcher_Image;
-        public TextView txtInstalled;
     }
 }
