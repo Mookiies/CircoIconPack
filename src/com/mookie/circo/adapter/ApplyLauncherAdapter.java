@@ -15,6 +15,9 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+/**
+ * Adapter to handle the launcher selections. Sets up all adapters in view and sets install status.
+ */
 public class ApplyLauncherAdapter extends BaseAdapter
 {
     private ColorMatrixColorFilter grayscaleFilter;
@@ -44,6 +47,10 @@ public class ApplyLauncherAdapter extends BaseAdapter
         this.grayscaleFilter = new ColorMatrixColorFilter(matrix);
     }
 
+    @Override
+    @SuppressWarnings( "deprecation" )
+    //deprecation warning suppressed because colors need to be accessed in this manner to allow for
+    //compatibility with the support.v4 library and fragment setup of the MainActivity
     public View getView(int position, View v, ViewGroup parent) {
         ViewHolder holder;
         int entry = gridItem.get(position);

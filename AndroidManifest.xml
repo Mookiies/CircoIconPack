@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.mookie.circo"
-      android:versionCode="1"
-      android:versionName="1.0">
+    package="com.mookie.circo"
+    android:versionCode="10"
+    android:versionName="1.0"
+    android:allowBackup="true">
+
+    <!-- Version code starting at 10 so going backwards is possible -->
 
     <supports-screens
         android:anyDensity="true"
@@ -14,7 +17,7 @@
 
     <application android:label="@string/app_name" android:icon="@drawable/ic_circo">
         <activity android:name="com.mookie.circo.MainActivity"
-                android:theme="@android:style/Theme.Holo.Light" >
+            android:theme="@android:style/Theme.Holo.Light" >
             <!-- Multiple intents are required for diffrent launchers to recognize
             the icon pack as theme and as option to pick icons -->
             <!-- Intent for Nova -->

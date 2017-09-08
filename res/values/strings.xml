@@ -51,4 +51,6 @@
     <bool name="enableIconPack">true</bool>
     <bool name="enableDockPack">false</bool>
     <string name="go_applied">Thanks for using Circo</string>
+
+    <string name="apply_success">Icons applied</string>
 </resources>

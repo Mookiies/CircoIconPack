@@ -1,7 +1,6 @@
 package com.mookie.circo.fragment;
 
 
-
 import android.content.ActivityNotFoundException;
 import android.content.ComponentName;
 import android.content.Intent;
@@ -16,6 +15,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 import android.widget.Toast;
 
+import com.mookie.circo.MainActivity;
 import com.mookie.circo.R;
 import com.mookie.circo.adapter.ApplyLauncherAdapter;
 
@@ -80,13 +80,9 @@ public class ApplyLauncherFragment extends Fragment {
                         apex.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         try {
                             startActivity(apex);
-
-                            Toast applied = Toast.makeText(getActivity().getBaseContext(),
-                                    getResources().getString(R.string.finish_apply),
-                                    Toast.LENGTH_LONG);
-                            applied.show();
                         } catch (ActivityNotFoundException e) {
                             Intent apexMarket = new Intent(Intent.ACTION_VIEW);
+
                             apexMarket.setData(Uri
                                     .parse(getResources().getString(R.string.launcher_apex_market)));
                             startActivity(apexMarket);
