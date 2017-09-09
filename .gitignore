@@ -40,3 +40,4 @@ IconVectors/ic_circo.ai
 build/
 gradle/
 local.properties
+/apkInfo/

@@ -214,7 +214,7 @@ public class ApplyLauncherFragment extends Fragment {
                     case ApplyLauncherAdapter.HOLO:
                         Intent holo = new Intent(Intent.ACTION_MAIN);
                         holo.setComponent(new ComponentName("com.mobint.hololauncher",
-                                "com.mobint.hololauncher.SettingsActivity"));
+                                "com.mobint.hololauncher.Launcher"));
 
                         try {
                             startActivity(holo);

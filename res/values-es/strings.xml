@@ -22,7 +22,7 @@
     <string name="app_description">Círculos coloridos simples</string>
     <string name="apply_icon_theme">Applicar tema</string>
     <string name="aviate_market">Aviate Launcher no esta instalado. Redireccionando al Play Store!</string>
-    <string name="back_button">" atrás"</string>
+    <string name="back_button">atrás</string>
     <string name="cancel">cancelar</string>
     <string name="close">cerrar</string>
     <string name="coming_soon">Viniendo pronto</string>
@@ -43,4 +43,5 @@
     <string name="al_market">Action Launcher no esta instalado. Redireccionando al Play Store!</string>
     <string name="adw_market">ADW Launcher no esta instalado. Redireccionando al Play Store!</string>
     <string name="finish_holo_apply">Vaya a configuración de la apariencia y selecionar Circo de la lista.</string>
+    <string name="apply_success">Iconos aplicados</string>
 </resources>

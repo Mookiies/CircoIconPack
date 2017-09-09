@@ -20,7 +20,7 @@
     <string name="app_name" translatable="false">Circo</string>
     <string name="apply_icon_theme" translatable="true">Apply Icon Theme</string>
     <string name="app_slogan" translatable="true">Stylish as always</string>
-    <string name="app_description">Clean simple colorful circles</string>
+    <string name="app_description" translatable="true">Clean simple colorful circles</string>
     <string name="icon" translatable="true">Icon</string>
 
     <!-- Edit these two strings to match your theme name -->
