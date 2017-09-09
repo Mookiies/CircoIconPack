@@ -18,8 +18,12 @@
 
 <resources>
 
+    <!-- TODO icons to add before next version
+     -folders
+     -app drawer icon-->
+
     <!-- Icons are sorted first by category, then by alphabetical order of the icon name (ie. ic_icon) -->
-    <!-- WARNING: to support all launchers activity name must also inclue the package -->
+    <!-- WARNING: to support all launchers activity name must also include the package -->
 
     <!-- Icons are themed by their activity component name and the drawable to replace it with.
          Some apps require multiple activity components in order to work with all launchers. -->
@@ -28,6 +32,7 @@
 
 
     <!-- Icon replacements for system apps -->
+    <!-- TODO find more comprehensive list for system apps across devices -->
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_calculator" />
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="ic_camera" />
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="ic_clock" />
@@ -35,6 +40,7 @@
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="ic_phone" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_settings" />
     <item component="ComponentInfo{com.google.android.apps.messaging/.ui.ConversationListActivity}" drawable="ic_sms" />
+
 
     <!-- Change for system contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="ic_contacts" />
@@ -61,11 +67,15 @@
     <item component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}" drawable="ic_contacts" />
     <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="ic_contacts" />
     <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="ic_contacts" />
-    <!-- System app to add
-    -music
-    -sms
-    -email
-    -browser-->
+
+
+    <!-- Replacements with Nova Launchers internal database of system apps -->
+    <item component=":PHONE" drawable="ic_phone" />
+    <item component=":SMS" drawable="ic_sms" />
+    <item component=":BROWSER" drawable="ic_browser" />
+    <item component=":CALENDAR" drawable="ic_calendar" />
+    <!-- <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_sms" /> -->
+    <!-- <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" drawable="ic_sms" /> -->
 
 
     <!-- Icon replacements for google apps -->
