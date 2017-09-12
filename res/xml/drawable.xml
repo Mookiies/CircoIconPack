@@ -21,6 +21,7 @@
     <!-- Specific categories first, then the the rest of all icons, striving for alphabetical
          order of app name. All apps should be listed here -->
 
+    <!-- Icons for system apps -->
     <category title="System" />
     <item drawable="ic_app_drawer" />
     <item drawable="ic_calculator" />
@@ -35,6 +36,7 @@
     <item drawable="ic_settings" />
 
 
+    <!-- Icons for google apps -->
     <category title="Google" />
     <item drawable="ic_allo" />
     <item drawable="ic_android_auto" />
@@ -72,6 +74,7 @@
     <item drawable="ic_youtube_studio" />
 
 
+    <!-- Color variations of icons -->
     <category title="Colors" />
     <item drawable="ic_app_drawer_blue" />
     <item drawable="ic_app_drawer_green" />
@@ -81,6 +84,7 @@
     <item drawable="ic_app_drawer_red" />
     <item drawable="ic_app_drawer_salmon" />
     <item drawable="ic_app_drawer_yellow" />
+
     <item drawable="ic_browser_green" />
     <item drawable="ic_browser_light_blue" />
     <item drawable="ic_browser_orange" />
@@ -89,22 +93,64 @@
     <item drawable="ic_browser_red" />
     <item drawable="ic_browser_salmon" />
     <item drawable="ic_browser_yellow" />
+
     <item drawable="ic_calendar_blue" />
     <item drawable="ic_calendar_green" />
+    <item drawable="ic_calendar_light_blue" />
+    <item drawable="ic_calendar_orange" />
+    <item drawable="ic_calendar_pink" />
     <item drawable="ic_calendar_red" />
+    <item drawable="ic_calendar_salmon" />
     <item drawable="ic_calendar_yellow" />
     <item drawable="ic_calendar_alt_blue" />
+
+    <item drawable="ic_camera_blue" />
+    <item drawable="ic_camera_green" />
+    <item drawable="ic_camera_light_blue" />
+    <item drawable="ic_camera_orange" />
+    <item drawable="ic_camera_pink" />
+    <item drawable="ic_camera_red" />
+    <item drawable="ic_camera_salmon" />
+    <item drawable="ic_camera_yellow" />
+
+    <item drawable="ic_clock_blue" />
+    <item drawable="ic_clock_green" />
+    <item drawable="ic_clock_light_blue" />
+    <item drawable="ic_clock_orange" />
+    <item drawable="ic_clock_pink" />
+    <item drawable="ic_clock_red" />
+    <item drawable="ic_clock_salmon" />
+    <item drawable="ic_clock_yellow" />
+
     <item drawable="ic_contacts" />
     <item drawable="ic_contacts_green" />
-    <item drawable="ic_contacts_purple" />
+    <item drawable="ic_contacts_light_blue" />
+    <item drawable="ic_contacts_orange" />
+    <item drawable="ic_contacts_pink" />
     <item drawable="ic_contacts_red" />
+    <item drawable="ic_contacts_salmon" />
     <item drawable="ic_contacts_yellow" />
+
+    <item drawable="ic_music_blue" />
+    <item drawable="ic_music_green" />
+    <item drawable="ic_music_light_blue" />
+    <item drawable="ic_music_orange" />
+    <item drawable="ic_music_pink" />
+    <item drawable="ic_music_red" />
+    <item drawable="ic_music_salmon" />
+    <item drawable="ic_music_yellow" />
+
     <item drawable="ic_phone_blue" />
     <item drawable="ic_phone_green" />
+    <item drawable="ic_phone_light_blue" />
+    <item drawable="ic_phone_orange" />
+    <item drawable="ic_phone_pink" />
     <item drawable="ic_phone_red" />
+    <item drawable="ic_phone_salmon" />
     <item drawable="ic_phone_yellow" />
 
 
+    <!-- All icons not fitting into above categories -->
     <category title="General" />
     <item drawable="ic_action_launcher" />
     <item drawable="ic_adw_launcher" />
