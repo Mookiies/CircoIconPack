@@ -1,3 +1,6 @@
 - fix sms not applying
 
+- light blue, salmon, pink, and orange color variants
+    - new icons with variants camera, music, app drawer
+
 - New Icons

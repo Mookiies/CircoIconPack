@@ -27,7 +27,9 @@
     <item drawable="ic_calendar_alt" />
     <item drawable="ic_camera" />
     <item drawable="ic_clock" />
+    <item drawable="ic_contacts_purple" />
     <item drawable="ic_downloads" />
+    <item drawable="ic_music" />
     <item drawable="ic_phone" />
     <item drawable="ic_settings" />
 
@@ -78,6 +80,7 @@
     <item drawable="ic_calendar_red" />
     <item drawable="ic_calendar_yellow" />
     <item drawable="ic_calendar_alt_blue" />
+    <item drawable="ic_contacts" />
     <item drawable="ic_contacts_green" />
     <item drawable="ic_contacts_purple" />
     <item drawable="ic_contacts_red" />
