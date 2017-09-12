@@ -21,9 +21,10 @@
     <!-- Specific categories first, then the the rest of all icons, striving for alphabetical
          order of app name. All apps should be listed here -->
 
-    <!-- Icons for system apps -->
+    <!-- Icons for system apps. All icons should be purple. Non purple default icons are: browser, contacts -->
     <category title="System" />
     <item drawable="ic_app_drawer" />
+    <item drawable="ic_browser_purple" />
     <item drawable="ic_calculator" />
     <item drawable="ic_calendar" />
     <item drawable="ic_calendar_alt" />
@@ -85,11 +86,11 @@
     <item drawable="ic_app_drawer_salmon" />
     <item drawable="ic_app_drawer_yellow" />
 
+    <item drawable="ic_browser" />
     <item drawable="ic_browser_green" />
     <item drawable="ic_browser_light_blue" />
     <item drawable="ic_browser_orange" />
     <item drawable="ic_browser_pink" />
-    <item drawable="ic_browser_purple" />
     <item drawable="ic_browser_red" />
     <item drawable="ic_browser_salmon" />
     <item drawable="ic_browser_yellow" />
@@ -102,7 +103,6 @@
     <item drawable="ic_calendar_red" />
     <item drawable="ic_calendar_salmon" />
     <item drawable="ic_calendar_yellow" />
-    <item drawable="ic_calendar_alt_blue" />
 
     <item drawable="ic_camera_blue" />
     <item drawable="ic_camera_green" />
@@ -175,7 +175,6 @@
     <item drawable="ic_holo_launcher" />
     <item drawable="ic_hulu" />
     <item drawable="ic_instagram" />
-    <item drawable="ic_instagram_alt" />
     <item drawable="ic_lyft" />
     <item drawable="ic_mc_donalds" />
     <item drawable="ic_money_lover" />
