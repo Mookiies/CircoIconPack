@@ -31,7 +31,8 @@
     <item component="ComponentInfo{com.mookie.circo/com.mookie.circo.MainActivity}" drawable="ic_circo" />
 
 
-    <!-- Icon replacements for system apps -->
+    <!-- Icon replacements for system apps
+         System apps require multiple names depending on device -->
     <!-- TODO find more comprehensive list for system apps across devices -->
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_calculator" />
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="ic_camera" />
