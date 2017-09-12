@@ -74,8 +74,8 @@
     <item component=":SMS" drawable="ic_sms" />
     <item component=":BROWSER" drawable="ic_browser" />
     <item component=":CALENDAR" drawable="ic_calendar" />
-    <!-- <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_sms" /> -->
-    <!-- <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" drawable="ic_sms" /> -->
+    <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_app_drawer_" />
+    <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" drawable="ic_app_drawer" />
 
 
     <!-- Icon replacements for google apps -->
