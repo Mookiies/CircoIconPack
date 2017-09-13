@@ -8,3 +8,4 @@
 - hbo now
 - superSU
 - NYTimes
+- adaway
