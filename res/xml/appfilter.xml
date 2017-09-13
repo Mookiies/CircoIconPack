@@ -120,6 +120,7 @@
 
     <!-- General applications -->
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="ic_action_launcher" />
+    <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="ic_adaway" />
     <item component="ComponentInfo{org.adw.launcher/org.adw.launcher.LauncherActivity}" drawable="ic_adw_launcher" />
     <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="ic_amazon_kindle" />
     <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="ic_amazon_music" />
@@ -138,6 +139,7 @@
     <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="ic_go_launcher" />
     <item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="ic_groupme" />
     <item component="ComponentInfo{com.groupon/com.groupon.activity.TodaysDeal}" drawable="ic_groupon" />
+    <item component="ComponentInfo{com.hbo.hbonow/com.hbo.hbonow.splash.SplashActivity}" drawable="ic_hbo_now" />
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="ic_holo_launcher" />
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="ic_hulu" />
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="ic_instagram" />
@@ -148,6 +150,7 @@
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="ic_netflix" />
     <item component="ComponentInfo{com.gtp.nextlauncher.trial/com.gtp.nextlauncher.MainActivity}" drawable="ic_next_launcher" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="ic_nova" />
+    <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="ic_nytimes" />
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="ic_pandora" />
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="ic_paypal" />
     <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="ic_pintrest" />
@@ -164,6 +167,7 @@
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="ic_soundcloud" />
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="ic_soundhound" />
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="ic_spotify" />
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="ic_super_su" />
     <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="ic_target" />
     <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="ic_textra" />
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="ic_tinder" />

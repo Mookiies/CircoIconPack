@@ -1,6 +1,10 @@
 - fix sms not applying
 
 - light blue, salmon, pink, and orange color variants
-    - new icons with variants camera, music, app drawer
+    - new icons with variants camera, music, app drawer, folders
 
 - New Icons
+- generic folder
+- hbo now
+- superSU
+- NYTimes
