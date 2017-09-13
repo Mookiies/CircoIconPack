@@ -18,10 +18,6 @@
 
 <resources>
 
-    <!-- TODO icons to add before next version
-     -folders
-     -app drawer icon-->
-
     <!-- Icons are sorted first by category, then by alphabetical order of the icon name (ie. ic_icon) -->
     <!-- WARNING: to support all launchers activity name must also include the package -->
 
