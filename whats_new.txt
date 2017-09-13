@@ -1,11 +1,19 @@
+WHAT'S NEW (for helping write play store desc.)
+
+Version 1.1
+------------------------------------------------------------------------
 - fix sms not applying
 
 - light blue, salmon, pink, and orange color variants
     - new icons with variants camera, music, app drawer, folders
 
-- New Icons
+- New Icons:
 - generic folder
 - hbo now
 - superSU
 - NYTimes
 - adaway
+- youtube gaming
+
+Version 1.2
+------------------------------------------------------------------------
