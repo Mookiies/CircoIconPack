@@ -150,6 +150,21 @@
     <item drawable="ic_phone_yellow" />
 
 
+    <!-- Folder icons -->
+    <!-- TODO make folders with icons inside for different purpses -->
+    <category title="Folders" />
+    <item drawable="ic_folder_dark" />
+    <item drawable="ic_folder_blue" />
+    <item drawable="ic_folder_green" />
+    <item drawable="ic_folder_light_blue" />
+    <item drawable="ic_folder_orange" />
+    <item drawable="ic_folder_pink" />
+    <item drawable="ic_folder_purple" />
+    <item drawable="ic_folder_red" />
+    <item drawable="ic_folder_salmon" />
+    <item drawable="ic_folder_yellow" />
+
+
     <!-- All icons not fitting into above categories -->
     <category title="General" />
     <item drawable="ic_action_launcher" />
