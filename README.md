@@ -17,7 +17,14 @@
 ![](https://github.com/MalcolmScruggs/ColorCircleIconPack/blob/master/res/drawable-xxxhdpi/ic_snapchat.png)
 
 
+![home_preview](https://user-images.githubusercontent.com/22333355/30243861-585941a4-9580-11e7-9d54-65f3fd5e4d28.jpg) ![home_preview2](https://user-images.githubusercontent.com/22333355/30243862-5c68965a-9580-11e7-9bed-1914de95b1f0.jpg) 
+
+
 ## Supports multiple launchers
 
 ![](https://user-images.githubusercontent.com/22333355/30185498-c166688a-93ef-11e7-9ac2-56ad55c1f30a.png)
 
+
+### Languages
+- English
+- Spanish
