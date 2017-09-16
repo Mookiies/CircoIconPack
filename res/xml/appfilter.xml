@@ -122,6 +122,7 @@
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="ic_action_launcher" />
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="ic_adaway" />
     <item component="ComponentInfo{org.adw.launcher/org.adw.launcher.LauncherActivity}" drawable="ic_adw_launcher" />
+    <item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Launcher}" drawable="ic_amazon_appstore" />
     <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="ic_amazon_kindle" />
     <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="ic_amazon_music" />
     <item component="ComponentInfo{com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity}" drawable="ic_amazon_prime_photos" />
