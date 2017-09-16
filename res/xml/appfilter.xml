@@ -127,7 +127,7 @@
     <item component="ComponentInfo{com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity}" drawable="ic_amazon_prime_photos" />
     <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="ic_amazon_prime_video" />
     <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
-    <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" /> <!-- TODO make dedicated icon -->
+    <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
     <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="ic_audible" />
     <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" />
