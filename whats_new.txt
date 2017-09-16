@@ -17,3 +17,11 @@ Version 1.1
 
 Version 1.2
 ------------------------------------------------------------------------
+
+
+
+New Icons:
+- flipboard
+- linkedin
+- microsoft excel, onedrive, oneone, outlook, powerpoint, word
+- poweramp
