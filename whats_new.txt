@@ -17,10 +17,10 @@ Version 1.1
 
 Version 1.2
 ------------------------------------------------------------------------
-
 - both Amazon apps use shopping icon (underground and shopping from play)
 
-New Icons: (14)
+New Icons: (15)
+- amazon appstore
 - cnn
 - ebay
 - espn
@@ -30,3 +30,7 @@ New Icons: (14)
 - poweramp
 - tunein radio
 - wolfram alpha
+
+
+Version 1.3
+------------------------------------------------------------------------
