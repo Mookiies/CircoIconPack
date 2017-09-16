@@ -18,10 +18,15 @@ Version 1.1
 Version 1.2
 ------------------------------------------------------------------------
 
-
+- amazon underground now uses amazon shopping icon
 
 New Icons:
+- cnn
+- ebay
+- espn
 - flipboard
 - linkedin
 - microsoft excel, onedrive, oneone, outlook, powerpoint, word
 - poweramp
+- tunein radio
+- wolfram alpha

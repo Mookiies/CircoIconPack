@@ -172,7 +172,7 @@
     <item drawable="ic_adaway" />
     <item drawable="ic_adw_launcher" />
     <item drawable="ic_amazon_kindle" />
-    <item drawable="ic_amazon_music" />
+    <item drawable="ic_amazon_music" /> <!-- TODO make undergournd and appstore icons (android w/ swoosh for appstore)-->
     <item drawable="ic_amazon_music_alt" />
     <item drawable="ic_amazon_prime_photos" />
     <item drawable="ic_amazon_prime_video" />
@@ -182,10 +182,13 @@
     <item drawable="ic_aviate_launcher" />
     <item drawable="ic_bitmoji" />
     <item drawable="ic_cash" />
-    <item drawable="ic_color_circle" />
+    <item drawable="ic_cnn" />
     <item drawable="ic_dropbox" />
+    <item drawable="ic_ebay" />
+    <item drawable="ic_espn" />
     <item drawable="ic_facebook" />
     <item drawable="ic_facebook_messenger" />
+    <item drawable="ic_flipboard" />
     <item drawable="ic_go_launcher" />
     <item drawable="ic_groupme" />
     <item drawable="ic_groupon" />
@@ -193,8 +196,15 @@
     <item drawable="ic_holo_launcher" />
     <item drawable="ic_hulu" />
     <item drawable="ic_instagram" />
+    <item drawable="ic_linkedin" />
     <item drawable="ic_lyft" />
     <item drawable="ic_mc_donalds" />
+    <item drawable="ic_microsoft_excel" />
+    <item drawable="ic_microsoft_onedrive" />
+    <item drawable="ic_microsoft_onenote" />
+    <item drawable="ic_microsoft_outlook" />
+    <item drawable="ic_microsoft_powerpoint" />
+    <item drawable="ic_microsoft_word" />
     <item drawable="ic_money_lover" />
     <item drawable="ic_musically" />
     <item drawable="ic_netflix" />
@@ -205,6 +215,7 @@
     <item drawable="ic_paypal" />
     <item drawable="ic_pintrest" />
     <item drawable="ic_pocket_cast" />
+    <item drawable="ic_poweramp" />
     <item drawable="ic_reddit" />
     <item drawable="ic_reddit_alt" />
     <item drawable="ic_reddit_official_app" />
@@ -221,12 +232,14 @@
     <item drawable="ic_textra" />
     <item drawable="ic_tinder" />
     <item drawable="ic_tumblr" />
+    <item drawable="ic_tunein_radio" />
     <item drawable="ic_twitter" />
     <item drawable="ic_uber" />
     <item drawable="ic_venmo" />
     <item drawable="ic_walmart" />
     <item drawable="ic_waze" />
     <item drawable="ic_whatsapp" />
+    <item drawable="ic_wolfram_alpha" />
     <item drawable="ic_yahoo_mail" />
 
 </resources>
