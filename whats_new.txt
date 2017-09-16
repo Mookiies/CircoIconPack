@@ -20,7 +20,7 @@ Version 1.2
 
 - amazon underground now uses amazon shopping icon
 
-New Icons:
+New Icons: (14)
 - cnn
 - ebay
 - espn
