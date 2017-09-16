@@ -173,7 +173,7 @@
     <item drawable="ic_adw_launcher" />
     <item drawable="ic_amazon_appstore" />
     <item drawable="ic_amazon_kindle" />
-    <item drawable="ic_amazon_music" /> <!-- TODO make undergournd and appstore icons (android w/ swoosh for appstore)-->
+    <item drawable="ic_amazon_music" />
     <item drawable="ic_amazon_music_alt" />
     <item drawable="ic_amazon_prime_photos" />
     <item drawable="ic_amazon_prime_video" />
