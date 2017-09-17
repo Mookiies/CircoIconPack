@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mookie.circo"
     android:versionCode="14"
-    android:versionName="1.3"
+    android:versionName="1.3.0"
     android:allowBackup="true">
 
     <!-- Version code starting at 10 so going backwards is possible -->

@@ -32,5 +32,6 @@ New Icons: (15)
 - wolfram alpha
 
 
-Version 1.3
+Version 1.3.0
 ------------------------------------------------------------------------
+- switch to semantic versioning: http://semver.org/
