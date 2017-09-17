@@ -41,3 +41,4 @@ build/
 gradle/
 local.properties
 /apkInfo/
+/.idea/
