@@ -178,12 +178,14 @@
     <item drawable="ic_amazon_prime_photos" />
     <item drawable="ic_amazon_prime_video" />
     <item drawable="ic_amazon_shopping" />
+    <item drawable="ic_amtrack" />
     <item drawable="ic_apex_launcher" />
     <item drawable="ic_audible" />
     <item drawable="ic_aviate_launcher" />
     <item drawable="ic_bitmoji" />
     <item drawable="ic_cash" />
     <item drawable="ic_cnn" />
+    <item drawable="ic_discord" />
     <item drawable="ic_dropbox" />
     <item drawable="ic_ebay" />
     <item drawable="ic_espn" />
