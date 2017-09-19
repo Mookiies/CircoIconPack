@@ -191,6 +191,8 @@
     <item component="ComponentInfo{tunein.player/tunein.ui.actvities.TuneInHomeActivity}" drawable="ic_tunein_radio" />
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="ic_twitter" />
     <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="ic_uber" />
+    <item component="ComponentInfo{com.ubercab.driver/com.ubercab.driver.feature.launch.LauncherActivity}" drawable="ic_uber_driver" />
+    <item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity}" drawable="ic_uber_eats" />
     <item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="ic_venmo" />
     <item component="ComponentInfo{com.walmart.android/com.walmart.android.app.main.MainActivity}" drawable="ic_walmart" />
     <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="ic_waze" />

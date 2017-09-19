@@ -236,6 +236,8 @@
     <item drawable="ic_tunein_radio" />
     <item drawable="ic_twitter" />
     <item drawable="ic_uber" />
+    <item drawable="ic_uber_driver" />
+    <item drawable="ic_uber_eats" />
     <item drawable="ic_venmo" />
     <item drawable="ic_walmart" />
     <item drawable="ic_waze" />
