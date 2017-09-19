@@ -236,6 +236,8 @@
     <item drawable="ic_tinder" />
     <item drawable="ic_tumblr" />
     <item drawable="ic_tunein_radio" />
+    <item drawable="ic_twitch" />
+    <item drawable="ic_twitch_messenger" />
     <item drawable="ic_twitter" />
     <item drawable="ic_uber" />
     <item drawable="ic_uber_driver" />

@@ -131,7 +131,7 @@
     <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="ic_amazon_prime_video" />
     <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
     <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
-    <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="amtrack" />
+    <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
     <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="ic_audible" />
     <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" />
@@ -191,6 +191,8 @@
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="ic_tinder" />
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="ic_tumblr" />
     <item component="ComponentInfo{tunein.player/tunein.ui.actvities.TuneInHomeActivity}" drawable="ic_tunein_radio" />
+    <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="ic_twitch" />
+    <item component="ComponentInfo{com.curse.highwind/com.curse.highwind.MainActivity}" drawable="ic_twitch_messenger" />
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="ic_twitter" />
     <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="ic_uber" />
     <item component="ComponentInfo{com.ubercab.driver/com.ubercab.driver.feature.launch.LauncherActivity}" drawable="ic_uber_driver" />
