@@ -15,9 +15,9 @@ public class Utils
      * Checks to see if the specified package is installed.<br>
      * Return true if it is or false if it's not installed.
      *
-     * @param packageName
-     * @param context
-     * @return
+     * @param packageName name of package to look for
+     * @param context Context used with PackageManager to check for specified package
+     * @return true if specified package is installed
      */
     public static boolean isPackageInstalled(String packageName, Context context)
     {
