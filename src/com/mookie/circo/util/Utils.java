@@ -6,8 +6,7 @@ import android.content.pm.PackageManager;
 
 
 /**
- * This class miscellaneous convenience methods.
- * They may be random utils you use throughout your app multiple times.
+ * Class for miscellaneous convenience methods.
  */
 public class Utils
 {
