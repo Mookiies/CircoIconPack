@@ -172,11 +172,13 @@
     <item drawable="ic_adaway" />
     <item drawable="ic_adw_launcher" />
     <item drawable="ic_amazon_appstore" />
+    <item drawable="ic_amazon_drive" />
     <item drawable="ic_amazon_kindle" />
     <item drawable="ic_amazon_music" />
     <item drawable="ic_amazon_music_alt" />
     <item drawable="ic_amazon_prime_photos" />
     <item drawable="ic_amazon_prime_video" />
+    <item drawable="ic_amazon_seller" />
     <item drawable="ic_amazon_shopping" />
     <item drawable="ic_amtrack" />
     <item drawable="ic_apex_launcher" />

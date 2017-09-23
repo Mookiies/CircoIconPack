@@ -44,3 +44,5 @@ New Icons:
 - discord
 - twitch
 - twitch messenger
+- amazon drive
+- amazons seller
