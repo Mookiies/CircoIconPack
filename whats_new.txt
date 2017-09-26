@@ -36,6 +36,7 @@ Version 1.3.0
 ------------------------------------------------------------------------
 - switch to semantic versioning: http://semver.org/
 - change blue color
+- update targer version and build versions to 25 (need to migrate to adapt for oreo)
 
 New Icons:
 - uber eats
