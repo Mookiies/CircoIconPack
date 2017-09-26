@@ -47,6 +47,8 @@
     <item drawable="ic_chrome_beta" />
     <item drawable="ic_chrome_dev" />
     <item drawable="ic_duo" />
+    <item drawable="ic_gmail" />
+    <item drawable="ic_google_adsense" />
     <item drawable="ic_google_app" />
     <item drawable="ic_google_books" />
     <item drawable="ic_google_calendar" />
