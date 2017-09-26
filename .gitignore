@@ -34,7 +34,6 @@ hs_err_pid*
 .idea/vcs.xml
 .idea/workspace.xml
 GithubExample.iml
-IconVectors/ic_circo.ai
 build/
 gradle/
 local.properties
