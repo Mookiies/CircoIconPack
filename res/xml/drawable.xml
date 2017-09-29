@@ -45,6 +45,7 @@
     <item drawable="ic_android_wear" />
     <item drawable="ic_chrome" />
     <item drawable="ic_chrome_beta" />
+    <item drawable="ic_chrome_canary" />
     <item drawable="ic_chrome_dev" />
     <item drawable="ic_duo" />
     <item drawable="ic_gmail" />
