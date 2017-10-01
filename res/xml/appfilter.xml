@@ -90,7 +90,7 @@
     <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="ic_chrome_canary" />
     <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="ic_chrome_dev" />
     <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="ic_duo" />
-    <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="ic_inbox" />
+    <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="ic_find_my_device" />
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="ic_gmail" />
     <item component="ComponentInfo{com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.BaseActivity}" drawable="ic_google_adsense" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="ic_google_app" />
@@ -115,6 +115,7 @@
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="ic_google_translate" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="ic_google_voice_search" />
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
+    <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="ic_inbox" />
     <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="ic_my_maps" />
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="ic_youtube" />
     <item component="ComponentInfo{com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity}" drawable="ic_youtube_gaming" />
@@ -149,6 +150,7 @@
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="ic_facebook" />
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="ic_facebook_messenger" />
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="ic_flipboard" />
+    <item component="ComponentInfo{com.glassdoor.app/com.glassdoor.gdandroid2.activities.LaunchActivity}" drawable="ic_glassdoor" />
     <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="ic_go_launcher" />
     <item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="ic_groupme" />
     <item component="ComponentInfo{com.groupon/com.groupon.activity.TodaysDeal}" drawable="ic_groupon" />

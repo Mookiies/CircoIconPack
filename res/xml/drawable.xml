@@ -48,6 +48,7 @@
     <item drawable="ic_chrome_canary" />
     <item drawable="ic_chrome_dev" />
     <item drawable="ic_duo" />
+    <item drawable="ic_find_my_device" />
     <item drawable="ic_gmail" />
     <item drawable="ic_google_adsense" />
     <item drawable="ic_google_app" />
@@ -198,6 +199,7 @@
     <item drawable="ic_facebook" />
     <item drawable="ic_facebook_messenger" />
     <item drawable="ic_flipboard" />
+    <item drawable="ic_glassdoor" />
     <item drawable="ic_go_launcher" />
     <item drawable="ic_groupme" />
     <item drawable="ic_groupon" />
