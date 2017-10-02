@@ -259,7 +259,7 @@
     <item drawable="ic_waze" />
     <item drawable="ic_whatsapp" />
     <item drawable="ic_wolfram_alpha" />
-    <item drawable="ic_xfinity_streamTV" />
+    <item drawable="ic_xfinity_stream_tv" />
     <item drawable="ic_yahoo_mail" />
 
 </resources>
