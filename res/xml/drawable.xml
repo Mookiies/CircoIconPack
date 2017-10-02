@@ -21,7 +21,6 @@
     <!-- Specific categories first, then the the rest of all icons, striving for alphabetical
          order of app name. All apps should be listed here -->
 
-    <!-- TODO test ultiamte ears and steam -->
 
     <!-- Icons for system apps. All icons should be purple. Non purple default icons are: browser, contacts -->
     <category title="System" />
