@@ -196,6 +196,7 @@
     <item drawable="ic_discord" />
     <item drawable="ic_dropbox" />
     <item drawable="ic_ebay" />
+    <item drawable="ic_es_file_explorer" />
     <item drawable="ic_espn" />
     <item drawable="ic_facebook" />
     <item drawable="ic_facebook_messenger" />
@@ -208,6 +209,7 @@
     <item drawable="ic_holo_launcher" />
     <item drawable="ic_hulu" />
     <item drawable="ic_instagram" />
+    <item drawable="ic_lastpass" />
     <item drawable="ic_linkedin" />
     <item drawable="ic_lyft" />
     <item drawable="ic_mc_donalds" />
@@ -243,6 +245,7 @@
     <item drawable="ic_super_su" />
     <item drawable="ic_target" />
     <item drawable="ic_textra" />
+    <item drawable="ic_thescore_esports" />
     <item drawable="ic_tinder" />
     <item drawable="ic_tumblr" />
     <item drawable="ic_tunein_radio" />
