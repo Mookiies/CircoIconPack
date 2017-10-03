@@ -61,3 +61,6 @@ New Icons:
 - inbox by google
 - glassdoor
 - google find my device
+- the score esports
+- es file explorer
+- last pass
