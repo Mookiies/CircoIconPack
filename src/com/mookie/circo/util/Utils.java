@@ -7,6 +7,8 @@ import android.content.pm.PackageManager;
 
 /**
  * Class for miscellaneous convenience methods.
+ *
+ * @author mgscr
  */
 public class Utils
 {

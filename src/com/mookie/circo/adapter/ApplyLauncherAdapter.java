@@ -17,6 +17,9 @@ import android.widget.TextView;
 
 /**
  * Adapter to handle the launcher selections. Sets up all adapters in view and sets install status.
+ *
+ * @author mgscr
+ * @see android.widget.BaseAdapter
  */
 public class ApplyLauncherAdapter extends BaseAdapter
 {
