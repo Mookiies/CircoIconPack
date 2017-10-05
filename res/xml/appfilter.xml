@@ -42,13 +42,14 @@
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="ic_phone" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_settings" />
 
-    <!-- Chane for system messaging-->
+    <!-- Change for system browser-->
+    <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.alias.AZBrowserActivity}" drawable="ic_browser" /> <!-- Changes Aviate's internal browser-->
+
+    <!-- Change for system messaging-->
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversationlist.ConversationListActivity}" drawable="ic_sms" />
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversation.LaunchConversationActivity}" drawable="ic_sms" />
-
-
 
     <!-- Change for system contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="ic_contacts" />
@@ -153,6 +154,9 @@
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
     <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="ic_audible" />
     <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" />
+    <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.MainActivity}" drawable="ic_aviate_launcher" />
+    <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingStartActivity}" drawable="ic_aviate_launcher" />
+    <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingSearchActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="ic_bitmoji" />
     <item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="ic_cash" />
     <item component="ComponentInfo{com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.features.splash.SplashActivity}" drawable="ic_cnn" />
