@@ -161,6 +161,7 @@
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="ic_facebook_messenger" />
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="ic_flipboard" />
     <item component="ComponentInfo{com.glassdoor.app/com.glassdoor.gdandroid2.activities.LaunchActivity}" drawable="ic_glassdoor" />
+    <item component="ComponentInfo{com.glassdoor.app/com.dropbox.client2.android.AuthActivity}" drawable="ic_glassdoor" />
     <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="ic_go_launcher" />
     <item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="ic_groupme" />
     <item component="ComponentInfo{com.groupon/com.groupon.activity.TodaysDeal}" drawable="ic_groupon" />
