@@ -41,7 +41,13 @@
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="ic_downloads" />
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="ic_phone" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_settings" />
-    <item component="ComponentInfo{com.google.android.apps.messaging/.ui.ConversationListActivity}" drawable="ic_sms" />
+
+    <!-- Chane for system messaging-->
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversationlist.ConversationListActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversation.LaunchConversationActivity}" drawable="ic_sms" />
+
 
 
     <!-- Change for system contacts -->

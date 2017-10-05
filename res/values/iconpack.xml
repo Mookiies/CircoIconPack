@@ -18,6 +18,7 @@
 
 <resources>
     <string-array name="icon_pack" translatable="false">
-        <item>ic_allo</item>
+        <!-- Offers similar functionality compared to drawable.xml but specifically for
+        Apex Launcher-->
     </string-array>
 </resources>
