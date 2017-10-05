@@ -134,6 +134,10 @@
 
     <!-- General applications -->
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="ic_action_launcher" />
+    <item component="ComponentInfo{com.actionlauncher.playstore/com.android.launcher3.WallpaperPickerActivity}" drawable="ic_action_launcher" />
+    <item component="ComponentInfo{com.actionlauncher.playstore/com.android.launcher3.WallpaperCropActivity}" drawable="ic_action_launcher" />
+    <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.SettingsRootActivity}" drawable="ic_action_launcher" />
+    <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.rocket.app.ActivityPicker}" drawable="ic_action_launcher" />
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="ic_adaway" />
     <item component="ComponentInfo{org.adw.launcher/org.adw.launcher.LauncherActivity}" drawable="ic_adw_launcher" />
     <item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Launcher}" drawable="ic_amazon_appstore" />
