@@ -153,7 +153,7 @@
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
     <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="ic_audible" />
-    <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" />
+    <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" /> <!-- TODO make icon for Aviate sotre -->
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.MainActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingStartActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingSearchActivity}" drawable="ic_aviate_launcher" />

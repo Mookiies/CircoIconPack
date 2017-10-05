@@ -52,6 +52,8 @@ Version 1.3.1
 ------------------------------------------------------------------------
 (change to 1.4 if build version changes)
 
+- improve support for Aviate, Action, Holo, Smart launcher
+
 New Icons:
 - ultimate ears boom
 - steam
