@@ -22,7 +22,7 @@
          order of app name. All apps should be listed here -->
 
 
-    <!-- Icons for system apps. All icons should be purple. Non purple default icons are: browser, contacts -->
+    <!-- Icons for system apps. All icons should be purple. Non purple default icons are: browser, contacts  -->
     <category title="System" />
     <item drawable="ic_app_drawer" />
     <item drawable="ic_browser_purple" />
