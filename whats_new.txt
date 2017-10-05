@@ -64,3 +64,4 @@ New Icons:
 - the score esports
 - es file explorer
 - last pass
+- google home
