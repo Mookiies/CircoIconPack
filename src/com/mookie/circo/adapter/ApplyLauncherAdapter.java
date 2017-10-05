@@ -38,6 +38,7 @@ public class ApplyLauncherAdapter extends BaseAdapter
     public static final int NEXT = 6;
     public static final int GO = 7;
     public static final int HOLO = 8;
+    public static final int ATOM = 9;
     //TODO add support for ATOM Launcher
     //TODO add support for KK Launcher
     //TODO add support for LG Launcher
@@ -141,6 +142,11 @@ public class ApplyLauncherAdapter extends BaseAdapter
                 holder.title.setTextColor(res.getColor(R.color.white));
                 holder.launcher_Image.setImageResource(R.mipmap.holo_banner);
                 break;
+            case ATOM:
+                holder.title.setText(res.getString(R.string.launcher_atom));
+                setInstalledStatus(holder, res.getString(R.string.launcher_atom_package));
+                holder.title.setTextColor(res.getColor(R.color.white));
+                holder.launcher_Image.setImageResource(R.mipmap.atom_banner);
         }
 
         return v;

@@ -55,6 +55,7 @@ public class ApplyLauncherFragment extends Fragment {
         applyLauncher.add(ApplyLauncherAdapter.NEXT);
         applyLauncher.add(ApplyLauncherAdapter.GO);
         applyLauncher.add(ApplyLauncherAdapter.HOLO);
+        applyLauncher.add(ApplyLauncherAdapter.ATOM);
 
         ApplyLauncherAdapter adapter = new ApplyLauncherAdapter(getActivity(),
                 applyLauncher);
@@ -72,6 +73,7 @@ public class ApplyLauncherFragment extends Fragment {
                 final String APEX_EXTRA_PACKAGE_NAME = "com.anddoes.launcher.THEME_PACKAGE_NAME";
                 final String AVIATE_ACTION_SET_THEME = "com.tul.aviate.SET_THEME";
                 final String AVIATE_EXTRA_PACKAGE_NAME = "THEME_PACKAGE";
+//                final String AVIATE_EXTRA_PACKAGE_NAME = "";
 
                 switch (position) {
                     case ApplyLauncherAdapter.APEX:
@@ -235,6 +237,28 @@ public class ApplyLauncherFragment extends Fragment {
                                             getResources().getString(R.string.holo_market),
                                             Toast.LENGTH_SHORT);
                             failedHolo.show();
+                        }
+                        break;
+                    case ApplyLauncherAdapter.ATOM:
+                        Intent atom = new Intent("com.dlto.atom.launcher.intent.action.ACTION_VIEW_THEME_SETTINGS");
+                        atom.setComponent(new ComponentName("com.dlto.atom.launcher",
+                                "com.nemustech.theme.ThemeIconSetting"));
+                        atom.setPackage("com.dlto.atom.launcher");
+                        atom.putExtra("packageName", getActivity().getPackageName());
+//                        atom.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        try {
+                            startActivity(atom);
+                        } catch (ActivityNotFoundException e) {
+                            Intent atomMarket = new Intent(Intent.ACTION_VIEW);
+                            atomMarket.setData(Uri.
+                                    parse(getResources().getString(R.string.launcher_atom_market)));
+                            startActivity(atomMarket);
+                            Toast failedAtom = Toast
+                                    .makeText(
+                                            getActivity().getBaseContext(),
+                                            getResources().getString(R.string.atom_market),
+                                            Toast.LENGTH_SHORT);
+                            failedAtom.show();
                         }
                         break;
                 }

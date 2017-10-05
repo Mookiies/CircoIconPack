@@ -42,6 +42,7 @@
   	<string name="launcher_next" translatable="false">Next</string>
   	<string name="launcher_go" translatable="false">Go</string>
   	<string name="launcher_holo" translatable="false">Holo</string>
+    <string name="launcher_atom" translatable="false">Atom</string>
   	<!-- LAUNCHER PACKAGE NAMES -->
   	<string name="launcher_apex_package" translatable="false">com.anddoes.launcher</string>
   	<string name="launcher_nova_package" translatable="false">com.teslacoilsw.launcher</string>
@@ -52,6 +53,7 @@
   	<string name="launcher_next_package" translatable="false">com.gtp.nextlauncher</string>
   	<string name="launcher_go_package" translatable="false">com.gau.go.launcherex</string>
   	<string name="launcher_holo_package" translatable="false">com.mobint.hololauncher</string>
+	<string name="launcher_atom_package" translatable="false">com.dlto.atom.launcher</string>
   	<!-- LAUNCHER MARKET URL -->
   	<string name="launcher_apex_market" translatable="false">market://details?id=com.anddoes.launcher</string>
   	<string name="launcher_nova_market" translatable="false">market://details?id=com.teslacoilsw.launcher</string>
@@ -62,6 +64,7 @@
   	<string name="launcher_next_market" translatable="false">market://details?id=com.gtp.nextlauncher</string>
   	<string name="launcher_go_market" translatable="false">market://details?id=com.gau.go.launcherex</string>
   	<string name="launcher_holo_market" translatable="false">market://details?id=com.mobint.hololauncher</string>
+    <string name="launcher_atom_market" translatable="false">market://details?id=com.dlto.atom.launcher</string>
     <!-- APPLIED TOAST MESSAGES -->
 	<string name="finish_holo_apply" translatable="true">Go To Appearance settings -> Icon Packs and select this theme from the list.</string>
 	<string name="finish_apply" translatable="true">Select your options and press Apply to finalize!</string>
@@ -74,6 +77,7 @@
 	<string name="next_market" translatable="true">Next Launcher is not installed on your device. Redirecting to the Play Store!</string>
 	<string name="go_market" translatable="true">Go Launcher is not installed on your device. Redirecting to the Play Store!</string>
 	<string name="holo_market" translatable="true">Holo Launcher is not installed on your device. Redirecting to the Play Store!</string>
+    <string name="atom_market" translatable="true">Atom Launcher is not installed on your device. Redirecting to the Play Store!</string>
 	<string name="not_supported" translatable="true">Not Supported</string>
 	<string name="coming_soon" translatable="true">Coming soon!</string>
 

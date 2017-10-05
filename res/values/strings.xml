@@ -49,8 +49,10 @@
     <!-- Go Launcher stuff -->
     <string name="theme_title" translatable="false">@string/app_name</string>
     <bool name="enableIconPack">true</bool>
-    <bool name="enableDockPack">false</bool>
+    <bool name="enableDockPack">true</bool>
     <string name="go_applied">Thanks for using Circo</string>
+
+
 
     <string name="apply_success">Icons applied</string>
 </resources>

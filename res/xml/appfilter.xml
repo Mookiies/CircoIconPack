@@ -22,7 +22,7 @@
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
 
     <!-- TODO figure out themeing smart launcher system icons-->
-
+    <!-- TODO add activities for atom launcher-->
     <!-- Icons are sorted first by category, then by alphabetical order of the icon name (ie. ic_icon) -->
     <!-- WARNING: to support all launchers activity name must also include the package -->
 

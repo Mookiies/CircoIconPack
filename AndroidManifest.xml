@@ -51,11 +51,18 @@
                 <category android:name="com.fede.launcher.THEME_ICONPACK" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+
+            <!-- Intents for adw-->
             <intent-filter>
                 <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
                 <action android:name="mobi.bbase.ahome.THEME" />
                 <action android:name="com.rogro.GDE.THEME.1" />
                 <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- Intent for Atom -->
+            <intent-filter>
+                <action android:name="com.dlto.atom.launcher.THEME" />
             </intent-filter>
         </activity>
     </application>

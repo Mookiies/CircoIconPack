@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Atom -->
+    <bool name="manager_atom">true</bool>
+
+</resources>
