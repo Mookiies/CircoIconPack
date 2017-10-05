@@ -35,6 +35,20 @@ public class ApplyLauncherAdapter extends BaseAdapter
     public static final int NEXT = 6;
     public static final int GO = 7;
     public static final int HOLO = 8;
+    //TODO add support for ATOM Launcher
+    //TODO add support for KK Launcher
+    //TODO add support for LG Launcher
+    //TODO add support for SOLO Launcher
+    //TODO add support for CMTE Launcher
+    //TODO add support for Inspite Launcher
+    //TODO add support for Lucid Launcher (PRO)
+    //TODO add support for Solo Launcher
+    //TODO add support for Themer
+    //TODO add support for Unicon
+    //TODO add support for TSF Launcher 3D
+    //TODO add support for Nine Launcher (PRO)
+    //TODO add support for Everything.me
+    //TODO add support for Cyanogen
 
     public ApplyLauncherAdapter(Context context, List<Integer> gridItem) {
         this.gridItem = gridItem;
