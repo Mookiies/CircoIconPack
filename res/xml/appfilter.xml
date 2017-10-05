@@ -187,6 +187,8 @@
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="ic_netflix" />
     <item component="ComponentInfo{com.gtp.nextlauncher.trial/com.gtp.nextlauncher.MainActivity}" drawable="ic_next_launcher" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="ic_nova" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="ic_nova" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}" drawable="ic_nova" />
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="ic_nytimes" />
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="ic_pandora" />
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="ic_paypal" />
