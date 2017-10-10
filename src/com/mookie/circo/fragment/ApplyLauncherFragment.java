@@ -34,6 +34,7 @@ public class ApplyLauncherFragment extends Fragment {
     final List<Integer> applyLauncher = new ArrayList<>();
 
     // Background layout that gets inflated behind the list view
+    @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container_launcher,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.apply_launcher_behind, null);
@@ -84,19 +85,10 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(apex);
                         } catch (ActivityNotFoundException e) {
-                            Intent apexMarket = new Intent(Intent.ACTION_VIEW);
-
-                            apexMarket.setData(Uri
-                                    .parse(getResources().getString(R.string.launcher_apex_market)));
-                            startActivity(apexMarket);
-                            Toast failedApex = Toast
-                                    .makeText(
-                                            getActivity().getBaseContext(),
-                                            getResources().getString(R.string.apex_market),
-                                            Toast.LENGTH_SHORT);
-                            failedApex.show();
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_apex_market),
+                                    getResources().getString(R.string.apex_market));
                         }
-
                         break;
                     case ApplyLauncherAdapter.NOVA:
                         Intent nova = new Intent(ACTION_APPLY_ICON_THEME);
@@ -107,16 +99,9 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(nova);
                         } catch (ActivityNotFoundException e) {
-                            Intent novaMarket = new Intent(Intent.ACTION_VIEW);
-                            novaMarket.setData(Uri
-                                    .parse(getResources().getString(R.string.launcher_nova_market)));
-                            startActivity(novaMarket);
-                            Toast failedNova = Toast
-                                    .makeText(
-                                            getActivity().getBaseContext(),
-                                            getResources().getString(R.string.nova_market),
-                                            Toast.LENGTH_SHORT);
-                            failedNova.show();
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_nova_market),
+                                    getResources().getString(R.string.nova_market));
                         }
                         break;
                     case ApplyLauncherAdapter.AVIATE:
@@ -124,19 +109,13 @@ public class ApplyLauncherFragment extends Fragment {
                         intent.putExtra(AVIATE_EXTRA_PACKAGE_NAME,
                                 getResources().getString(R.string.package_name));
                         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+
                         try {
                             startActivity(intent);
                         } catch (ActivityNotFoundException e) {
-                            Intent adwMarket = new Intent(Intent.ACTION_VIEW);
-                            adwMarket.setData(Uri
-                                    .parse(getResources().getString(R.string.launcher_aviate_market)));
-                            startActivity(adwMarket);
-                            Toast failedADW = Toast
-                                    .makeText(
-                                            getActivity().getBaseContext(),
-                                            getResources().getString(R.string.aviate_market),
-                                            Toast.LENGTH_SHORT);
-                            failedADW.show();
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_aviate_market),
+                                    getResources().getString(R.string.aviate_market));
                         }
                         break;
                     case ApplyLauncherAdapter.ADW:
@@ -146,38 +125,22 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(adw);
                         } catch (ActivityNotFoundException e) {
-                            Intent adwMarket = new Intent(Intent.ACTION_VIEW);
-                            adwMarket.setData(Uri
-                                    .parse(getResources().getString(R.string.launcher_adw_market)));
-                            startActivity(adwMarket);
-                            Toast failedADW = Toast
-                                    .makeText(
-                                            getActivity().getBaseContext(),
-                                            getResources().getString(R.string.adw_market),
-                                            Toast.LENGTH_SHORT);
-                            failedADW.show();
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_adw_market),
+                                    getResources().getString(R.string.adw_market));
                         }
-                        (getActivity()).finish();
                         break;
                     case ApplyLauncherAdapter.ACTION:
                         Intent al = getActivity().getPackageManager().getLaunchIntentForPackage(
                                 "com.actionlauncher.playstore");
                         if (al != null) {
-
                             String packageName = getResources().getString(R.string.package_name);
                             al.putExtra("apply_icon_pack", packageName);
                             startActivity(al);
                         } else {
-                            Intent alMarket = new Intent(Intent.ACTION_VIEW);
-                            alMarket.setData(Uri
-                                    .parse(getResources().getString(R.string.launcher_al_market)));
-                            startActivity(alMarket);
-                            Toast failedAL = Toast
-                                    .makeText(
-                                            getActivity().getBaseContext(),
-                                            getResources().getString(R.string.al_market),
-                                            Toast.LENGTH_SHORT);
-                            failedAL.show();
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_al_market),
+                                    getResources().getString(R.string.al_market));
                         }
                         break;
                     case ApplyLauncherAdapter.SMART:
@@ -188,27 +151,18 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(smart);
                         } catch (ActivityNotFoundException e) {
-
-                            Intent smartMarket = new Intent(Intent.ACTION_VIEW);
-                            smartMarket.setData(Uri
-                                    .parse(getResources().getString(R.string.launcher_smart_market)));
-                            startActivity(smartMarket);
-
-                            Toast failedSmart = Toast
-                                    .makeText(
-                                            getActivity().getBaseContext(),
-                                            getResources().getString(R.string.smart_market),
-                                            Toast.LENGTH_SHORT);
-                            failedSmart.show();
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_smart_market),
+                                    getResources().getString(R.string.smart_market));
                         }
                         break;
-                    case ApplyLauncherAdapter.NEXT:
+                    case ApplyLauncherAdapter.NEXT: //not supported
                         Toast nextNotSupported = Toast
                                 .makeText(getActivity().getBaseContext(), getResources().getString
                                         (R.string.coming_soon), Toast.LENGTH_SHORT);
                         nextNotSupported.show();
                         break;
-                    case ApplyLauncherAdapter.GO:
+                    case ApplyLauncherAdapter.GO: //not supported
                         Toast goNotSupported = Toast
                                 .makeText(getActivity().getBaseContext(), getResources().getString
                                         (R.string.coming_soon), Toast.LENGTH_SHORT);
@@ -218,7 +172,6 @@ public class ApplyLauncherFragment extends Fragment {
                         Intent holo = new Intent(Intent.ACTION_MAIN);
                         holo.setComponent(new ComponentName("com.mobint.hololauncher",
                                 "com.mobint.hololauncher.Launcher"));
-
                         try {
                             startActivity(holo);
 
@@ -226,18 +179,10 @@ public class ApplyLauncherFragment extends Fragment {
                                     getResources().getString(R.string.finish_holo_apply),
                                     Toast.LENGTH_LONG);
                             applied.show();
-
                         } catch (ActivityNotFoundException e) {
-                            Intent holoMarket = new Intent(Intent.ACTION_VIEW);
-                            holoMarket.setData(Uri
-                                    .parse(getResources().getString(R.string.launcher_holo_market)));
-                            startActivity(holoMarket);
-                            Toast failedHolo = Toast
-                                    .makeText(
-                                            getActivity().getBaseContext(),
-                                            getResources().getString(R.string.holo_market),
-                                            Toast.LENGTH_SHORT);
-                            failedHolo.show();
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_holo_market),
+                                    getResources().getString(R.string.holo_market));
                         }
                         break;
                     case ApplyLauncherAdapter.ATOM:
@@ -250,16 +195,9 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(atom);
                         } catch (ActivityNotFoundException e) {
-                            Intent atomMarket = new Intent(Intent.ACTION_VIEW);
-                            atomMarket.setData(Uri.
-                                    parse(getResources().getString(R.string.launcher_atom_market)));
-                            startActivity(atomMarket);
-                            Toast failedAtom = Toast
-                                    .makeText(
-                                            getActivity().getBaseContext(),
-                                            getResources().getString(R.string.atom_market),
-                                            Toast.LENGTH_SHORT);
-                            failedAtom.show();
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_atom_market),
+                                    getResources().getString(R.string.atom_market));
                         }
                         break;
                 }
@@ -267,7 +205,6 @@ public class ApplyLauncherFragment extends Fragment {
         });
     }
 
-    //TODO test this works
     /**
      * Creates {@link Intent} to launch market application with the given url. Also displays a
      * {@link Toast} with short length of given toastMessage to inform user that the given laucnher
@@ -276,7 +213,7 @@ public class ApplyLauncherFragment extends Fragment {
      * @param marketUrl url of market application to link to (using market:// format)
      * @param toastMessage message of toast to be displayed
      */
-    private void NotInstalledHandler(String marketUrl, String toastMessage) {
+    private void notInstalledHandler(String marketUrl, String toastMessage) {
         Intent launcherMarket = new Intent(Intent.ACTION_VIEW);
         launcherMarket.setData(Uri.parse(marketUrl));
         startActivity(launcherMarket);
