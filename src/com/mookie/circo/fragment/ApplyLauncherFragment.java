@@ -15,7 +15,6 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import com.mookie.circo.MainActivity;
 import com.mookie.circo.R;
 import com.mookie.circo.adapter.ApplyLauncherAdapter;
 

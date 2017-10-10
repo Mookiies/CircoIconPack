@@ -18,6 +18,8 @@
 
 <resources>
 
+    <version>1</version>
+
     <!-- Specific categories first, then the the rest of all icons, striving for alphabetical
          order of app name. All apps should be listed here -->
 
@@ -189,6 +191,7 @@
     <item drawable="ic_amazon_shopping" />
     <item drawable="ic_amtrack" />
     <item drawable="ic_apex_launcher" />
+    <item drawable="ic_atom_launcher" />
     <item drawable="ic_audible" />
     <item drawable="ic_aviate_launcher" />
     <item drawable="ic_bitmoji" />

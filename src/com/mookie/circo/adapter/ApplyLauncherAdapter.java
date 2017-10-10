@@ -183,7 +183,9 @@ public class ApplyLauncherAdapter extends BaseAdapter
         return position;
     }
 
-    // Code added for better efficiency and less redraws
+    /**
+     * Simple ViewHolder added to facillate drawing and to reduce redraws
+     */
     private class ViewHolder {
         public TextView title;
         public ImageView launcher_Image;

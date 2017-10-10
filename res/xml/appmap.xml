@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appmap>
+    <!-- This is required for themeing icons with Atom laucnher -->
+    <item class="com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity" name="ic_action_launcher" />
+    <!--<item class="com.actionlauncher.playstore/com.android.launcher3.WallpaperPickerActivity" name="ic_action_launcher" />-->
+    <item class="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity" name="ic_microsoft_outlook" />
+    <item class="com.snapchat.android/com.snapchat.android.LandingPageActivity" name="ic_snapchat"/>
+
+</appmap>

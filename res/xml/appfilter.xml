@@ -152,6 +152,8 @@
     <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
+    <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.LauncherAlias}" drawable="ic_atom_launcher" />
+    <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.Launcher}" drawable="ic_atom_launcher"/>
     <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="ic_audible" />
     <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" /> <!-- TODO make icon for Aviate sotre -->
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.MainActivity}" drawable="ic_aviate_launcher" />
@@ -201,6 +203,7 @@
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="ic_nova" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}" drawable="ic_nova" />
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="ic_nytimes" />
+    <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.activity.MainActivity_}" name="ic_nytimes" />
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="ic_pandora" />
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="ic_paypal" />
     <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="ic_pintrest" />
