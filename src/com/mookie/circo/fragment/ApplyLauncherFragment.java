@@ -33,7 +33,7 @@ public class ApplyLauncherFragment extends Fragment {
     GridView gridView;
     final List<Integer> applyLauncher = new ArrayList<>();
 
-    // This is the background layout that gets inflated behind the list view
+    // Background layout that gets inflated behind the list view
     public View onCreateView(LayoutInflater inflater, ViewGroup container_launcher,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.apply_launcher_behind, null);
@@ -42,6 +42,7 @@ public class ApplyLauncherFragment extends Fragment {
     }
 
     // Starts when the MainFragment is launched
+    // Fills with all the the launchers with the apply options
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
@@ -264,5 +265,22 @@ public class ApplyLauncherFragment extends Fragment {
                 }
             }
         });
+    }
+
+    //TODO test this works
+    /**
+     * Creates {@link Intent} to launch market application with the given url. Also displays a
+     * {@link Toast} with short length of given toastMessage to inform user that the given laucnher
+     * was no installed and they are being redirected to market.
+     *
+     * @param marketUrl url of market application to link to (using market:// format)
+     * @param toastMessage message of toast to be displayed
+     */
+    private void NotInstalledHandler(String marketUrl, String toastMessage) {
+        Intent launcherMarket = new Intent(Intent.ACTION_VIEW);
+        launcherMarket.setData(Uri.parse(marketUrl));
+        startActivity(launcherMarket);
+        Toast failedLauncher = Toast.makeText(getActivity().getBaseContext(), toastMessage, Toast.LENGTH_SHORT);
+        failedLauncher.show();
     }
 }
