@@ -67,3 +67,4 @@ New Icons:
 - es file explorer
 - last pass
 - google home
+- atom launcher
