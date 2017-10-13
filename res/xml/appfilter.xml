@@ -85,6 +85,7 @@
     <item component=":CALENDAR" drawable="ic_calendar" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_app_drawer_" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" drawable="ic_app_drawer" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="ic_app_drawer" />
 
 
     <!-- Icon replacements for google apps -->
