@@ -47,16 +47,17 @@ public class ApplyLauncherFragment extends Fragment {
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
-        applyLauncher.add(ApplyLauncherAdapter.APEX);
-        applyLauncher.add(ApplyLauncherAdapter.NOVA);
-        applyLauncher.add(ApplyLauncherAdapter.AVIATE);
-        applyLauncher.add(ApplyLauncherAdapter.ADW);
+        //add launchers to view in alphabetical order
         applyLauncher.add(ApplyLauncherAdapter.ACTION);
-        applyLauncher.add(ApplyLauncherAdapter.SMART);
-        applyLauncher.add(ApplyLauncherAdapter.NEXT);
+        applyLauncher.add(ApplyLauncherAdapter.ADW);
+        applyLauncher.add(ApplyLauncherAdapter.APEX);
+        applyLauncher.add(ApplyLauncherAdapter.ATOM);
+        applyLauncher.add(ApplyLauncherAdapter.AVIATE);
         applyLauncher.add(ApplyLauncherAdapter.GO);
         applyLauncher.add(ApplyLauncherAdapter.HOLO);
-        applyLauncher.add(ApplyLauncherAdapter.ATOM);
+        applyLauncher.add(ApplyLauncherAdapter.NEXT);
+        applyLauncher.add(ApplyLauncherAdapter.NOVA);
+        applyLauncher.add(ApplyLauncherAdapter.SMART);
 
         ApplyLauncherAdapter adapter = new ApplyLauncherAdapter(getActivity(),
                 applyLauncher);
@@ -77,44 +78,21 @@ public class ApplyLauncherFragment extends Fragment {
 //                final String AVIATE_EXTRA_PACKAGE_NAME = "";
 
                 switch (position) {
-                    case ApplyLauncherAdapter.APEX:
-                        Intent apex = new Intent(APEX_ACTION_SET_THEME);
-                        apex.putExtra(APEX_EXTRA_PACKAGE_NAME, getActivity().getPackageName());
-                        apex.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                        try {
-                            startActivity(apex);
-                        } catch (ActivityNotFoundException e) {
+                    case ApplyLauncherAdapter.ACTION:
+                        Intent al = getActivity().getPackageManager().getLaunchIntentForPackage(
+                                "com.actionlauncher.playstore");
+                        if (al != null) {
+                            String packageName = getResources().getString(R.string.package_name);
+                            al.putExtra("apply_icon_pack", packageName);
+                            startActivity(al);
+                            Toast applied = Toast.makeText(getActivity().getBaseContext(),
+                                    getResources().getString(R.string.finish_action_apply),
+                                    Toast.LENGTH_LONG);
+                            applied.show();
+                        } else {
                             notInstalledHandler(
-                                    getResources().getString(R.string.launcher_apex_market),
-                                    getResources().getString(R.string.apex_market));
-                        }
-                        break;
-                    case ApplyLauncherAdapter.NOVA:
-                        Intent nova = new Intent(ACTION_APPLY_ICON_THEME);
-                        nova.setPackage(NOVA_PACKAGE);
-                        nova.putExtra(EXTRA_ICON_THEME_TYPE, "GO");
-                        nova.putExtra(EXTRA_ICON_THEME_PACKAGE,
-                                getResources().getString(R.string.package_name));
-                        try {
-                            startActivity(nova);
-                        } catch (ActivityNotFoundException e) {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_nova_market),
-                                    getResources().getString(R.string.nova_market));
-                        }
-                        break;
-                    case ApplyLauncherAdapter.AVIATE:
-                        Intent intent = new Intent(AVIATE_ACTION_SET_THEME);
-                        intent.putExtra(AVIATE_EXTRA_PACKAGE_NAME,
-                                getResources().getString(R.string.package_name));
-                        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-
-                        try {
-                            startActivity(intent);
-                        } catch (ActivityNotFoundException e) {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_aviate_market),
-                                    getResources().getString(R.string.aviate_market));
+                                    getResources().getString(R.string.launcher_al_market),
+                                    getResources().getString(R.string.al_market));
                         }
                         break;
                     case ApplyLauncherAdapter.ADW:
@@ -129,37 +107,51 @@ public class ApplyLauncherFragment extends Fragment {
                                     getResources().getString(R.string.adw_market));
                         }
                         break;
-                    case ApplyLauncherAdapter.ACTION:
-                        Intent al = getActivity().getPackageManager().getLaunchIntentForPackage(
-                                "com.actionlauncher.playstore");
-                        if (al != null) {
-                            String packageName = getResources().getString(R.string.package_name);
-                            al.putExtra("apply_icon_pack", packageName);
-                            startActivity(al);
-                        } else {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_al_market),
-                                    getResources().getString(R.string.al_market));
-                        }
-                        break;
-                    case ApplyLauncherAdapter.SMART:
-                        Intent smart = new Intent("ginlemon.smartlauncher.setGSLTHEME");
-                        smart.putExtra("package", getResources().getString(R.string.package_name));
-                        smart.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-
+                    case ApplyLauncherAdapter.APEX:
+                        Intent apex = new Intent(APEX_ACTION_SET_THEME);
+                        apex.putExtra(APEX_EXTRA_PACKAGE_NAME, getActivity().getPackageName());
+                        apex.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         try {
-                            startActivity(smart);
+                            startActivity(apex);
                         } catch (ActivityNotFoundException e) {
                             notInstalledHandler(
-                                    getResources().getString(R.string.launcher_smart_market),
-                                    getResources().getString(R.string.smart_market));
+                                    getResources().getString(R.string.launcher_apex_market),
+                                    getResources().getString(R.string.apex_market));
                         }
                         break;
-                    case ApplyLauncherAdapter.NEXT: //not supported
-                        Toast nextNotSupported = Toast
+                    case ApplyLauncherAdapter.ATOM: //not supported
+                        Toast atomNotSupported = Toast
                                 .makeText(getActivity().getBaseContext(), getResources().getString
                                         (R.string.coming_soon), Toast.LENGTH_SHORT);
-                        nextNotSupported.show();
+                        atomNotSupported.show();
+                        break;
+//                        Intent atom = new Intent("com.dlto.atom.launcher.intent.action.ACTION_VIEW_THEME_SETTINGS");
+//                        atom.setComponent(new ComponentName("com.dlto.atom.launcher",
+//                                "com.nemustech.theme.ThemeIconSetting"));
+//                        atom.setPackage("com.dlto.atom.launcher");
+//                        atom.putExtra("packageName", getActivity().getPackageName());
+////                        atom.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+//                        try {
+//                            startActivity(atom);
+//                        } catch (ActivityNotFoundException e) {
+//                            notInstalledHandler(
+//                                    getResources().getString(R.string.launcher_atom_market),
+//                                    getResources().getString(R.string.atom_market));
+//                        }
+//                        break;
+                    case ApplyLauncherAdapter.AVIATE:
+                        Intent intent = new Intent(AVIATE_ACTION_SET_THEME);
+                        intent.putExtra(AVIATE_EXTRA_PACKAGE_NAME,
+                                getResources().getString(R.string.package_name));
+                        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+
+                        try {
+                            startActivity(intent);
+                        } catch (ActivityNotFoundException e) {
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_aviate_market),
+                                    getResources().getString(R.string.aviate_market));
+                        }
                         break;
                     case ApplyLauncherAdapter.GO: //not supported
                         Toast goNotSupported = Toast
@@ -184,26 +176,39 @@ public class ApplyLauncherFragment extends Fragment {
                                     getResources().getString(R.string.holo_market));
                         }
                         break;
-                    case ApplyLauncherAdapter.ATOM: //not supported
-                        Toast atomNotSupported = Toast
+                    case ApplyLauncherAdapter.NEXT: //not supported
+                        Toast nextNotSupported = Toast
                                 .makeText(getActivity().getBaseContext(), getResources().getString
                                         (R.string.coming_soon), Toast.LENGTH_SHORT);
-                        atomNotSupported.show();
+                        nextNotSupported.show();
                         break;
-//                        Intent atom = new Intent("com.dlto.atom.launcher.intent.action.ACTION_VIEW_THEME_SETTINGS");
-//                        atom.setComponent(new ComponentName("com.dlto.atom.launcher",
-//                                "com.nemustech.theme.ThemeIconSetting"));
-//                        atom.setPackage("com.dlto.atom.launcher");
-//                        atom.putExtra("packageName", getActivity().getPackageName());
-////                        atom.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-//                        try {
-//                            startActivity(atom);
-//                        } catch (ActivityNotFoundException e) {
-//                            notInstalledHandler(
-//                                    getResources().getString(R.string.launcher_atom_market),
-//                                    getResources().getString(R.string.atom_market));
-//                        }
-//                        break;
+                    case ApplyLauncherAdapter.NOVA:
+                        Intent nova = new Intent(ACTION_APPLY_ICON_THEME);
+                        nova.setPackage(NOVA_PACKAGE);
+                        nova.putExtra(EXTRA_ICON_THEME_TYPE, "GO");
+                        nova.putExtra(EXTRA_ICON_THEME_PACKAGE,
+                                getResources().getString(R.string.package_name));
+                        try {
+                            startActivity(nova);
+                        } catch (ActivityNotFoundException e) {
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_nova_market),
+                                    getResources().getString(R.string.nova_market));
+                        }
+                        break;
+                    case ApplyLauncherAdapter.SMART:
+                        Intent smart = new Intent("ginlemon.smartlauncher.setGSLTHEME");
+                        smart.putExtra("package", getResources().getString(R.string.package_name));
+                        smart.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+
+                        try {
+                            startActivity(smart);
+                        } catch (ActivityNotFoundException e) {
+                            notInstalledHandler(
+                                    getResources().getString(R.string.launcher_smart_market),
+                                    getResources().getString(R.string.smart_market));
+                        }
+                        break;
                 }
             }
         });

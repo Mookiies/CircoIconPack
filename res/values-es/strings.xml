@@ -44,4 +44,6 @@
     <string name="adw_market">ADW Launcher no esta instalado. Redireccionando al Play Store!</string>
     <string name="finish_holo_apply">Vaya a configuración de la apariencia y selecionar Circo de la lista.</string>
     <string name="apply_success">Iconos aplicados</string>
+    <string name="atom_market">Atom Launcher no esta instalado. Redireccionando al Play Store!</string>
+    <string name="finish_action_apply">Vaya a configuración de la apariencia y selecionar Circo de la lista.</string>
 </resources>

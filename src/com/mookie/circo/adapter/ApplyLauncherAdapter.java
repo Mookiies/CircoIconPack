@@ -29,16 +29,16 @@ public class ApplyLauncherAdapter extends BaseAdapter
     private Resources res;
 
     // Flag Constants
-    public static final int APEX = 0;
-    public static final int NOVA = 1;
-    public static final int AVIATE = 2;
-    public static final int ADW = 3;
-    public static final int ACTION = 4;
-    public static final int SMART = 5;
-    public static final int NEXT = 6;
-    public static final int GO = 7;
-    public static final int HOLO = 8;
-    public static final int ATOM = 9;
+    public static final int ACTION = 0;
+    public static final int ADW = 1;
+    public static final int APEX = 2;
+    public static final int ATOM = 3;
+    public static final int AVIATE = 4;
+    public static final int GO = 5;
+    public static final int HOLO = 6;
+    public static final int NEXT = 7;
+    public static final int NOVA = 8;
+    public static final int SMART = 9;
     //TODO add support for ATOM Launcher
     //TODO add support for KK Launcher
     //TODO add support for LG Launcher
@@ -88,23 +88,11 @@ public class ApplyLauncherAdapter extends BaseAdapter
 
         switch(entry)
         {
-            case APEX:
-                holder.title.setText(res.getString(R.string.launcher_apex));
-                setInstalledStatus(holder, res.getString(R.string.launcher_apex_package));
+            case ACTION:
+                holder.title.setText(res.getString(R.string.launcher_al));
+                setInstalledStatus(holder, res.getString(R.string.launcher_al_package));
                 holder.title.setTextColor(res.getColor(R.color.white));
-                holder.launcher_Image.setImageResource(R.mipmap.apex_banner);
-                break;
-            case NOVA:
-                holder.title.setText(res.getString(R.string.launcher_nova));
-                setInstalledStatus(holder, res.getString(R.string.launcher_nova_package));
-                holder.title.setTextColor(res.getColor(R.color.white));
-                holder.launcher_Image.setImageResource(R.mipmap.nova_banner);
-                break;
-            case AVIATE:
-                holder.title.setText(res.getString(R.string.launcher_aviate));
-                setInstalledStatus(holder, res.getString(R.string.launcher_aviate_package));
-                holder.title.setTextColor(res.getColor(R.color.white));
-                holder.launcher_Image.setImageResource(R.mipmap.aviate_banner);
+                holder.launcher_Image.setImageResource(R.mipmap.action_banner);
                 break;
             case ADW:
                 holder.title.setText(res.getString(R.string.launcher_adw));
@@ -112,23 +100,23 @@ public class ApplyLauncherAdapter extends BaseAdapter
                 holder.title.setTextColor(res.getColor(R.color.white));
                 holder.launcher_Image.setImageResource(R.mipmap.adw_banner);
                 break;
-            case ACTION:
-                holder.title.setText(res.getString(R.string.launcher_al));
-                setInstalledStatus(holder, res.getString(R.string.launcher_al_package));
+            case APEX:
+                holder.title.setText(res.getString(R.string.launcher_apex));
+                setInstalledStatus(holder, res.getString(R.string.launcher_apex_package));
                 holder.title.setTextColor(res.getColor(R.color.white));
-                holder.launcher_Image.setImageResource(R.mipmap.action_banner);
+                holder.launcher_Image.setImageResource(R.mipmap.apex_banner);
                 break;
-            case SMART:
-                holder.title.setText(res.getString(R.string.launcher_smart));
-                setInstalledStatus(holder, res.getString(R.string.launcher_smart_package));
-                holder.title.setTextColor(res.getColor(R.color.white));
-                holder.launcher_Image.setImageResource(R.mipmap.smart_banner);
-                break;
-            case NEXT:
-                holder.title.setText(res.getString(R.string.launcher_next));
+            case ATOM:
+                holder.title.setText(res.getString(R.string.launcher_atom));
                 setInstalledStatus(holder, res.getString(R.string.not_supported));
                 holder.title.setTextColor(res.getColor(R.color.white));
-                holder.launcher_Image.setImageResource(R.mipmap.next_banner);
+                holder.launcher_Image.setImageResource(R.mipmap.atom_banner);
+                break;
+            case AVIATE:
+                holder.title.setText(res.getString(R.string.launcher_aviate));
+                setInstalledStatus(holder, res.getString(R.string.launcher_aviate_package));
+                holder.title.setTextColor(res.getColor(R.color.white));
+                holder.launcher_Image.setImageResource(R.mipmap.aviate_banner);
                 break;
             case GO:
                 holder.title.setText(res.getString(R.string.launcher_go));
@@ -142,16 +130,36 @@ public class ApplyLauncherAdapter extends BaseAdapter
                 holder.title.setTextColor(res.getColor(R.color.white));
                 holder.launcher_Image.setImageResource(R.mipmap.holo_banner);
                 break;
-            case ATOM:
-                holder.title.setText(res.getString(R.string.launcher_atom));
-                setInstalledStatus(holder, res.getString(R.string.launcher_atom_package));
+            case NEXT:
+                holder.title.setText(res.getString(R.string.launcher_next));
+                setInstalledStatus(holder, res.getString(R.string.not_supported));
                 holder.title.setTextColor(res.getColor(R.color.white));
-                holder.launcher_Image.setImageResource(R.mipmap.atom_banner);
+                holder.launcher_Image.setImageResource(R.mipmap.next_banner);
+                break;
+            case NOVA:
+                holder.title.setText(res.getString(R.string.launcher_nova));
+                setInstalledStatus(holder, res.getString(R.string.launcher_nova_package));
+                holder.title.setTextColor(res.getColor(R.color.white));
+                holder.launcher_Image.setImageResource(R.mipmap.nova_banner);
+                break;
+            case SMART:
+                holder.title.setText(res.getString(R.string.launcher_smart));
+                setInstalledStatus(holder, res.getString(R.string.launcher_smart_package));
+                holder.title.setTextColor(res.getColor(R.color.white));
+                holder.launcher_Image.setImageResource(R.mipmap.smart_banner);
+                break;
         }
 
         return v;
     }
 
+    /**
+     * Helper method for getView that sets the color of the viewholder based off the package name
+     * given. If not supported or not installed will be grayscaled, otherwise will be in color.
+     *
+     * @param holder viewholder to set color in
+     * @param packageName package name to look for
+     */
     private void setInstalledStatus(ViewHolder holder, String packageName)
     {
         // Set installed status
