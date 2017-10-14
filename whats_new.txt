@@ -73,3 +73,5 @@ New Icons:
 - flashfire
 - twrp
 - speedtest - ookla
+- robinhood
+- update google drive icon

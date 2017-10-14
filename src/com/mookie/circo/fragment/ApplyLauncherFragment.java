@@ -125,20 +125,6 @@ public class ApplyLauncherFragment extends Fragment {
                                         (R.string.coming_soon), Toast.LENGTH_SHORT);
                         atomNotSupported.show();
                         break;
-//                        Intent atom = new Intent("com.dlto.atom.launcher.intent.action.ACTION_VIEW_THEME_SETTINGS");
-//                        atom.setComponent(new ComponentName("com.dlto.atom.launcher",
-//                                "com.nemustech.theme.ThemeIconSetting"));
-//                        atom.setPackage("com.dlto.atom.launcher");
-//                        atom.putExtra("packageName", getActivity().getPackageName());
-////                        atom.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-//                        try {
-//                            startActivity(atom);
-//                        } catch (ActivityNotFoundException e) {
-//                            notInstalledHandler(
-//                                    getResources().getString(R.string.launcher_atom_market),
-//                                    getResources().getString(R.string.atom_market));
-//                        }
-//                        break;
                     case ApplyLauncherAdapter.AVIATE:
                         Intent intent = new Intent(AVIATE_ACTION_SET_THEME);
                         intent.putExtra(AVIATE_EXTRA_PACKAGE_NAME,
