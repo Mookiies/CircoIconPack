@@ -204,6 +204,7 @@
     <item drawable="ic_espn" />
     <item drawable="ic_facebook" />
     <item drawable="ic_facebook_messenger" />
+    <item drawable="ic_flashfire" />
     <item drawable="ic_flipboard" />
     <item drawable="ic_glassdoor" />
     <item drawable="ic_go_launcher" />
@@ -244,6 +245,7 @@
     <item drawable="ic_snapchat" />
     <item drawable="ic_soundcloud" />
     <item drawable="ic_soundhound" />
+    <item drawable="ic_speedtest_ookla" />
     <item drawable="ic_spotify" />
     <item drawable="ic_steam" />
     <item drawable="ic_super_su" />
@@ -256,6 +258,7 @@
     <item drawable="ic_twitch" />
     <item drawable="ic_twitch_messenger" />
     <item drawable="ic_twitter" />
+    <item drawable="ic_twrp" />
     <item drawable="ic_uber" />
     <item drawable="ic_uber_driver" />
     <item drawable="ic_uber_eats" />
