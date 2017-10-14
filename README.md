@@ -23,6 +23,11 @@ https://play.google.com/store/apps/details?id=com.mookie.circo
 #### Name icons: 
 "ic_appname" with all spaces as underscores
 
+#### Placing icons:
+- Save icon as 192x192 png
+- Add icons do res/drawable-xxxhdpi
+- Add .svg or .ai to /IconVectors
+
 #### Add icons: (in order by category, then alphabetically)
 
 res/xml/appfilter.xml in format:
