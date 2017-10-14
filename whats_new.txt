@@ -52,6 +52,8 @@ Version 1.3.1
 ------------------------------------------------------------------------
 (change to 1.4 if build version changes)
 
+- TODO update store description to have line stating icon requests can be emailed to mookie.dev
+- TODO update github to have less screenshots and a detailed report on who to contribute
 - improve support for Aviate, Action, Holo, Smart launcher
 
 New Icons:

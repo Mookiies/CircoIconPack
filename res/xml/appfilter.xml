@@ -217,6 +217,7 @@
     <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
     <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
     <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="ic_reddit_official_app" />
+    <item component="ComponentInfo{com.robinhood.android/com.robinhood.android.activity.WelcomeActivity}" drawable="ic_robinhood" />
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="ic_shazam" />
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="ic_skype" />
     <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="ic_smart_launcher" />
