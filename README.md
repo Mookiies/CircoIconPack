@@ -41,8 +41,7 @@ res/xml/drawable.xml in format:
 
 [Color Pallete](https://github.com/MalcolmScruggs/CircoIconPack/blob/master/CircoPromo/Circo-Pallet.svg)(right-click save-as)
 
-#### Use template, 
-all icons should have same size circle as circle in template:
+#### Use template, all icons must have same size circle as circle in template:
 
 [Template](https://github.com/MalcolmScruggs/CircoIconPack/blob/master/CircoPromo/circo-template.svg)(right-click save-as)
 
