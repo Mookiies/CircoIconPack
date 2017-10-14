@@ -68,3 +68,6 @@ New Icons:
 - last pass
 - google home
 - atom launcher
+- flashfire
+- twrp
+- speedtest - ookla
