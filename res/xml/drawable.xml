@@ -54,9 +54,12 @@
     <item drawable="ic_find_my_device" />
     <item drawable="ic_gmail" />
     <item drawable="ic_google_adsense" />
+    <item drawable="ic_google_analytics" />
     <item drawable="ic_google_app" />
+    <item drawable="ic_google_assistant" />
     <item drawable="ic_google_books" />
     <item drawable="ic_google_calendar" />
+    <item drawable="ic_google_classroom" />
     <item drawable="ic_google_documents" />
     <item drawable="ic_google_drive" />
     <item drawable="ic_google_fit" />
@@ -68,6 +71,7 @@
     <item drawable="ic_google_music" />
     <item drawable="ic_google_news_weather" />
     <item drawable="ic_google_now_launcher" />
+    <item drawable="ic_google_pdf" />
     <item drawable="ic_google_photos" />
     <item drawable="ic_google_play" />
     <item drawable="ic_google_plus" />
@@ -75,6 +79,7 @@
     <item drawable="ic_google_sheets" />
     <item drawable="ic_google_slides" />
     <item drawable="ic_google_translate" />
+    <item drawable="ic_google_trips" />
     <item drawable="ic_google_voice_search" />
     <item drawable="ic_hangouts" />
     <item drawable="ic_inbox" />
@@ -179,7 +184,12 @@
     <category title="General" />
     <item drawable="ic_action_launcher" />
     <item drawable="ic_adaway" />
+    <item drawable="ic_adobe_acrobat" />
+    <item drawable="ic_adobe_photoshop" />
+    <item drawable="ic_adobe_photoshop_lightroom" />
+    <item drawable="ic_adobe_photoshop_lightroom_alt" />
     <item drawable="ic_adw_launcher" />
+    <item drawable="ic_airbnb" />
     <item drawable="ic_amazon_appstore" />
     <item drawable="ic_amazon_drive" />
     <item drawable="ic_amazon_kindle" />
@@ -232,6 +242,7 @@
     <item drawable="ic_nytimes" />
     <item drawable="ic_pandora" />
     <item drawable="ic_paypal" />
+    <item drawable="ic_photomath" />
     <item drawable="ic_pintrest" />
     <item drawable="ic_pocket_cast" />
     <item drawable="ic_poweramp" />
@@ -271,5 +282,6 @@
     <item drawable="ic_wolfram_alpha" />
     <item drawable="ic_xfinity_stream_tv" />
     <item drawable="ic_yahoo_mail" />
+    <item drawable="ic_yelp" />
 
 </resources>

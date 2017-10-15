@@ -78,3 +78,16 @@ New Icons:
 
 Version 1.3.2
 ------------------------------------------------------------------------
+
+New Icons:
+- Adobe Acrobat
+- Adobe Photoshop
+- Adobe Lightroom
+- Airbnb
+- Google Analytics
+- Google Assistant
+- Google Classroom
+- Google pdf
+- Google Trips
+- Photomath
+- Yelp
