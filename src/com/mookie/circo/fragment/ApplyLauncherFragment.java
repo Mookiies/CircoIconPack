@@ -89,9 +89,7 @@ public class ApplyLauncherFragment extends Fragment {
                                     Toast.LENGTH_LONG);
                             applied.show();
                         } else {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_al_market),
-                                    getResources().getString(R.string.al_market));
+                            notInstalledHandler(getResources().getString(R.string.al_market));
                         }
                         break;
                     case ApplyLauncherAdapter.ADW:
@@ -101,9 +99,7 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(adw);
                         } catch (ActivityNotFoundException e) {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_adw_market),
-                                    getResources().getString(R.string.adw_market));
+                            notInstalledHandler(getResources().getString(R.string.adw_market));
                         }
                         break;
                     case ApplyLauncherAdapter.APEX:
@@ -113,9 +109,7 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(apex);
                         } catch (ActivityNotFoundException e) {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_apex_market),
-                                    getResources().getString(R.string.apex_market));
+                            notInstalledHandler(getResources().getString(R.string.apex_market));
                         }
                         break;
                     case ApplyLauncherAdapter.ATOM: //not supported
@@ -133,9 +127,7 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(intent);
                         } catch (ActivityNotFoundException e) {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_aviate_market),
-                                    getResources().getString(R.string.aviate_market));
+                            notInstalledHandler(getResources().getString(R.string.aviate_market));
                         }
                         break;
                     case ApplyLauncherAdapter.GO: //not supported
@@ -156,9 +148,7 @@ public class ApplyLauncherFragment extends Fragment {
                                     Toast.LENGTH_LONG);
                             applied.show();
                         } catch (ActivityNotFoundException e) {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_holo_market),
-                                    getResources().getString(R.string.holo_market));
+                            notInstalledHandler(getResources().getString(R.string.holo_market));
                         }
                         break;
                     case ApplyLauncherAdapter.NEXT: //not supported
@@ -176,9 +166,7 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(nova);
                         } catch (ActivityNotFoundException e) {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_nova_market),
-                                    getResources().getString(R.string.nova_market));
+                            notInstalledHandler(getResources().getString(R.string.nova_market));
                         }
                         break;
                     case ApplyLauncherAdapter.SMART:
@@ -189,9 +177,7 @@ public class ApplyLauncherFragment extends Fragment {
                         try {
                             startActivity(smart);
                         } catch (ActivityNotFoundException e) {
-                            notInstalledHandler(
-                                    getResources().getString(R.string.launcher_smart_market),
-                                    getResources().getString(R.string.smart_market));
+                            notInstalledHandler(getResources().getString(R.string.smart_market));
                         }
                         break;
                 }
@@ -204,13 +190,9 @@ public class ApplyLauncherFragment extends Fragment {
      * {@link Toast} with short length of given toastMessage to inform user that the given laucnher
      * was no installed and they are being redirected to market.
      *
-     * @param marketUrl url of market application to link to (using market:// format)
      * @param toastMessage message of toast to be displayed
      */
-    private void notInstalledHandler(String marketUrl, String toastMessage) {
-        Intent launcherMarket = new Intent(Intent.ACTION_VIEW);
-        launcherMarket.setData(Uri.parse(marketUrl));
-        startActivity(launcherMarket);
+    private void notInstalledHandler(String toastMessage) {
         Toast failedLauncher = Toast.makeText(getActivity().getBaseContext(), toastMessage, Toast.LENGTH_SHORT);
         failedLauncher.show();
     }

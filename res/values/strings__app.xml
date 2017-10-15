@@ -69,16 +69,16 @@
 	<string name="finish_holo_apply" translatable="true">Go To Appearance settings -> Icon Packs and select circo from the list.</string>
 	<string name="finish_action_apply" translatable="true">Go to Action Settings -> Icon Pack and select circo from the list.</string>
 	<string name="finish_apply" translatable="true">Select your options and press Apply to finalize!</string>
-	<string name="apex_market" translatable="true">Apex Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="nova_market" translatable="true">Nova Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="aviate_market" translatable="true">Aviate Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="adw_market" translatable="true">ADW Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="al_market" translatable="true">Action Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="smart_market" translatable="true">Smart Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="next_market" translatable="true">Next Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="go_market" translatable="true">Go Launcher is not installed on your device. Redirecting to the Play Store!</string>
-	<string name="holo_market" translatable="true">Holo Launcher is not installed on your device. Redirecting to the Play Store!</string>
-    <string name="atom_market" translatable="true">Atom Launcher is not installed on your device. Redirecting to the Play Store!</string>
+	<string name="apex_market" translatable="true">Apex Launcher is not installed on your device.</string>
+	<string name="nova_market" translatable="true">Nova Launcher is not installed on your device.</string>
+	<string name="aviate_market" translatable="true">Aviate Launcher is not installed on your device.</string>
+	<string name="adw_market" translatable="true">ADW Launcher is not installed on your device.</string>
+	<string name="al_market" translatable="true">Action Launcher is not installed on your device.</string>
+	<string name="smart_market" translatable="true">Smart Launcher is not installed on your device.</string>
+	<string name="next_market" translatable="true">Next Launcher is not installed on your device.</string>
+	<string name="go_market" translatable="true">Go Launcher is not installed on your device.</string>
+	<string name="holo_market" translatable="true">Holo Launcher is not installed on your device.</string>
+    <string name="atom_market" translatable="true">Atom Launcher is not installed on your device.</string>
 	<string name="not_supported" translatable="true">Not Supported</string>
 	<string name="coming_soon" translatable="true">Coming soon!</string>
 
