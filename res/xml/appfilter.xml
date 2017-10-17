@@ -23,6 +23,7 @@
 
     <!-- TODO figure out themeing smart launcher system icons-->
     <!-- TODO add activities for atom launcher-->
+    <!-- TODO update purple to something more vibrant -->
     <!-- Icons are sorted first by category, then by alphabetical order of the icon name (ie. ic_icon) -->
     <!-- WARNING: to support all launchers activity name must also include the package -->
 
@@ -111,6 +112,7 @@
     <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity}" drawable="ic_google_classroom" />
     <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_documents" />
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_drive" />
+    <item component="ComponentInfo{com.google.android.apps.shopping.express/com.google.android.apps.shopping.express.activity.PreMainActivity}" drawable="ic_google_express" />
     <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="ic_google_fit" />
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="ic_google_games" />
     <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="ic_google_home" />
@@ -119,6 +121,7 @@
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="ic_google_movies" />
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_google_music" />
     <item component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity}" drawable="ic_google_news_weather" />
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="ic_google_newsstand" />
     <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="ic_google_now_launcher" />
     <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="ic_google_photos" />
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_google_play" />
@@ -128,7 +131,9 @@
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_slides" />
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="ic_google_translate" />
     <item component="ComponentInfo{com.google.android.apps.travel.onthego/com.google.android.apps.travel.onthego.activities.MainActivity}" drawable="ic_google_trips" />
+    <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="ic_google_voice" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="ic_google_voice_search" />
+    <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="ic_google_wallpapers" />
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
     <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="ic_inbox" />
     <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="ic_my_maps" />

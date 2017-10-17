@@ -62,6 +62,7 @@
     <item drawable="ic_google_classroom" />
     <item drawable="ic_google_documents" />
     <item drawable="ic_google_drive" />
+    <item drawable="ic_google_express" />
     <item drawable="ic_google_fit" />
     <item drawable="ic_google_games" />
     <item drawable="ic_google_home" />
@@ -70,6 +71,7 @@
     <item drawable="ic_google_movies" />
     <item drawable="ic_google_music" />
     <item drawable="ic_google_news_weather" />
+    <item drawable="ic_google_newsstand" />
     <item drawable="ic_google_now_launcher" />
     <item drawable="ic_google_pdf" />
     <item drawable="ic_google_photos" />
@@ -80,7 +82,9 @@
     <item drawable="ic_google_slides" />
     <item drawable="ic_google_translate" />
     <item drawable="ic_google_trips" />
+    <item drawable="ic_google_voice" />
     <item drawable="ic_google_voice_search" />
+    <item drawable="ic_google_wallpapers" />
     <item drawable="ic_hangouts" />
     <item drawable="ic_inbox" />
     <item drawable="ic_my_maps" />

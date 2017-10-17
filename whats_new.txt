@@ -87,7 +87,11 @@ New Icons:
 - Google Analytics
 - Google Assistant
 - Google Classroom
+- Google Express
+- Google Newsstand
 - Google pdf
 - Google Trips
+- Google Voice
+- Google Wallpapers
 - Photomath
 - Yelp
