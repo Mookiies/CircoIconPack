@@ -36,11 +36,23 @@
     <!-- Icon replacements for system apps
          System apps require multiple names depending on device -->
     <!-- TODO find more comprehensive list for system apps across devices -->
+
+    <!-- Calculator -->
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_calculator" />
+
+    <!-- Camera -->
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="ic_camera" />
+
+    <!-- Clock -->
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="ic_clock" />
+
+    <!-- Downloads -->
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="ic_downloads" />
+
+    <!-- Phone  -->
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="ic_phone" />
+
+    <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_settings" />
 
     <!-- Change for system browser-->
@@ -145,127 +157,322 @@
 
 
     <!-- General applications -->
+    <!-- Action Launcher -->
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="ic_action_launcher" />
     <item component="ComponentInfo{com.actionlauncher.playstore/com.android.launcher3.WallpaperPickerActivity}" drawable="ic_action_launcher" />
     <item component="ComponentInfo{com.actionlauncher.playstore/com.android.launcher3.WallpaperCropActivity}" drawable="ic_action_launcher" />
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.SettingsRootActivity}" drawable="ic_action_launcher" />
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.rocket.app.ActivityPicker}" drawable="ic_action_launcher" />
+
+    <!-- Adaway-->
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="ic_adaway" />
+
+    <!-- Adobe Acrobat -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="ic_adobe_acrobat" />
+
+    <!-- Adobe Photoshop -->
     <item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="ic_adobe_photoshop" />
+
+    <!-- Adobe Photoshop Lightroom -->
     <item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="ic_adobe_photoshop_lightroom" />
+
+    <!-- Adw Launcher -->
     <item component="ComponentInfo{org.adw.launcher/org.adw.launcher.LauncherActivity}" drawable="ic_adw_launcher" />
+
+    <!-- Airbnb -->
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.activities.MainActivity}" drawable="ic_airbnb" />
+
+    <!-- Amazon Appstore -->
     <item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Launcher}" drawable="ic_amazon_appstore" />
+
+    <!-- Amazon Drive -->
     <item component="ComponentInfo{com.amazon.drive/com.amazon.drive.activity.MainActivity}" drawable="ic_amazon_drive" />
+
+    <!-- Amazon Kindle -->
     <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="ic_amazon_kindle" />
+
+    <!-- Amazon Music -->
     <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="ic_amazon_music" />
+
+    <!-- Amazon Prime -->
     <item component="ComponentInfo{com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity}" drawable="ic_amazon_prime_photos" />
     <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="ic_amazon_prime_video" />
+
+    <!-- Amazon Seller -->
     <item component="ComponentInfo{com.amazon.sellermobile.android/com.amazon.mShop.home.MainActivity}" drawable="ic_amazon_seller" />
+
+    <!-- Amazon Shopping -->
     <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
     <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
+
+    <!-- Amtrack -->
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
+
+    <!-- Apex -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
+
+    <!-- Atom Launcher -->
     <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.LauncherAlias}" drawable="ic_atom_launcher" />
     <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.Launcher}" drawable="ic_atom_launcher"/>
+
+    <!-- Audible -->
     <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="ic_audible" />
-    <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" /> <!-- TODO make icon for Aviate sotre -->
+
+    <!-- Aviate -->
+    <!-- TODO make icon for Aviate sotre -->
+    <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.MainActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingStartActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingSearchActivity}" drawable="ic_aviate_launcher" />
+
+    <!-- Bitmoji -->
     <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="ic_bitmoji" />
+
+    <!-- Cash -->
     <item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="ic_cash" />
+
+    <!-- CNN -->
     <item component="ComponentInfo{com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.features.splash.SplashActivity}" drawable="ic_cnn" />
+
+    <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="ic_discord" />
+
+    <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="ic_dropbox" />
+
+    <!-- Ebay -->
     <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}" drawable="ic_ebay" />
-    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="ic_es_file_explorer" /> <!-- TODO find activity names for pro -->
+
+    <!-- ES File Explorer -->
+    <!-- TODO find activity names for pro -->
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="ic_es_file_explorer" />
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" drawable="ic_es_file_explorer" />
+
+    <!-- ESPN -->
     <item component="ComponentInfo{com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity}" drawable="ic_espn" />
+
+    <!-- Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="ic_facebook" />
+
+    <!-- Facebook Messenger -->
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="ic_facebook_messenger" />
+
+    <!-- Flashfire -->
     <item component="ComponentInfo{eu.chainfire.flash/eu.chainfire.flash.ui.activity.MainActivity}" drawable="ic_flashfire" />
+
+    <!-- Flipboard -->
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="ic_flipboard" />
+
+    <!-- Glassdoor -->
     <item component="ComponentInfo{com.glassdoor.app/com.glassdoor.gdandroid2.activities.LaunchActivity}" drawable="ic_glassdoor" />
     <item component="ComponentInfo{com.glassdoor.app/com.dropbox.client2.android.AuthActivity}" drawable="ic_glassdoor" />
+
+    <!-- Go Launcher -->
     <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="ic_go_launcher" />
     <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncher}" drawable="ic_go_launcher" />
+
+    <!-- Groupme-->
     <item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="ic_groupme" />
+
+    <!-- Groupon-->
     <item component="ComponentInfo{com.groupon/com.groupon.activity.TodaysDeal}" drawable="ic_groupon" />
+
+    <!-- HBO Now -->
     <item component="ComponentInfo{com.hbo.hbonow/com.hbo.hbonow.splash.SplashActivity}" drawable="ic_hbo_now" />
+
+    <!-- Holo Launcher -->
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="ic_holo_launcher" />
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Settings}" drawable="ic_holo_launcher" />
     <item component="ComponentInfo{com.mobint.hololauncher/com.android.launcher3.ShortcutActivity}" drawable="ic_holo_launcher" />
+
+    <!-- Hulu -->
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="ic_hulu" />
+
+    <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="ic_instagram" />
+
+    <!-- Lastpass-->
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="ic_lastpass" />
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.PrefsActivity}" drawable="ic_lastpass" />
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.OpenYoloRetrieveCredentialActivity}" drawable="ic_lastpass" />
+
+    <!-- Linkedin-->
     <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="ic_linkedin" />
+
+    <!-- Lyft -->
     <item component="ComponentInfo{me.lyft.android/me.lyft.android.ui.MainActivity}" drawable="ic_lyft" />
+
+    <!-- Mc Donalds-->
     <item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="ic_mc_donalds" />
+
+    <!-- Microsoft Excel-->
     <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="ic_microsoft_excel" />
+
+    <!-- Microsoft OneDrive -->
     <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="ic_microsoft_onedrive" />
+
+    <!-- MicroSoft OneNote-->
     <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="ic_microsoft_onenote" />
+
+    <!-- Microsoft Outlook-->
     <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="ic_microsoft_outlook" />
+
+    <!-- Microsfot PowerPoint -->
     <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="ic_microsoft_powerpoint" />
+
+    <!-- Microsoft Word-->
     <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="ic_microsoft_word" />
+
+    <!-- Money Lover -->
     <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash}" drawable="ic_money_lover" />
+
+    <!-- Musically -->
     <item component="ComponentInfo{com.zhiliaoapp.musically/com.zhiliaoapp.musically.activity.SplashActivity}" drawable="ic_musically" />
+
+    <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="ic_netflix" />
+
+    <!-- Next Launcher -->
     <item component="ComponentInfo{com.gtp.nextlauncher.trial/com.gtp.nextlauncher.MainActivity}" drawable="ic_next_launcher" />
+
+    <!-- Nova Launcher -->
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="ic_nova" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="ic_nova" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher}" drawable="ic_nova" />
+
+    <!-- NYTimes -->
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="ic_nytimes" />
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.activity.MainActivity_}" name="ic_nytimes" />
+
+    <!-- Pandora -->
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="ic_pandora" />
+
+    <!-- PayPal-->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="ic_paypal" />
+
+    <!-- Photomath-->
     <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.MainActivity}" drawable="ic_photomath" />
+
+    <!-- Pintrest -->
     <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="ic_pintrest" />
+
+    <!-- Pocket cast -->
     <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="ic_pocket_cast" />
+
+    <!-- Poweramp -->
     <item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity}" drawable="ic_poweramp" />
     <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity}" drawable="ic_poweramp" />
     <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.RedirectorActivity}" drawable="ic_poweramp" />
+
+    <!-- Reddit Sync (dev, pro, normal) -->
     <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
     <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
     <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_alt" />
+
+    <!-- Reddit Official -->
     <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="ic_reddit_official_app" />
+
+    <!-- Robinhood -->
     <item component="ComponentInfo{com.robinhood.android/com.robinhood.android.activity.WelcomeActivity}" drawable="ic_robinhood" />
+
+    <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="ic_shazam" />
+
+    <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="ic_skype" />
+
+    <!-- Smart Launcher -->
     <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="ic_smart_launcher" />
     <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.locker.LockerActivity}" drawable="ic_smart_launcher" />
+
+    <!-- Smart Recorder -->
     <item component="ComponentInfo{com.andrwq.recorder/com.andrwq.recorder.RecorderActivity}" drawable="ic_smart_recorder" />
+
+    <!-- Snapchat -->
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="ic_snapchat" />
+
+    <!-- Soundcloud -->
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="ic_soundcloud" />
+
+    <!-- Soundhound -->
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="ic_soundhound" />
+
+    <!-- Speedtest Ookla -->
     <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="ic_speedtest_ookla" />
+
+    <!-- Spotify -->
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="ic_spotify" />
+
+    <!-- Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="ic_steam" />
+
+    <!-- Super SU-->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="ic_super_su" />
+
+    <!-- Target -->
     <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="ic_target" />
+
+    <!-- Textra -->
     <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="ic_textra" />
+
+    <!-- TheScore Esports -->
     <item component="ComponentInfo{com.thescore.esports/com.thescore.esports.preapp.SplashActivity}" drawable="ic_thescore_esports" />
+
+    <!-- Tinder -->
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="ic_tinder" />
+
+    <!-- Tumblr -->
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="ic_tumblr" />
+
+    <!-- TuneIn Radio -->
     <item component="ComponentInfo{tunein.player/tunein.ui.actvities.TuneInHomeActivity}" drawable="ic_tunein_radio" />
+
+    <!-- Twitch -->
     <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="ic_twitch" />
+
+    <!-- Twitch Messenger -->
     <item component="ComponentInfo{com.curse.highwind/com.curse.highwind.MainActivity}" drawable="ic_twitch_messenger" />
+
+    <!-- Twitter -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="ic_twitter" />
+
+    <!-- TWRP -->
     <item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity}" drawable="ic_twrp" />
+
+    <!-- Uber -->
     <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="ic_uber" />
+
+    <!-- Uber driver -->
     <item component="ComponentInfo{com.ubercab.driver/com.ubercab.driver.feature.launch.LauncherActivity}" drawable="ic_uber_driver" />
+
+    <!-- Uber eats -->
     <item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity}" drawable="ic_uber_eats" />
+
+    <!-- Ultimate Ears Boom -->
     <item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.activities.MainActivity}" drawable="ic_ultimate_ears_boom" />
+
+    <!-- Venmo -->
     <item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="ic_venmo" />
+
+    <!-- Walmart -->
     <item component="ComponentInfo{com.walmart.android/com.walmart.android.app.main.MainActivity}" drawable="ic_walmart" />
+
+    <!-- Waze -->
     <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="ic_waze" />
+
+    <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="ic_whatsapp" />
+
+    <!-- Wolfram Alpha -->
     <item component="ComponentInfo{com.wolfram.android.alpha/com.wolfram.android.alpha.activity.SplashScreenActivity}" drawable="ic_wolfram_alpha" />
+
+    <!-- Xfinity Stream TV -->
     <item component="ComponentInfo{com.xfinity.cloudtvr/com.xfinity.common.view.LaunchActivity}" drawable="ic_xfinity_stream_tv" />
+
+    <!-- Yahoo Mail -->
     <item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity}" drawable="ic_yahoo_mail" />
+
+    <!-- Yelp -->
     <item component="ComponentInfo{com.yelp.android/com.yelp.android.ui.activities.RootActivity}" drawable="ic_yelp" />
 
 
