@@ -25,19 +25,15 @@
     <!-- TODO add activities for atom launcher-->
     <!-- TODO update purple to something more vibrant -->
     <!-- Icons are sorted first by category, then by alphabetical order of the icon name (ie. ic_icon) -->
-    <!-- WARNING: to support all launchers activity name must also include the package -->
+    <!-- WARNING: to support all launchers activity name must also include the package
+                  (ie. shortcut <package/.Activity> must be changed to <package/package.Activity> )-->
 
     <!-- Icons are themed by their activity component name and the drawable to replace it with.
          Some apps require multiple activity components in order to work with all launchers. -->
     <item component="ComponentInfo{com.mookie.circo/.MainActivity}" drawable="ic_circo" />
     <item component="ComponentInfo{com.mookie.circo/com.mookie.circo.MainActivity}" drawable="ic_circo" />
 
-
-    <!-- Icon replacements for system apps
-         System apps require multiple names depending on device -->
-    <!-- TODO find more comprehensive list for system apps across devices -->
-
-
+    <!-- Changes for system apps. New devices may require new acitivies to theme system apps properly -->
     <!-- Calculator -->
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="ic_calculator" />
     <item component="ComponentInfo{com.android2.calculator3/com.android2.calculator3.Calculator}" drawable="ic_calculator" />
@@ -189,35 +185,53 @@
     <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="ic_phone"/>
 
     <!-- Settings -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="ic_settings" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.MiuiSettings}" drawable="ic_settings" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_settings" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_settings"/>
 
     <!-- Browser -->
-    <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.alias.AZBrowserActivity}" drawable="ic_browser" /> <!-- Changes Aviate's internal browser-->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.Browser9130MainView}" drawable="ic_browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserDownloadPage}" drawable="ic_browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserLauncher}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}" drawable="ic_browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.ui.BrowserActivity}" drawable="ic_browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.WoActivity}" drawable="ic_browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.WoHallActivity}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.Browser9130MainView}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserDownloadPage}" drawable="ic_browser" />
     <item component="ComponentInfo{com.android.browser/com.motorola.android.browser.ChinaMobileActivity}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="ic_browser" />
     <item component="ComponentInfo{com.android.browser/com.yulong.android.browser.BrowserStartPage}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}" drawable="ic_browser" />
-    <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="ic_browser" />
     <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.alias.AZBrowserActivity}" drawable="ic_browser" /> <!-- Changes Aviate's internal browser-->
 
     <!-- Change for system messaging-->
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.android.contacts/com.android.mms.ui.ConversationList}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversation.LaunchConversationActivity}" drawable="ic_sms" />
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversationlist.ConversationListActivity}" drawable="ic_sms" />
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversation.LaunchConversationActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.mobile9.messaging/com.mobile9.messaging.MainActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.motorola.messaging/com.android.mms.ui.ConversationList}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.motorola.messaging/com.motorola.messaging.activity.ConversationListActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.rim.messaging/com.rim.messaging.NativeSmsMms}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="ic_sms" />
 
     <!-- Change for system contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="ic_contacts" />
