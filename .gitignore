@@ -22,7 +22,9 @@
 hs_err_pid*
 
 #apk#
-.apk
+*.apk
+
+*.iml
 
 .gradle/
 .idea/.name
@@ -36,7 +38,6 @@ hs_err_pid*
 .idea/runConfigurations.xml
 .idea/vcs.xml
 .idea/workspace.xml
-GithubExample.iml
 build/
 gradle/
 local.properties
