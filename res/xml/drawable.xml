@@ -153,6 +153,15 @@
     <item drawable="ic_contacts_salmon" />
     <item drawable="ic_contacts_yellow" />
 
+    <item drawable="ic_downloads_blue" />
+    <item drawable="ic_downloads_green" />
+    <item drawable="ic_downloads_light_blue" />
+    <item drawable="ic_downloads_orange" />
+    <item drawable="ic_downloads_pink" />
+    <item drawable="ic_downloads_red" />
+    <item drawable="ic_downloads_salmon" />
+    <item drawable="ic_downloads_yellow" />
+
     <item drawable="ic_gallery_blue" />
     <item drawable="ic_gallery_green" />
     <item drawable="ic_gallery_light_blue" />
@@ -179,6 +188,15 @@
     <item drawable="ic_phone_red" />
     <item drawable="ic_phone_salmon" />
     <item drawable="ic_phone_yellow" />
+
+    <item drawable="ic_settings_blue" />
+    <item drawable="ic_settings_green" />
+    <item drawable="ic_settings_light_blue" />
+    <item drawable="ic_settings_orange" />
+    <item drawable="ic_settings_pink" />
+    <item drawable="ic_settings_red" />
+    <item drawable="ic_settings_salmon" />
+    <item drawable="ic_settings_yellow" />
 
     <item drawable="ic_voice_recorder_blue" />
     <item drawable="ic_voice_recorder_green" />
