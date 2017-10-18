@@ -100,3 +100,5 @@ New Icons:
 - Swipe Snake
 - Voice Recorder (w/ alt colors)
 - Yelp
+
+Alternate colors for settings and downloads
