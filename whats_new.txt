@@ -84,6 +84,7 @@ New Icons:
 - Adobe Photoshop
 - Adobe Lightroom
 - Airbnb
+- Expedia
 - Google Analytics
 - Google Assistant
 - Google Classroom
@@ -95,4 +96,5 @@ New Icons:
 - Google Voice
 - Google Wallpapers
 - Photomath
+- Swipe Snake
 - Yelp

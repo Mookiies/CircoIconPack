@@ -37,26 +37,181 @@
          System apps require multiple names depending on device -->
     <!-- TODO find more comprehensive list for system apps across devices -->
 
+
     <!-- Calculator -->
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="ic_calculator" />
+    <item component="ComponentInfo{com.android2.calculator3/com.android2.calculator3.Calculator}" drawable="ic_calculator" />
+    <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="ic_calculator" />
+    <item component="ComponentInfo{com.firedevelop.firecalc/com.firedevelop.firecalc.FireCalcActivity}" drawable="ic_calculator" />
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_calculator" />
+    <item component="ComponentInfo{com.htc.calculator/com.htc.calculator.Calculator}" drawable="ic_calculator" />
+    <item component="ComponentInfo{com.scientificCalculator/com.scientificCalculator.CalculatorInterface}" drawable="ic_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" drawable="ic_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="ic_calculator" />
+    <item component="ComponentInfo{uk.co.nickfines.RealCalc/uk.co.nickfines.RealCalc.Calculator}" drawable="ic_calculator" />
+    <item component="ComponentInfo{uk.co.nickfines.RealCalcPlus/uk.co.nickfines.RealCalcPlus.Calculator}" drawable="ic_calculator" />
 
     <!-- Camera -->
+    <item component="ComponentInfo{com.android.camera/com.android.camera.ArcCamera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CamcorderEntry}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.IfHdmi}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.hwcamera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.android.hwcamera/com.android.hwcamera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.cyngn.cameranextmod2/com.android.camera.CameraLauncher}" drawable="ic_camera"/>
+    <item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="ic_camera" />
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.jrdcom.android.gallery3d/com.android.jrdcamera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CamcorderLoading}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraApp}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraLoading}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraMain}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CamLoading}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraIndex}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.LaunchCamera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.VideoCamera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.miui.camera/com.miui.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.miui.camera1/com.miui.camera1.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.moblynx.cameraicsplus/com.moblynx.cameraics.Camera}" drawable="ic_camera"/>
+    <item component="ComponentInfo{com.modaco.cameralauncher/com.modaco.cameralauncherActivity}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.activity.CameraActivity}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.OppoCamera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.radcam.camera/com.android.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.samsung.camera/com.samsung.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.sec.android.app.latin.launcher.camera/com.sec.android.app.latin.launcher.camera.Launcher}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.sonyericsson.camera/com.sonyericsson.camera.photo.Camera}" drawable="ic_camera" />
+    <item component="ComponentInfo{com.vertu.camera/com.vertu.camera.CameraLauncher}" drawable="ic_camera" />
+    <item component="ComponentInfo{zte.com.cn.camera/zte.com.cn.camera.Camera}" drawable="ic_camera" />
 
     <!-- Clock -->
+    <item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmClock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.doubleTwist.alarmClock/com.doubleTwist.alarmClock.AlarmListActivity}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.doubleTwist.alarmClock/com.doubleTwist.alarmClock.AlarmListActivity}" drawable="ic_clock" />
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.clock.Clock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.lge.clock/com.lge.clock.Clock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.lge.clock/com.lge.clock.DefaultAlarmClockActivity}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.motorola.blur.alarmclock/com.motorola.blur.alarmclock.AlarmClock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.motorola.blur/com.motorola.blur.alarmclock.AlarmClock}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.sec.android.app.latin.launcher.alarmclock/com.sec.android.app.latin.launcher.alarmclock.Launcher}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.zehro.android.clockr/com.zehro.android.clockr.ClockrPreferences}" drawable="ic_clock" />
+    <item component="ComponentInfo{com.zehro.android.clockr/com.zehro.android.clockr.ClockrPreferences}" drawable="ic_clock" />
+    <item component="ComponentInfo{factory.widgets.SenseClockDark/factory.widgets.SenseClockDark.InfoActivity}" drawable="ic_clock" />
 
     <!-- Downloads -->
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="ic_downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="ic_downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}" drawable="ic_downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="ic_downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.GnDownloadTabActivity}" drawable="ic_downloads" />
+    <item component="ComponentInfo{com.google.android.youtube/net.ogmods.youtube.OGDownloadManager1}" drawable="ic_downloads" />
+    <item component="ComponentInfo{com.hwkrbbt.downloadall/com.hwkrbbt.downloadall.MainActivity}" drawable="ic_downloads" />
 
     <!-- Phone  -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PhoneFrontDoor}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.BbDialtactsMainFrameActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallDialtactsActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.dialer.DialerPhoneActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialerActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallListEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivityForDialpad}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsDialerEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsPhoneEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsRecentEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.PhoneDialtactsActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.SmartDialerActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.dialer.DialtactsActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.oppo.contacts.OppoDialtactsActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ContactsSearch}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ContactsTabActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialerSClass}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsCallLogActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsContactsEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.firewall.PhoneFireWall}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.LaunchCallInterface}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.PhoneApp}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.Settings}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.android.phone/com.android.phone.TwDialer}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="ic_phone" />
+    <item component="ComponentInfo{com.cootek.smartdialer/com.cootek.smartdialer.TDialer}" drawable="ic_phone"/>
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="ic_phone" />
+    <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.DialerTabActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.huawei.android.dialer/com.huawei.android.dialer.TwelveKeyDialer}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.motorola.blur/com.motorola.blur.ViewIdentitiesFacetActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.motorola.dialer/com.motorola.dialer.CallLogShortcut}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.motorola.dialer/com.motorola.dialer.DialtactsContactsEntryActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.samsung.android.app.dialertab/com.samsung.android.app.dialertab.DialerTabActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.samsung.dialer/com.samsung.dialer.SplashScreen}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabDialerActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.simpler.dialer/com.simpler.ui.activities.DialerActivity}" drawable="ic_phone"/>
+    <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="ic_phone"/>
 
     <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_settings" />
 
-    <!-- Change for system browser-->
+    <!-- Browser -->
     <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.alias.AZBrowserActivity}" drawable="ic_browser" /> <!-- Changes Aviate's internal browser-->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserLauncher}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.ui.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.WoActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.WoHallActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.Browser9130MainView}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserDownloadPage}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.motorola.android.browser.ChinaMobileActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.yulong.android.browser.BrowserStartPage}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
 
     <!-- Change for system messaging-->
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
@@ -166,6 +321,8 @@
 
     <!-- Adaway-->
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="ic_adaway" />
+    <item component="ComponentInfo{org.adaway/org.adaway.AdAway}" drawable="ic_adaway"/>
+    <item component="ComponentInfo{ma.wanam.youtubeadaway/ma.wanam.youtubeadaway.LauncherAlias}" drawable="ic_adaway"/>
 
     <!-- Adobe Acrobat -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="ic_adobe_acrobat" />
@@ -250,6 +407,9 @@
 
     <!-- ESPN -->
     <item component="ComponentInfo{com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity}" drawable="ic_espn" />
+
+    <!-- Expedia -->
+    <item component="ComponentInfo{com.expedia.bookings/com.expedia.bookings.activity.SearchActivity}" drawable="ic_expedia" />
 
     <!-- Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="ic_facebook" />
@@ -406,8 +566,11 @@
     <!-- Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="ic_steam" />
 
-    <!-- Super SU-->
+    <!-- Super SU -->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="ic_super_su" />
+
+    <!-- Swipe Snake -->
+    <item component="ComponentInfo{com.gmail.kach.ivor.SwipeSnake/com.ansca.corona.CoronaActivity}" drawable="ic_swipe_snake" />
 
     <!-- Target -->
     <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="ic_target" />

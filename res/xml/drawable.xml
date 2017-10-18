@@ -186,7 +186,8 @@
 
 
     <!-- All icons not fitting into above categories -->
-    <category title="A" />
+    <category title="General" />
+    <!--<category title="A" />-->
     <item drawable="ic_action_launcher" />
     <item drawable="ic_adaway" />
     <item drawable="ic_adobe_acrobat" />
@@ -211,51 +212,52 @@
     <item drawable="ic_aviate_launcher" />
 
 
-    <category title="B" />
+    <!--<category title="B" />-->
     <item drawable="ic_bitmoji" />
 
-    <category title="C" />
+    <!--<category title="C" />-->
     <item drawable="ic_cash" />
     <item drawable="ic_cnn" />
 
-    <category title="D" />
+    <!--<category title="D" />-->
     <item drawable="ic_discord" />
     <item drawable="ic_dropbox" />
 
-    <category title="E" />
+    <!--<category title="E" />-->
     <item drawable="ic_ebay" />
     <item drawable="ic_es_file_explorer" />
     <item drawable="ic_espn" />
+    <item drawable="ic_expedia" />
 
-    <category title="F" />
+    <!--<category title="F" />-->
     <item drawable="ic_facebook" />
     <item drawable="ic_facebook_messenger" />
     <item drawable="ic_flashfire" />
     <item drawable="ic_flipboard" />
 
-    <category title="G" />
+    <!--<category title="G" />-->
     <item drawable="ic_glassdoor" />
     <item drawable="ic_go_launcher" />
     <item drawable="ic_groupme" />
     <item drawable="ic_groupon" />
 
-    <category title="H" />
+    <!--<category title="H" />-->
     <item drawable="ic_hbo_now" />
     <item drawable="ic_holo_launcher" />
     <item drawable="ic_hulu" />
 
-    <category title="I" />
+    <!--<category title="I" />-->
     <item drawable="ic_instagram" />
 
     <!--<category title="J" /> -->
     <!--<category title="K" />-->
 
-    <category title="L" />
+    <!--<category title="L" />-->
     <item drawable="ic_lastpass" />
     <item drawable="ic_linkedin" />
     <item drawable="ic_lyft" />
 
-    <category title="M" />
+    <!--<category title="M" />-->
     <item drawable="ic_mc_donalds" />
     <item drawable="ic_microsoft_excel" />
     <item drawable="ic_microsoft_onedrive" />
@@ -266,7 +268,7 @@
     <item drawable="ic_money_lover" />
     <item drawable="ic_musically" />
 
-    <category title="N" />
+    <!--<category title="N" />-->
     <item drawable="ic_netflix" />
     <item drawable="ic_next_launcher" />
     <item drawable="ic_nova" />
@@ -274,7 +276,7 @@
 
     <!--<category title="O" />-->
 
-    <category title="p" />
+    <!--<category title="P" />-->
     <item drawable="ic_pandora" />
     <item drawable="ic_paypal" />
     <item drawable="ic_photomath" />
@@ -284,13 +286,13 @@
 
     <!--<category title="Q" />-->
 
-    <category title="R" />
+    <!--<category title="R" />-->
     <item drawable="ic_reddit" />
     <item drawable="ic_reddit_alt" />
     <item drawable="ic_reddit_official_app" />
     <item drawable="ic_robinhood" />
 
-    <category title="S" />
+    <!--<category title="S" />-->
     <item drawable="ic_shazam" />
     <item drawable="ic_skype" />
     <item drawable="ic_smart_launcher" />
@@ -303,7 +305,7 @@
     <item drawable="ic_steam" />
     <item drawable="ic_super_su" />
 
-    <category title="T" />
+    <!--<category title="T" />-->
     <item drawable="ic_target" />
     <item drawable="ic_textra" />
     <item drawable="ic_thescore_esports" />
@@ -315,25 +317,25 @@
     <item drawable="ic_twitter" />
     <item drawable="ic_twrp" />
 
-    <category title="U" />
+    <!--<category title="U" />-->
     <item drawable="ic_uber" />
     <item drawable="ic_uber_driver" />
     <item drawable="ic_uber_eats" />
     <item drawable="ic_ultimate_ears_boom" />
 
-    <category title="V" />
+    <!--<category title="V" />-->
     <item drawable="ic_venmo" />
 
-    <category title="W" />
+    <!--<category title="W" />-->
     <item drawable="ic_walmart" />
     <item drawable="ic_waze" />
     <item drawable="ic_whatsapp" />
     <item drawable="ic_wolfram_alpha" />
 
-    <category title="X" />
+    <!--<category title="X" />-->
     <item drawable="ic_xfinity_stream_tv" />
 
-    <category title="Y" />
+    <!--<category title="Y" />-->
     <item drawable="ic_yahoo_mail" />
     <item drawable="ic_yelp" />
 
