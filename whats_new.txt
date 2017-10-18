@@ -38,7 +38,7 @@ Version 1.3.0
 - change blue color
 - update targer version and build versions to 25 (need to migrate to adapt for oreo)
 
-New Icons:
+New Icons: (8)
 - uber eats
 - uber driver
 - amtrack
@@ -56,7 +56,7 @@ Version 1.3.1
 - DONE update github to have less screenshots and a detailed report on who to contribute
 - improve support for Aviate, Action, Holo, Smart launcher
 
-New Icons:
+New Icons: (18)
 - ultimate ears boom
 - steam
 - xfinity stream tv
@@ -87,6 +87,7 @@ New Icons:
 - Google Analytics
 - Google Assistant
 - Google Classroom
+- Google Earth
 - Google Express
 - Google Newsstand
 - Google pdf
