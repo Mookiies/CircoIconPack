@@ -35,9 +35,11 @@
     <item drawable="ic_clock" />
     <item drawable="ic_contacts_purple" />
     <item drawable="ic_downloads" />
+    <item drawable="ic_gallery" />
     <item drawable="ic_music" />
     <item drawable="ic_phone" />
     <item drawable="ic_settings" />
+    <item drawable="ic_voice_recorder" />
 
 
     <!-- Icons for google apps -->
@@ -151,6 +153,15 @@
     <item drawable="ic_contacts_salmon" />
     <item drawable="ic_contacts_yellow" />
 
+    <item drawable="ic_gallery_blue" />
+    <item drawable="ic_gallery_green" />
+    <item drawable="ic_gallery_light_blue" />
+    <item drawable="ic_gallery_orange" />
+    <item drawable="ic_gallery_pink" />
+    <item drawable="ic_gallery_red" />
+    <item drawable="ic_gallery_salmon" />
+    <item drawable="ic_gallery_yellow" />
+
     <item drawable="ic_music_blue" />
     <item drawable="ic_music_green" />
     <item drawable="ic_music_light_blue" />
@@ -168,6 +179,15 @@
     <item drawable="ic_phone_red" />
     <item drawable="ic_phone_salmon" />
     <item drawable="ic_phone_yellow" />
+
+    <item drawable="ic_voice_recorder_blue" />
+    <item drawable="ic_voice_recorder_green" />
+    <item drawable="ic_voice_recorder_light_blue" />
+    <item drawable="ic_voice_recorder_orange" />
+    <item drawable="ic_voice_recorder_pink" />
+    <item drawable="ic_voice_recorder_red" />
+    <item drawable="ic_voice_recorder_salmon" />
+    <item drawable="ic_voice_recorder_yellow" />
 
 
     <!-- Folder icons -->
