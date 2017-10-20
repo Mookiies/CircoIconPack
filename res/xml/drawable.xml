@@ -189,6 +189,16 @@
     <item drawable="ic_phone_salmon" />
     <item drawable="ic_phone_yellow" />
 
+    <item drawable="ic_reddit_blue" />
+    <item drawable="ic_reddit_green" />
+    <item drawable="ic_reddit_light_blue" />
+    <item drawable="ic_reddit_orange" />
+    <item drawable="ic_reddit_pink" />
+    <item drawable="ic_reddit_purple" />
+    <item drawable="ic_reddit_red" />
+    <item drawable="ic_reddit_salmon" />
+    <item drawable="ic_reddit_yellow" />
+
     <item drawable="ic_settings_blue" />
     <item drawable="ic_settings_green" />
     <item drawable="ic_settings_light_blue" />
@@ -325,7 +335,6 @@
     <!--<category title="Q" />-->
 
     <!--<category title="R" />-->
-    <item drawable="ic_reddit" />
     <item drawable="ic_reddit_alt" />
     <item drawable="ic_reddit_official_app" />
     <item drawable="ic_robinhood" />

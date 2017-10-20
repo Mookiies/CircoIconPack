@@ -101,4 +101,4 @@ New Icons:
 - Voice Recorder (w/ alt colors)
 - Yelp
 
-Alternate colors for settings and downloads
+Alternate colors for settings, reddit, and downloads
