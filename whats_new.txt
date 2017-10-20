@@ -84,6 +84,7 @@ New Icons:
 - Adobe Photoshop
 - Adobe Lightroom
 - Airbnb
+- Capital One
 - Expedia
 - Gallery (w/ alt colors)
 - Google Analytics
@@ -98,6 +99,9 @@ New Icons:
 - Google Wallpapers
 - Photomath
 - Swipe Snake
+- Top Buzz
+- Top Buzz viral
+- Trip Advisor
 - Voice Recorder (w/ alt colors)
 - Yelp
 

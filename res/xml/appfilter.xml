@@ -561,6 +561,9 @@
     <!-- Bitmoji -->
     <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="ic_bitmoji" />
 
+    <!-- Capital One -->
+    <item component="ComponentInfo{com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity}" drawable="ic_capital_one" />
+
     <!-- Cash -->
     <item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="ic_cash" />
 
@@ -788,6 +791,15 @@
 
     <!-- Tinder -->
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="ic_tinder" />
+
+    <!-- Top Buzz -->
+    <item component="ComponentInfo{com.ss.android.article.master/com.ss.android.article.pagenewark.activity.SplashActivity}" drawable="ic_top_buzz" />
+
+    <!-- Top Buzz Viral -->
+    <item component="ComponentInfo{com.ss.android.article.topbuzzvideo.en/com.ss.android.article.pagenewark.activity.SplashActivity}" drawable="ic_top_buzz_v" />
+
+    <!-- Trip Advisor -->
+    <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity}" drawable="ic_trip_advisor" />
 
     <!-- Tumblr -->
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="ic_tumblr" />

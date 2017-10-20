@@ -264,6 +264,7 @@
     <item drawable="ic_bitmoji" />
 
     <!--<category title="C" />-->
+    <item drawable="ic_capital_one" />
     <item drawable="ic_cash" />
     <item drawable="ic_cnn" />
 
@@ -357,6 +358,9 @@
     <item drawable="ic_textra" />
     <item drawable="ic_thescore_esports" />
     <item drawable="ic_tinder" />
+    <item drawable="ic_top_buzz" />
+    <item drawable="ic_top_buzz_v" />
+    <item drawable="ic_trip_advisor" />
     <item drawable="ic_tumblr" />
     <item drawable="ic_tunein_radio" />
     <item drawable="ic_twitch" />
