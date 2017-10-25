@@ -79,6 +79,7 @@
     <item drawable="ic_google_pdf" />
     <item drawable="ic_google_photos" />
     <item drawable="ic_google_play" />
+    <item drawable="ic_google_play_old" />
     <item drawable="ic_google_plus" />
     <item drawable="ic_google_rewards" />
     <item drawable="ic_google_sheets" />

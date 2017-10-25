@@ -79,7 +79,7 @@ New Icons: (18)
 Version 1.3.2
 ------------------------------------------------------------------------
 
-New Icons:
+New Icons: (24)
 - Adobe Acrobat
 - Adobe Photoshop
 - Adobe Lightroom
@@ -106,3 +106,4 @@ New Icons:
 - Yelp
 
 Alternate colors for settings, reddit, and downloads
+Update google play icon
