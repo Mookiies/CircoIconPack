@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mookie.circo"
-    android:versionCode="17"
-    android:versionName="1.3.2"
+    android:versionCode="18"
+    android:versionName="1.3.3"
     android:allowBackup="true">
 
     <!-- Version code starting at 10 so going backwards is possible -->
