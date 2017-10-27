@@ -719,6 +719,9 @@
     <!-- Reddit Official -->
     <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="ic_reddit_official_app" />
 
+    <!-- Remind Me -->
+    <item component="ComponentInfo{com.remind101/com.remind101.ui.activities.WelcomeActivity}" drawable="ic_remind_me" />
+
     <!-- Robinhood -->
     <item component="ComponentInfo{com.robinhood.android/com.robinhood.android.activity.WelcomeActivity}" drawable="ic_robinhood" />
 
