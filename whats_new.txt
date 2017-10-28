@@ -112,5 +112,8 @@ Update google play icon
 Version 1.3.2
 ------------------------------------------------------------------------
 
+Fixes:
+Update discord theme for new version
+
 New Icons:
 remind me
