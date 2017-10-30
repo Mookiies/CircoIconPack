@@ -702,6 +702,9 @@
     <!-- Pocket cast -->
     <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="ic_pocket_cast" />
 
+    <!-- Pop the lock -->
+    <item component="ComponentInfo{com.sm.popTheLock/com.ansca.corona.CoronaActivity}" drawable="ic_pop_the_lock" />
+
     <!-- Poweramp -->
     <item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity}" drawable="ic_poweramp" />
     <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity}" drawable="ic_poweramp" />
