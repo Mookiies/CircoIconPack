@@ -116,4 +116,5 @@ Fixes:
 Update discord theme for new version
 
 New Icons:
-remind me
+- remind me
+- pop the lock
