@@ -316,6 +316,7 @@
     <item drawable="ic_microsoft_powerpoint" />
     <item drawable="ic_microsoft_word" />
     <item drawable="ic_money_lover" />
+    <item drawable="ic_mticket" />
     <item drawable="ic_musically" />
 
     <!--<category title="N" />-->
@@ -379,6 +380,7 @@
 
     <!--<category title="V" />-->
     <item drawable="ic_venmo" />
+    <item drawable="ic_viber_messenger" />
 
     <!--<category title="W" />-->
     <item drawable="ic_walmart" />

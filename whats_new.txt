@@ -118,3 +118,5 @@ Update discord theme for new version
 New Icons:
 - remind me
 - pop the lock
+- viber messenger
+- mticket

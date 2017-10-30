@@ -668,6 +668,9 @@
     <!-- Money Lover -->
     <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash}" drawable="ic_money_lover" />
 
+    <!-- Mticket-->
+    <item component="ComponentInfo{com.mbta.mobileapp/com.masabi.android.MetroClientActivity}" drawable="ic_mticket" />
+
     <!-- Musically -->
     <item component="ComponentInfo{com.zhiliaoapp.musically/com.zhiliaoapp.musically.activity.SplashActivity}" drawable="ic_musically" />
 
@@ -840,6 +843,9 @@
 
     <!-- Venmo -->
     <item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="ic_venmo" />
+
+    <!-- Viber -->
+    <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="ic_viber_messenger" />
 
     <!-- Walmart -->
     <item component="ComponentInfo{com.walmart.android/com.walmart.android.app.main.MainActivity}" drawable="ic_walmart" />
