@@ -64,6 +64,7 @@
     <item drawable="ic_google_classroom" />
     <item drawable="ic_google_documents" />
     <item drawable="ic_google_drive" />
+    <item drawable="ic_google_drive_old" />
     <item drawable="ic_google_earth" />
     <item drawable="ic_google_express" />
     <item drawable="ic_google_fit" />
