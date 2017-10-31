@@ -61,6 +61,8 @@
     <item drawable="ic_google_assistant" />
     <item drawable="ic_google_books" />
     <item drawable="ic_google_calendar" />
+    <item drawable="ic_google_cardboard" />
+    <item drawable="ic_google_cardboard_camera" />
     <item drawable="ic_google_classroom" />
     <item drawable="ic_google_documents" />
     <item drawable="ic_google_drive" />
@@ -298,6 +300,7 @@
     <item drawable="ic_hulu" />
 
     <!--<category title="I" />-->
+    <item drawable="ic_ifunny" />
     <item drawable="ic_instagram" />
 
     <!--<category title="J" /> -->

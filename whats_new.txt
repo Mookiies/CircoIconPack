@@ -120,3 +120,6 @@ New Icons:
 - pop the lock
 - viber messenger
 - mticket
+- cardboard
+- cardboard camera
+- iFuny
