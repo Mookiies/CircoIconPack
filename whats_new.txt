@@ -123,3 +123,5 @@ New Icons:
 - cardboard
 - cardboard camera
 - iFuny
+- pushbullet
+- mini metro

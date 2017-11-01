@@ -319,6 +319,7 @@
     <item drawable="ic_microsoft_outlook" />
     <item drawable="ic_microsoft_powerpoint" />
     <item drawable="ic_microsoft_word" />
+    <item drawable="ic_mini_metro" />
     <item drawable="ic_money_lover" />
     <item drawable="ic_mticket" />
     <item drawable="ic_musically" />
@@ -339,6 +340,7 @@
     <item drawable="ic_pocket_cast" />
     <item drawable="ic_pop_the_lock" />
     <item drawable="ic_poweramp" />
+    <item drawable="ic_pushbullet" />
 
     <!--<category title="Q" />-->
 
