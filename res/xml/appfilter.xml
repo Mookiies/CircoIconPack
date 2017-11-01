@@ -427,42 +427,101 @@
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="ic_app_drawer" />
 
 
-    <!-- Icon replacements for google apps TODO make these separated w/ comment like other apps-->
+    <!-- Icon replacements for google apps -->
+    <!-- Allo -->
     <item component="ComponentInfo{com.google.android.apps.fireball/com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity}" drawable="ic_allo" />
+
+    <!--Android Auto-->
     <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity}" drawable="ic_android_auto" />
+
+    <!--Android Pay-->
     <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="ic_android_pay" />
+
+    <!--Android wear-->
     <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="ic_android_wear" />
+
+    <!--Chrome-->
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="ic_chrome" />
     <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="ic_chrome_beta" />
     <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="ic_chrome_canary" />
     <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.LauncherMain}" drawable="ic_chrome_canary" />
     <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="ic_chrome_dev" />
+
+    <!--Duo-->
     <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="ic_duo" />
+
+    <!--Find my device-->
     <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.MainActivity}" drawable="ic_find_my_device" />
     <item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.LicenseActivity}" drawable="ic_find_my_device" />
+
+    <!--Gmail-->
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="ic_gmail" />
+
+    <!--Adsense-->
     <item component="ComponentInfo{com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.BaseActivity}" drawable="ic_google_adsense" />
+
+    <!--Analytics-->
     <item component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.activity.LauncherActivity}" drawable="ic_google_analytics" />
+
+    <!--Google app-->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="ic_google_app" />
+
+    <!--Assistant-->
     <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="ic_google_assistant" />
+
+    <!--Books-->
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="ic_google_books" />
+
+    <!--Calendar-->
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ic_google_calendar" />
+
+    <!--Cardboard-->
     <item component="ComponentInfo{com.google.samples.apps.cardboarddemo/com.google.vr.cardboard.paperscope.carton.Home2Dv2}" drawable="ic_google_cardboard" />
     <item component="ComponentInfo{com.google.vr.cyclops/com.google.android.apps.cyclops.StartActivity}" drawable="ic_google_cardboard_camera" />
+
+    <!--Classroom-->
     <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity}" drawable="ic_google_classroom" />
+
+    <!--Documents-->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_documents" />
+
+    <!--Drive-->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_drive" />
+
+    <!--Earth-->
     <item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="ic_google_earth" />
+
+    <!--Express-->
     <item component="ComponentInfo{com.google.android.apps.shopping.express/com.google.android.apps.shopping.express.activity.PreMainActivity}" drawable="ic_google_express" />
+
+    <!--Fit-->
     <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="ic_google_fit" />
+
+    <!--Games-->
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="ic_google_games" />
+
+    <!--Home-->
     <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="ic_google_home" />
+
+    <!--Keep-->
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="ic_google_keep" />
+
+    <!--Maps-->
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="ic_google_maps" />
+
+    <!--Movies-->
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="ic_google_movies" />
+
+    <!--Music-->
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_google_music" />
+
+    <!--News Weather-->
     <item component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity}" drawable="ic_google_news_weather" />
+
+    <!--Newsstand-->
     <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="ic_google_newsstand" />
+
+    <!--Now launcher-->
     <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="ic_google_now_launcher" />
 
     <!-- Google Photos -->
@@ -470,19 +529,46 @@
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="ic_google_photos"/>
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.circles.realtimechat.ConversationListActivity}" drawable="ic_google_photos"/>
 
+    <!--Play-->
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_google_play" />
+
+    <!--Plus-->
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="ic_google_plus" />
+
+    <!--Rewards-->
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="ic_google_rewards" />
+
+    <!--Sheets-->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_sheets" />
+
+    <!--Slides-->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_slides" />
+
+    <!--Translate-->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="ic_google_translate" />
+
+    <!--Trips-->
     <item component="ComponentInfo{com.google.android.apps.travel.onthego/com.google.android.apps.travel.onthego.activities.MainActivity}" drawable="ic_google_trips" />
+
+    <!--Voice-->
     <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="ic_google_voice" />
+
+    <!--Voice search-->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="ic_google_voice_search" />
+
+    <!--Wallpapers-->
     <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="ic_google_wallpapers" />
+
+    <!--Hangouts-->
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
+
+    <!--Inbox-->
     <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="ic_inbox" />
+
+    <!--My maps-->
     <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="ic_my_maps" />
+
+    <!--Youtube-->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="ic_youtube" />
     <item component="ComponentInfo{com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity}" drawable="ic_youtube_gaming" />
     <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="ic_youtube_music" />
