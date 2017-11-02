@@ -125,3 +125,7 @@ New Icons:
 - iFuny
 - pushbullet
 - mini metro
+- prisma
+- evernote
+- hotel tonight
+- citymapper

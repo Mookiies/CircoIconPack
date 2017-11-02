@@ -270,6 +270,7 @@
     <!--<category title="C" />-->
     <item drawable="ic_capital_one" />
     <item drawable="ic_cash" />
+    <item drawable="ic_citymapper" />
     <item drawable="ic_cnn" />
 
     <!--<category title="D" />-->
@@ -280,6 +281,7 @@
     <item drawable="ic_ebay" />
     <item drawable="ic_es_file_explorer" />
     <item drawable="ic_espn" />
+    <item drawable="ic_evernote" />
     <item drawable="ic_expedia" />
 
     <!--<category title="F" />-->
@@ -297,6 +299,7 @@
     <!--<category title="H" />-->
     <item drawable="ic_hbo_now" />
     <item drawable="ic_holo_launcher" />
+    <item drawable="ic_hotel_tonight" />
     <item drawable="ic_hulu" />
 
     <!--<category title="I" />-->
@@ -340,6 +343,7 @@
     <item drawable="ic_pocket_cast" />
     <item drawable="ic_pop_the_lock" />
     <item drawable="ic_poweramp" />
+    <item drawable="ic_prisma" />
     <item drawable="ic_pushbullet" />
 
     <!--<category title="Q" />-->

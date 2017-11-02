@@ -655,6 +655,9 @@
     <!-- Cash -->
     <item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="ic_cash" />
 
+    <!-- Citymapper -->
+    <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="ic_citymapper" />
+
     <!-- CNN -->
     <item component="ComponentInfo{com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.features.splash.SplashActivity}" drawable="ic_cnn" />
 
@@ -677,6 +680,9 @@
 
     <!-- ESPN -->
     <item component="ComponentInfo{com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity}" drawable="ic_espn" />
+
+    <!-- Evernote -->
+    <item component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}" drawable="ic_evernote" />
 
     <!-- Expedia -->
     <item component="ComponentInfo{com.expedia.bookings/com.expedia.bookings.activity.SearchActivity}" drawable="ic_expedia" />
@@ -714,6 +720,9 @@
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="ic_holo_launcher" />
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Settings}" drawable="ic_holo_launcher" />
     <item component="ComponentInfo{com.mobint.hololauncher/com.android.launcher3.ShortcutActivity}" drawable="ic_holo_launcher" />
+
+    <!-- Hotel tonight -->
+    <item component="ComponentInfo{com.hoteltonight.android.prod/com.hoteltonight.android.prod.activity.SplashActivity}" drawable="ic_hotel_tonight" />
 
     <!-- Hulu -->
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="ic_hulu" />
@@ -807,6 +816,9 @@
     <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity}" drawable="ic_poweramp" />
     <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.RedirectorActivity}" drawable="ic_poweramp" />
 
+    <!-- Prisma -->
+    <item component="ComponentInfo{com.neuralprisma/com.prisma.ui.starter.StarterActivity}" drawable="ic_prisma" />
+
     <!-- Pushbullet -->
     <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="ic_pushbullet" />
 
@@ -818,7 +830,6 @@
     <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="ic_reddit_blue"/>
     <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="ic_reddit_blue" />
     <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="ic_reddit_blue"/>
-
 
     <!-- Reddit Official -->
     <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="ic_reddit_official_app" />
@@ -845,7 +856,6 @@
     <item component="ComponentInfo{com.skype.android.threeUK/com.skype.android.threeUK.SkypeActivity}" drawable="ic_skype"/>
     <item component="ComponentInfo{com.skype.android.threeAU/com.skype.android.threeAU.SkypeActivity}" drawable="ic_skype"/>
     <item component="ComponentInfo{com.skype.unlocked.raider/com.skype.unlocked.raider.ui.SplashScreenActivity}" drawable="ic_skype"/>
-
 
     <!-- Smart Launcher -->
     <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="ic_smart_launcher" />
@@ -964,7 +974,6 @@
 
     <!-- Yelp -->
     <item component="ComponentInfo{com.yelp.android/com.yelp.android.ui.activities.RootActivity}" drawable="ic_yelp" />
-
 
     <!-- Auto-generating uniform replacement icons -->
     <iconback img1="ic_generic_back" />
