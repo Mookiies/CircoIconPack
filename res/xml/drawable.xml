@@ -304,6 +304,7 @@
 
     <!--<category title="I" />-->
     <item drawable="ic_ifunny" />
+    <item drawable="ic_imgur" />
     <item drawable="ic_instagram" />
 
     <!--<category title="J" /> -->
@@ -391,6 +392,7 @@
     <!--<category title="V" />-->
     <item drawable="ic_venmo" />
     <item drawable="ic_viber_messenger" />
+    <item drawable="ic_vivino" />
 
     <!--<category title="W" />-->
     <item drawable="ic_walmart" />

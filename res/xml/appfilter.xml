@@ -730,6 +730,9 @@
     <!-- iFunny -->
     <item component="ComponentInfo{mobi.ifunny/mobi.ifunny.splash.SplashActivity}" drawable="ic_ifunny" />
 
+    <!-- imgur -->
+    <item component="ComponentInfo{com.imgur.mobile/com.imgur.mobile.Launcher}" drawable="ic_imgur" />
+
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="ic_instagram" />
 
@@ -953,6 +956,9 @@
 
     <!-- Viber -->
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="ic_viber_messenger" />
+
+    <!-- Vivino -->
+    <item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="ic_vivino" />
 
     <!-- Walmart -->
     <item component="ComponentInfo{com.walmart.android/com.walmart.android.app.main.MainActivity}" drawable="ic_walmart" />

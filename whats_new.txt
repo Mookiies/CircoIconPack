@@ -129,3 +129,5 @@ New Icons:
 - evernote
 - hotel tonight
 - citymapper
+- vivino
+- imgur
