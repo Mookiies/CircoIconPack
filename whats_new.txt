@@ -133,3 +133,14 @@ New Icons:
 - imgur
 - youtube tv
 - komoot
+- xbox
+- wells fargo
+- walgreens
+- starbucks
+- pizza hut
+- nextdoor
+- geico
+- dominos
+- chase bank
+- bank of america
+- audiomack

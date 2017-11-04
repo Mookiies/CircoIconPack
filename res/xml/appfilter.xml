@@ -640,12 +640,18 @@
     <!-- Audible -->
     <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="ic_audible" />
 
+    <!-- Audiomack -->
+    <item component="ComponentInfo{com.audiomack/com.audiomack.activities.V2SplashActivity}" drawable="ic_audiomack" />
+
     <!-- Aviate -->
     <!-- TODO make icon for Aviate sotre -->
     <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.MainActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingStartActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingSearchActivity}" drawable="ic_aviate_launcher" />
+
+    <!-- Bank of America -->
+    <item component="ComponentInfo{com.infonow.bofa/com.infonow.bofa.Launcher}" drawable="ic_bank_of_america" />
 
     <!-- Bitmoji -->
     <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="ic_bitmoji" />
@@ -656,6 +662,9 @@
     <!-- Cash -->
     <item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="ic_cash" />
 
+    <!-- Chase bank -->
+    <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.HomeActivity}" drawable="ic_chase_bank" />
+
     <!-- Citymapper -->
     <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="ic_citymapper" />
 
@@ -665,6 +674,9 @@
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="ic_discord" />
     <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="ic_discord" />
+
+    <!-- Dominos -->
+    <item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="ic_dominos" />
 
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="ic_dropbox" />
@@ -699,6 +711,9 @@
 
     <!-- Flipboard -->
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="ic_flipboard" />
+
+    <!-- Geico -->
+    <item component="ComponentInfo{com.geico.mobile/com.geico.mobile.android.ace.geicoAppPresentation.splash.AceSplashActivity}" drawable="ic_geico" />
 
     <!-- Glassdoor -->
     <item component="ComponentInfo{com.glassdoor.app/com.glassdoor.gdandroid2.activities.LaunchActivity}" drawable="ic_glassdoor" />
@@ -790,6 +805,9 @@
     <!-- Next Launcher -->
     <item component="ComponentInfo{com.gtp.nextlauncher.trial/com.gtp.nextlauncher.MainActivity}" drawable="ic_next_launcher" />
 
+    <!-- Nextdoor -->
+    <item component="ComponentInfo{com.nextdoor/com.nextdoor.nux.LoadAppConfigurationActivity}" drawable="ic_nextdoor" />
+
     <!-- Nova Launcher -->
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="ic_nova" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="ic_nova" />
@@ -811,6 +829,9 @@
 
     <!-- Pintrest -->
     <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="ic_pintrest" />
+
+    <!-- Pizza Hut -->
+    <item component="ComponentInfo{com.yum.pizzahut/com.yum.pizzahut.Home}" drawable="ic_pizza_hut" />
 
     <!-- Pocket cast -->
     <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="ic_pocket_cast" />
@@ -889,6 +910,9 @@
     <!-- Spotify -->
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="ic_spotify" />
 
+    <!-- Starbucks -->
+    <item component="ComponentInfo{com.starbucks.mobilecard/com.starbucks.mobilecard.main.activity.LandingPageActivity}" drawable="ic_starbucks" />
+
     <!-- Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="ic_steam" />
 
@@ -964,17 +988,26 @@
     <!-- Vivino -->
     <item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="ic_vivino" />
 
+    <!-- Walgreens -->
+    <item component="ComponentInfo{com.usablenet.mobile.walgreen/com.usablenet.mobile.walgreen.AppStart}" drawable="ic_walgreens" />
+
     <!-- Walmart -->
     <item component="ComponentInfo{com.walmart.android/com.walmart.android.app.main.MainActivity}" drawable="ic_walmart" />
 
     <!-- Waze -->
     <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="ic_waze" />
 
+    <!-- Wells Fargo -->
+    <item component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.MainActivity}" drawable="ic_wells_fargo" />
+
     <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="ic_whatsapp" />
 
     <!-- Wolfram Alpha -->
     <item component="ComponentInfo{com.wolfram.android.alpha/com.wolfram.android.alpha.activity.SplashScreenActivity}" drawable="ic_wolfram_alpha" />
+
+    <!-- Xbox -->
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="ic_xbox" />
 
     <!-- Xfinity Stream TV -->
     <item component="ComponentInfo{com.xfinity.cloudtvr/com.xfinity.common.view.LaunchActivity}" drawable="ic_xfinity_stream_tv" />

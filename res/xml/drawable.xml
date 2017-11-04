@@ -262,20 +262,24 @@
     <item drawable="ic_apex_launcher" />
     <item drawable="ic_atom_launcher" />
     <item drawable="ic_audible" />
+    <item drawable="ic_audiomack" />
     <item drawable="ic_aviate_launcher" />
 
 
     <!--<category title="B" />-->
+    <item drawable="ic_bank_of_america" />
     <item drawable="ic_bitmoji" />
 
     <!--<category title="C" />-->
     <item drawable="ic_capital_one" />
     <item drawable="ic_cash" />
+    <item drawable="ic_chase_bank" />
     <item drawable="ic_citymapper" />
     <item drawable="ic_cnn" />
 
     <!--<category title="D" />-->
     <item drawable="ic_discord" />
+    <item drawable="ic_dominos" />
     <item drawable="ic_dropbox" />
 
     <!--<category title="E" />-->
@@ -292,6 +296,7 @@
     <item drawable="ic_flipboard" />
 
     <!--<category title="G" />-->
+    <item drawable="ic_geico" />
     <item drawable="ic_glassdoor" />
     <item drawable="ic_go_launcher" />
     <item drawable="ic_groupme" />
@@ -344,6 +349,7 @@
     <item drawable="ic_paypal" />
     <item drawable="ic_photomath" />
     <item drawable="ic_pintrest" />
+    <item drawable="ic_pizza_hut" />
     <item drawable="ic_pocket_cast" />
     <item drawable="ic_pop_the_lock" />
     <item drawable="ic_poweramp" />
@@ -368,6 +374,7 @@
     <item drawable="ic_soundhound" />
     <item drawable="ic_speedtest_ookla" />
     <item drawable="ic_spotify" />
+    <item drawable="ic_starbucks" />
     <item drawable="ic_steam" />
     <item drawable="ic_super_su" />
 
@@ -398,12 +405,15 @@
     <item drawable="ic_vivino" />
 
     <!--<category title="W" />-->
+    <item drawable="ic_walgreens" />
     <item drawable="ic_walmart" />
     <item drawable="ic_waze" />
+    <item drawable="ic_wells_fargo" />
     <item drawable="ic_whatsapp" />
     <item drawable="ic_wolfram_alpha" />
 
     <!--<category title="X" />-->
+    <item drawable="ic_xbox" />
     <item drawable="ic_xfinity_stream_tv" />
 
     <!--<category title="Y" />-->
