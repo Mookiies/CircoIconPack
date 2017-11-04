@@ -131,3 +131,5 @@ New Icons:
 - citymapper
 - vivino
 - imgur
+- youtube tv
+- komoot

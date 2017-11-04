@@ -573,6 +573,7 @@
     <item component="ComponentInfo{com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity}" drawable="ic_youtube_gaming" />
     <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="ic_youtube_music" />
     <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="ic_youtube_studio" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.activities.MainActivity}" drawable="ic_youtube_tv" />
 
 
     <!-- General applications -->
@@ -735,6 +736,9 @@
 
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="ic_instagram" />
+
+    <!-- imgur -->
+    <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="ic_komoot" />
 
     <!-- Lastpass-->
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="ic_lastpass" />

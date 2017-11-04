@@ -99,6 +99,7 @@
     <item drawable="ic_youtube_gaming" />
     <item drawable="ic_youtube_music" />
     <item drawable="ic_youtube_studio" />
+    <item drawable="ic_youtube_tv" />
 
 
     <!-- Color variations of icons -->
@@ -308,7 +309,9 @@
     <item drawable="ic_instagram" />
 
     <!--<category title="J" /> -->
+
     <!--<category title="K" />-->
+    <item drawable="ic_komoot" />
 
     <!--<category title="L" />-->
     <item drawable="ic_lastpass" />
