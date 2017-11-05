@@ -122,7 +122,7 @@ New Icons:
 - mticket
 - cardboard
 - cardboard camera
-- iFuny
+- iFunny
 - pushbullet
 - mini metro
 - prisma
@@ -144,3 +144,4 @@ New Icons:
 - chase bank
 - bank of america
 - audiomack
+- zoom

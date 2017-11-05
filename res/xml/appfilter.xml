@@ -1018,6 +1018,9 @@
     <!-- Yelp -->
     <item component="ComponentInfo{com.yelp.android/com.yelp.android.ui.activities.RootActivity}" drawable="ic_yelp" />
 
+    <!-- Zoom -->
+    <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="ic_yelp" />
+
     <!-- Auto-generating uniform replacement icons -->
     <iconback img1="ic_generic_back" />
     <iconmask img1="ic_generic_mask" />

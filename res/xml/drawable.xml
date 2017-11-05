@@ -421,5 +421,6 @@
     <item drawable="ic_yelp" />
 
     <!--<category title="Z" />-->
+    <item drawable="ic_zoom" />
 
 </resources>
