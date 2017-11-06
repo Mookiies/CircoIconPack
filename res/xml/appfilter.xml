@@ -604,6 +604,9 @@
     <!-- Airbnb -->
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.activities.MainActivity}" drawable="ic_airbnb" />
 
+    <!-- Amazon Alexa -->
+    <item component="ComponentInfo{com.amazon.dee.app/com.amazon.dee.app.Launcher}" drawable="ic_amazon_alexa" />
+
     <!-- Amazon Appstore -->
     <item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Launcher}" drawable="ic_amazon_appstore" />
 
@@ -632,6 +635,9 @@
 
     <!-- Apex -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
+
+    <!-- Apple Music -->
+    <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="ic_apple_music" />
 
     <!-- Atom Launcher -->
     <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.LauncherAlias}" drawable="ic_atom_launcher" />

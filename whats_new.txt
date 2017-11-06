@@ -145,3 +145,5 @@ New Icons:
 - bank of america
 - audiomack
 - zoom
+- apple music
+- amazon alexa
