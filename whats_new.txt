@@ -147,3 +147,4 @@ New Icons:
 - zoom
 - apple music
 - amazon alexa
+- adobe clip

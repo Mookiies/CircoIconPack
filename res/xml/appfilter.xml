@@ -592,6 +592,9 @@
     <!-- Adobe Acrobat -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="ic_adobe_acrobat" />
 
+    <!-- Adobe Clip -->
+    <item component="ComponentInfo{com.adobe.premiereclip/com.adobe.premiereclip.SplashScreenActivity}" drawable="ic_adobe_clip" />
+
     <!-- Adobe Photoshop -->
     <item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="ic_adobe_photoshop" />
 
