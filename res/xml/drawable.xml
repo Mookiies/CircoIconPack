@@ -425,5 +425,6 @@
 
     <!--<category title="Z" />-->
     <item drawable="ic_zoom" />
+    <item drawable="ic_zoosk" />
 
 </resources>

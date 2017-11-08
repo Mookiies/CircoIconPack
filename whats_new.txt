@@ -109,12 +109,13 @@ Alternate colors for settings, reddit, and downloads
 Update google play icon
 
 
-Version 1.3.2
+Version 1.3.3
 ------------------------------------------------------------------------
 
 Fixes:
 Update discord theme for new version
 Update google drive icon
+
 New Icons:
 - remind me
 - pop the lock
@@ -148,3 +149,4 @@ New Icons:
 - apple music
 - amazon alexa
 - adobe clip
+- zoosk

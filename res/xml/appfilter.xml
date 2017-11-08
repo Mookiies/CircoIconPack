@@ -1028,7 +1028,10 @@
     <item component="ComponentInfo{com.yelp.android/com.yelp.android.ui.activities.RootActivity}" drawable="ic_yelp" />
 
     <!-- Zoom -->
-    <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="ic_yelp" />
+    <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="ic_zoom" />
+
+    <!-- Zoosk -->
+    <item component="ComponentInfo{com.zoosk.zoosk/com.zoosk.zoosk.activities.LaunchActivity}" drawable="ic_zoosk" />
 
     <!-- Auto-generating uniform replacement icons -->
     <iconback img1="ic_generic_back" />
