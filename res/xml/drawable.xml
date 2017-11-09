@@ -277,6 +277,7 @@
     <item drawable="ic_capital_one" />
     <item drawable="ic_cash" />
     <item drawable="ic_chase_bank" />
+    <item drawable="ic_citi" />
     <item drawable="ic_citymapper" />
     <item drawable="ic_cnn" />
 
@@ -295,6 +296,7 @@
     <!--<category title="F" />-->
     <item drawable="ic_facebook" />
     <item drawable="ic_facebook_messenger" />
+    <item drawable="ic_fitbit" />
     <item drawable="ic_flashfire" />
     <item drawable="ic_flipboard" />
 
@@ -342,6 +344,8 @@
     <!--<category title="N" />-->
     <item drawable="ic_netflix" />
     <item drawable="ic_next_launcher" />
+    <item drawable="ic_nextdoor" />
+    <item drawable="ic_nike" />
     <item drawable="ic_nova" />
     <item drawable="ic_nytimes" />
 

@@ -150,3 +150,6 @@ New Icons:
 - amazon alexa
 - adobe clip
 - zoosk
+- nike
+- citi
+- fitbit
