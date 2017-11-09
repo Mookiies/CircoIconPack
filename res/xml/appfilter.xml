@@ -529,46 +529,46 @@
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="ic_google_photos"/>
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.circles.realtimechat.ConversationListActivity}" drawable="ic_google_photos"/>
 
-    <!--Play-->
+    <!-- Play-->
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_google_play" />
 
-    <!--Plus-->
+    <!-- Plus-->
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="ic_google_plus" />
 
-    <!--Rewards-->
+    <!-- Rewards-->
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="ic_google_rewards" />
 
-    <!--Sheets-->
+    <!-- Sheets-->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_sheets" />
 
-    <!--Slides-->
+    <!-- Slides-->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_slides" />
 
-    <!--Translate-->
+    <!-- Translate-->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="ic_google_translate" />
 
-    <!--Trips-->
+    <!-- Trips-->
     <item component="ComponentInfo{com.google.android.apps.travel.onthego/com.google.android.apps.travel.onthego.activities.MainActivity}" drawable="ic_google_trips" />
 
-    <!--Voice-->
+    <!-- Voice-->
     <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="ic_google_voice" />
 
-    <!--Voice search-->
+    <!-- Voice search-->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="ic_google_voice_search" />
 
-    <!--Wallpapers-->
+    <!-- Wallpapers-->
     <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="ic_google_wallpapers" />
 
-    <!--Hangouts-->
+    <!-- Hangouts-->
     <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ic_hangouts" />
 
-    <!--Inbox-->
+    <!-- Inbox-->
     <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="ic_inbox" />
 
-    <!--My maps-->
+    <!-- My maps-->
     <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="ic_my_maps" />
 
-    <!--Youtube-->
+    <!-- Youtube-->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="ic_youtube" />
     <item component="ComponentInfo{com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity}" drawable="ic_youtube_gaming" />
     <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="ic_youtube_music" />
