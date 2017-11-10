@@ -886,6 +886,9 @@
     <!-- Robinhood -->
     <item component="ComponentInfo{com.robinhood.android/com.robinhood.android.activity.WelcomeActivity}" drawable="ic_robinhood" />
 
+    <!-- Roku -->
+    <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.WelcomeActivity}" drawable="ic_roku" />
+
     <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="ic_shazam" />
 

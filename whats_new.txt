@@ -153,3 +153,4 @@ New Icons:
 - nike
 - citi
 - fitbit
+- roku
