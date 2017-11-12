@@ -186,9 +186,8 @@ public class ApplyLauncherFragment extends Fragment {
     }
 
     /**
-     * Creates {@link Intent} to launch market application with the given url. Also displays a
-     * {@link Toast} with short length of given toastMessage to inform user that the given laucnher
-     * was no installed and they are being redirected to market.
+     * Displaysa a {@link Toast} with short length of given toastMessage to inform user that
+     * the given laucnher was no installed.
      *
      * @param toastMessage message of toast to be displayed
      */

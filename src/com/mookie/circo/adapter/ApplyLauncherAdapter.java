@@ -66,7 +66,7 @@ public class ApplyLauncherAdapter extends BaseAdapter
     }
 
     @Override
-    @SuppressWarnings( "deprecation" )
+//    @SuppressWarnings( "deprecation" )
     //deprecation warning suppressed because colors need to be accessed in this manner to allow for
     //compatibility with the support.v4 library and fragment setup of the MainActivity
     public View getView(int position, View v, ViewGroup parent) {
