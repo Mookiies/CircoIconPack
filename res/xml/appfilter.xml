@@ -767,6 +767,9 @@
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="ic_instagram" />
 
+    <!-- Instagram Layout-->
+    <item component="ComponentInfo{com.instagram.layout/com.instagram.layout.LayoutActivity}" drawable="ic_instagram_layout" />
+
     <!-- imgur -->
     <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="ic_komoot" />
 
