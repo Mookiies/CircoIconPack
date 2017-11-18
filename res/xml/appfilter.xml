@@ -571,6 +571,7 @@
     <!-- Youtube-->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="ic_youtube" />
     <item component="ComponentInfo{com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity}" drawable="ic_youtube_gaming" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.activities.SplashScreenActivity}" drawable="ic_youtube_kids" />
     <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="ic_youtube_music" />
     <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="ic_youtube_studio" />
     <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.activities.MainActivity}" drawable="ic_youtube_tv" />
