@@ -925,9 +925,11 @@
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Launch}" drawable="ic_soundcloud"/>
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Main}" drawable="ic_soundcloud"/>
 
-
     <!-- Soundhound -->
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="ic_soundhound" />
+
+    <!-- Spectrum TV -->
+    <item component="ComponentInfo{com.TWCableTV/com.twc.android.ui.login.SplashScreen}" drawable="ic_spectrum_tv" />
 
     <!-- Speedtest Ookla -->
     <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="ic_speedtest_ookla" />
