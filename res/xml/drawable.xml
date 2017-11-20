@@ -242,6 +242,7 @@
     <!-- All icons not fitting into above categories -->
     <category title="General" />
     <!--<category title="A" />-->
+    <item drawable="ic_abc" />
     <item drawable="ic_action_launcher" />
     <item drawable="ic_adaway" />
     <item drawable="ic_adobe_acrobat" />
