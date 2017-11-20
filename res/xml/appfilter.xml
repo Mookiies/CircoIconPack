@@ -578,6 +578,9 @@
 
 
     <!-- General applications -->
+    <!-- ABC App -->
+    <item component="ComponentInfo{com.disney.datg.videoplatforms.android.abc/com.disney.datg.android.abc.startup.AbcSplashScreenActivity}" drawable="ic_abc" />
+
     <!-- Action Launcher -->
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="ic_action_launcher" />
     <item component="ComponentInfo{com.actionlauncher.playstore/com.android.launcher3.WallpaperPickerActivity}" drawable="ic_action_launcher" />
