@@ -608,6 +608,9 @@
     <!-- Adw Launcher -->
     <item component="ComponentInfo{org.adw.launcher/org.adw.launcher.LauncherActivity}" drawable="ic_adw_launcher" />
 
+    <!-- Air France -->
+    <item component="ComponentInfo{com.airfrance.android.dinamoprd/com.airfrance.android.totoro.ui.activity.main.MainActivity}" drawable="ic_air_france" />
+
     <!-- Airbnb -->
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.activities.MainActivity}" drawable="ic_airbnb" />
 
@@ -636,6 +639,9 @@
     <!-- Amazon Shopping -->
     <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
     <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_shopping" />
+
+    <!-- American Airlines -->
+    <item component="ComponentInfo{com.aa.android/com.aa.android.view.SplashActivity}" drawable="ic_american_airlines" />
 
     <!-- Amtrack -->
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
@@ -686,6 +692,9 @@
 
     <!-- CNN -->
     <item component="ComponentInfo{com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.features.splash.SplashActivity}" drawable="ic_cnn" />
+
+    <!-- Delta Airlines -->
+    <item component="ComponentInfo{com.delta.mobile.android/com.delta.mobile.android.SplashScreen}" drawable="ic_delta_air" />
 
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="ic_discord" />
@@ -955,8 +964,11 @@
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperSU}" drawable="ic_super_su"/>
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Original}" drawable="ic_super_su"/>
 
-    <!-- Swipe Snake -->
+    <!-- Swiss Air -->
     <item component="ComponentInfo{com.gmail.kach.ivor.SwipeSnake/com.ansca.corona.CoronaActivity}" drawable="ic_swipe_snake" />
+
+    <!-- Swipe Snake -->
+    <item component="ComponentInfo{com.yoc.swiss.swiss/ch.edge5.nativemenu.swiss.ui.activities.MainActivity}" drawable="ic_swiss_air" />
 
     <!-- Target -->
     <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="ic_target" />
@@ -1008,6 +1020,9 @@
 
     <!-- Ultimate Ears Boom -->
     <item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.activities.MainActivity}" drawable="ic_ultimate_ears_boom" />
+
+    <!-- United Airlines -->
+    <item component="ComponentInfo{com.united.mobile.android/com.united.mobile.android.SplashScreen}" drawable="ic_united_airlines" />
 
     <!-- Venmo -->
     <item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="ic_venmo" />

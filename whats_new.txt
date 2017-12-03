@@ -162,3 +162,8 @@ New Icons:
 - Youtube Kids
 - Spectrum TV
 - abc
+- united airlines
+- swiss air
+- delta air
+- american airlines
+- air france

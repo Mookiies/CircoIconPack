@@ -251,6 +251,7 @@
     <item drawable="ic_adobe_photoshop_lightroom" />
     <item drawable="ic_adobe_photoshop_lightroom_alt" />
     <item drawable="ic_adw_launcher" />
+    <item drawable="ic_air_france" />
     <item drawable="ic_airbnb" />
     <item drawable="ic_amazon_alexa" />
     <item drawable="ic_amazon_appstore" />
@@ -262,6 +263,7 @@
     <item drawable="ic_amazon_prime_video" />
     <item drawable="ic_amazon_seller" />
     <item drawable="ic_amazon_shopping" />
+    <item drawable="ic_american_airlines" />
     <item drawable="ic_amtrack" />
     <item drawable="ic_apex_launcher" />
     <item drawable="ic_apple_music" />
@@ -284,6 +286,7 @@
     <item drawable="ic_cnn" />
 
     <!--<category title="D" />-->
+    <item drawable="ic_delta_air" />
     <item drawable="ic_discord" />
     <item drawable="ic_dominos" />
     <item drawable="ic_dropbox" />
@@ -389,6 +392,8 @@
     <item drawable="ic_starbucks" />
     <item drawable="ic_steam" />
     <item drawable="ic_super_su" />
+    <item drawable="ic_swipe_snake" />
+    <item drawable="ic_swiss_air" />
 
     <!--<category title="T" />-->
     <item drawable="ic_target" />
@@ -410,6 +415,7 @@
     <item drawable="ic_uber_driver" />
     <item drawable="ic_uber_eats" />
     <item drawable="ic_ultimate_ears_boom" />
+    <item drawable="ic_united_airlines" />
 
     <!--<category title="V" />-->
     <item drawable="ic_venmo" />
