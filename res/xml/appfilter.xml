@@ -783,8 +783,11 @@
     <!-- Instagram Layout-->
     <item component="ComponentInfo{com.instagram.layout/com.instagram.layout.LayoutActivity}" drawable="ic_instagram_layout" />
 
-    <!-- imgur -->
+    <!-- komoot -->
     <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="ic_komoot" />
+
+    <!-- kayak -->
+    <item component="ComponentInfo{com.kayak.android/com.kayak.android.Splash}" drawable="ic_kayak" />
 
     <!-- Lastpass-->
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="ic_lastpass" />

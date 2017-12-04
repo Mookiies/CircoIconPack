@@ -167,3 +167,4 @@ New Icons:
 - delta air
 - american airlines
 - air france
+- kayak
