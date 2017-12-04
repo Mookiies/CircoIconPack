@@ -170,3 +170,4 @@ New Icons:
 - kayak
 - KLM - Royal Dutch Airlines
 - British Airways
+- brave
