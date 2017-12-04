@@ -50,6 +50,7 @@
     <item component="ComponentInfo{com.android.browser/com.motorola.android.browser.ChinaMobileActivity}" drawable="ic_browser" />
     <item component="ComponentInfo{com.android.browser/com.yulong.android.browser.BrowserStartPage}" drawable="ic_browser" />
     <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
+    <item component="ComponentInfo{com.brave.browser}" drawable="ic_brave" />
     <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="ic_browser" />
     <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="ic_browser" />
     <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}" drawable="ic_browser" />
