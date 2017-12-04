@@ -168,3 +168,5 @@ New Icons:
 - american airlines
 - air france
 - kayak
+- KLM - Royal Dutch Airlines
+- British Airways

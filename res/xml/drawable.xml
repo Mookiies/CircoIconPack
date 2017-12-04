@@ -276,6 +276,7 @@
     <!--<category title="B" />-->
     <item drawable="ic_bank_of_america" />
     <item drawable="ic_bitmoji" />
+    <item drawable="ic_british_airways" />
 
     <!--<category title="C" />-->
     <item drawable="ic_capital_one" />
@@ -328,6 +329,7 @@
 
     <!--<category title="K" />-->
     <item drawable="ic_kayak" />
+    <item drawable="ic_klm_dutch_air" />
     <item drawable="ic_komoot" />
 
     <!--<category title="L" />-->

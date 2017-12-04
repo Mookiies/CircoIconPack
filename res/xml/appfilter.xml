@@ -20,10 +20,10 @@
 
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
-
     <!-- TODO figure out themeing smart launcher system icons-->
     <!-- TODO add activities for atom launcher-->
     <!-- TODO update purple to something more vibrant -->
+
     <!-- Icons are sorted first by category, then by alphabetical order of the icon name (ie. ic_icon) -->
     <!-- WARNING: to support all launchers activity name must also include the package
                   (ie. shortcut <package/.Activity> must be changed to <package/package.Activity> )-->
@@ -675,6 +675,9 @@
     <!-- Bitmoji -->
     <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="ic_bitmoji" />
 
+    <!-- British Airways -->
+    <item component="ComponentInfo{com.ba.mobile/com.ba.mobile.LaunchActivity}" drawable="ic_british_airways" />
+
     <!-- Capital One -->
     <item component="ComponentInfo{com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity}" drawable="ic_capital_one" />
 
@@ -788,6 +791,9 @@
 
     <!-- kayak -->
     <item component="ComponentInfo{com.kayak.android/com.kayak.android.Splash}" drawable="ic_kayak" />
+
+    <!-- KLM - Royal Dutch Airlines -->
+    <item component="ComponentInfo{com.afklm.mobile.android.gomobile.klm/com.klm.mobile.android.core.activity.TripsActivity}" drawable="ic_klm_dutch_air" />
 
     <!-- Lastpass-->
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="ic_lastpass" />
