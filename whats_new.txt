@@ -162,12 +162,13 @@ New Icons:
 - Youtube Kids
 - Spectrum TV
 - abc
-- united airlines
-- swiss air
-- delta air
-- american airlines
-- air france
-- kayak
+- United Airlines
+- Swiss air
+- Aelta Airlines
+- American Airlines
+- Air France
+- Kayak
 - KLM - Royal Dutch Airlines
 - British Airways
-- brave
+- Brave
+- Southwest Airlines

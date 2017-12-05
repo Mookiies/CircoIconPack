@@ -953,6 +953,9 @@
     <!-- Soundhound -->
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="ic_soundhound" />
 
+    <!-- Southwest Airlines -->
+    <item component="ComponentInfo{com.southwestairlines.mobile/com.southwestairlines.mobile.home.ui.SplashActivity}" drawable="ic_southwest_air" />
+
     <!-- Spectrum TV -->
     <item component="ComponentInfo{com.TWCableTV/com.twc.android.ui.login.SplashScreen}" drawable="ic_spectrum_tv" />
 

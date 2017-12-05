@@ -105,6 +105,7 @@
 
     <!-- Color variations of icons -->
     <category title="Colors" />
+    <!-- TODO make colors for sms-->
     <item drawable="ic_app_drawer_blue" />
     <item drawable="ic_app_drawer_green" />
     <item drawable="ic_app_drawer_light_blue" />
@@ -390,6 +391,7 @@
     <item drawable="ic_snapchat" />
     <item drawable="ic_soundcloud" />
     <item drawable="ic_soundhound" />
+    <item drawable="ic_southwest_air" />
     <item drawable="ic_spectrum_tv" />
     <item drawable="ic_speedtest_ookla" />
     <item drawable="ic_spotify" />
