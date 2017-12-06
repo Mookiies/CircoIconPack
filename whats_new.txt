@@ -1,4 +1,4 @@
-WHAT'S NEW (for helping write play store desc.)
+WHAT'S NEW (for helping write play store update description)
 
 Version 1.1
 ------------------------------------------------------------------------
@@ -172,3 +172,5 @@ New Icons:
 - British Airways
 - Brave
 - Southwest Airlines
+- One more line
+- One more dash

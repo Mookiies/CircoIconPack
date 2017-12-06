@@ -361,6 +361,8 @@
     <item drawable="ic_nytimes" />
 
     <!--<category title="O" />-->
+    <item drawable="ic_one_more_dash" />
+    <item drawable="ic_one_more_line" />
 
     <!--<category title="P" />-->
     <item drawable="ic_pandora" />

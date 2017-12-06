@@ -865,6 +865,12 @@
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="ic_nytimes" />
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.activity.MainActivity_}" name="ic_nytimes" />
 
+    <!-- One more dash -->
+    <item component="ComponentInfo{com.smgstudio.omd/com.prime31.UnityPlayerActivity}" drawable="ic_one_more_dash" />
+
+    <!-- One more line -->
+    <item component="ComponentInfo{com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerNativeActivity}" drawable="ic_one_more_line" />
+
     <!-- Pandora -->
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="ic_pandora" />
 
@@ -1089,7 +1095,4 @@
     <iconback img1="ic_generic_back" />
     <iconmask img1="ic_generic_mask" />
     <scale factor="0.75" />
-
-
-
 </resources>
