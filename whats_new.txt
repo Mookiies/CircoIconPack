@@ -174,3 +174,5 @@ New Icons:
 - Southwest Airlines
 - One more line
 - One more dash
+- Blockfolio
+- Yahoo Finance

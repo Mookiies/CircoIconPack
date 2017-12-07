@@ -676,6 +676,9 @@
     <!-- Bitmoji -->
     <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="ic_bitmoji" />
 
+    <!-- Bitmoji -->
+    <item component="ComponentInfo{com.blockfolio.blockfolio/com.blockfolio.blockfolio.MainActivity}" drawable="ic_blockfolio" />
+
     <!-- Brave Browser-->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="ic_brave" />
 
@@ -1078,6 +1081,9 @@
 
     <!-- Xfinity Stream TV -->
     <item component="ComponentInfo{com.xfinity.cloudtvr/com.xfinity.common.view.LaunchActivity}" drawable="ic_xfinity_stream_tv" />
+
+    <!-- Yahoo Finance -->
+    <item component="ComponentInfo{com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.activity.Main}" drawable="ic_yahoo_finance" />
 
     <!-- Yahoo Mail -->
     <item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity}" drawable="ic_yahoo_mail" />

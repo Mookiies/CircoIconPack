@@ -277,6 +277,7 @@
     <!--<category title="B" />-->
     <item drawable="ic_bank_of_america" />
     <item drawable="ic_bitmoji" />
+    <item drawable="ic_blockfolio" />
     <item drawable="ic_brave" />
     <item drawable="ic_british_airways" />
 
@@ -443,6 +444,7 @@
     <item drawable="ic_xfinity_stream_tv" />
 
     <!--<category title="Y" />-->
+    <item drawable="ic_yahoo_finance" />
     <item drawable="ic_yahoo_mail" />
     <item drawable="ic_yelp" />
 
