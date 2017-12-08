@@ -615,6 +615,9 @@
     <!-- Airbnb -->
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.activities.MainActivity}" drawable="ic_airbnb" />
 
+    <!-- Alto -->
+    <item component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}" drawable="ic_alto" />
+
     <!-- Amazon Alexa -->
     <item component="ComponentInfo{com.amazon.dee.app/com.amazon.dee.app.Launcher}" drawable="ic_amazon_alexa" />
 
@@ -793,14 +796,17 @@
     <!-- Instagram Layout-->
     <item component="ComponentInfo{com.instagram.layout/com.instagram.layout.LayoutActivity}" drawable="ic_instagram_layout" />
 
-    <!-- komoot -->
-    <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="ic_komoot" />
+    <!-- jetBlue -->
+    <item component="ComponentInfo{com.jetblue.JetBlueAndroid/com.jetblue.JetBlueAndroid.activities.MainActivity}" drawable="ic_jetblue" />
 
     <!-- kayak -->
     <item component="ComponentInfo{com.kayak.android/com.kayak.android.Splash}" drawable="ic_kayak" />
 
     <!-- KLM - Royal Dutch Airlines -->
     <item component="ComponentInfo{com.afklm.mobile.android.gomobile.klm/com.klm.mobile.android.core.activity.TripsActivity}" drawable="ic_klm_dutch_air" />
+
+    <!-- komoot -->
+    <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="ic_komoot" />
 
     <!-- Lastpass-->
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="ic_lastpass" />

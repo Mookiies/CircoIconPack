@@ -176,3 +176,5 @@ New Icons:
 - One more dash
 - Blockfolio
 - Yahoo Finance
+- Alto
+- jetBlue
