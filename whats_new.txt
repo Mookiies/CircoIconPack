@@ -164,7 +164,7 @@ New Icons:
 - abc
 - United Airlines
 - Swiss air
-- Aelta Airlines
+- Delta Airlines
 - American Airlines
 - Air France
 - Kayak
