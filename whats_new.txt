@@ -178,3 +178,4 @@ New Icons:
 - Yahoo Finance
 - Alto
 - jetBlue
+- AmpMe

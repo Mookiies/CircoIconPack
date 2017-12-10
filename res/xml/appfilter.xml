@@ -647,6 +647,9 @@
     <!-- American Airlines -->
     <item component="ComponentInfo{com.aa.android/com.aa.android.view.SplashActivity}" drawable="ic_american_airlines" />
 
+    <!-- AmpMe -->
+    <item component="ComponentInfo{com.amp.android/com.amp.android.ui.activity.LaunchActivity}" drawable="ic_ampme" />
+
     <!-- Amtrack -->
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
 
