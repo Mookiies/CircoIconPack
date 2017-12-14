@@ -239,6 +239,60 @@
     <item drawable="ic_folder_salmon" />
     <item drawable="ic_folder_yellow" />
 
+    <item drawable="ic_folder_download_dark" />
+    <item drawable="ic_folder_download_blue" />
+    <item drawable="ic_folder_download_green" />
+    <item drawable="ic_folder_download_light_blue" />
+    <item drawable="ic_folder_download_orange" />
+    <item drawable="ic_folder_download_pink" />
+    <item drawable="ic_folder_download_purple" />
+    <item drawable="ic_folder_download_red" />
+    <item drawable="ic_folder_download_salmon" />
+    <item drawable="ic_folder_download_yellow" />
+
+    <item drawable="ic_folder_google_dark" />
+    <item drawable="ic_folder_google_blue" />
+    <item drawable="ic_folder_google_green" />
+    <item drawable="ic_folder_google_light_blue" />
+    <item drawable="ic_folder_google_orange" />
+    <item drawable="ic_folder_google_pink" />
+    <item drawable="ic_folder_google_purple" />
+    <item drawable="ic_folder_google_red" />
+    <item drawable="ic_folder_google_salmon" />
+    <item drawable="ic_folder_google_yellow" />
+
+    <item drawable="ic_folder_maps_dark" />
+    <item drawable="ic_folder_maps_blue" />
+    <item drawable="ic_folder_maps_green" />
+    <item drawable="ic_folder_maps_light_blue" />
+    <item drawable="ic_folder_maps_orange" />
+    <item drawable="ic_folder_maps_pink" />
+    <item drawable="ic_folder_maps_purple" />
+    <item drawable="ic_folder_maps_red" />
+    <item drawable="ic_folder_maps_salmon" />
+    <item drawable="ic_folder_maps_yellow" />
+
+    <item drawable="ic_folder_music_dark" />
+    <item drawable="ic_folder_music_blue" />
+    <item drawable="ic_folder_music_green" />
+    <item drawable="ic_folder_music_light_blue" />
+    <item drawable="ic_folder_music_orange" />
+    <item drawable="ic_folder_music_pink" />
+    <item drawable="ic_folder_music_purple" />
+    <item drawable="ic_folder_music_red" />
+    <item drawable="ic_folder_music_salmon" />
+    <item drawable="ic_folder_music_yellow" />
+
+    <item drawable="ic_folder_video_dark" />
+    <item drawable="ic_folder_video_blue" />
+    <item drawable="ic_folder_video_green" />
+    <item drawable="ic_folder_video_light_blue" />
+    <item drawable="ic_folder_video_orange" />
+    <item drawable="ic_folder_video_pink" />
+    <item drawable="ic_folder_video_purple" />
+    <item drawable="ic_folder_video_red" />
+    <item drawable="ic_folder_video_salmon" />
+    <item drawable="ic_folder_video_yellow" />
 
     <!-- All icons not fitting into above categories -->
     <category title="General" />

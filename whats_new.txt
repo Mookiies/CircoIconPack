@@ -157,6 +157,12 @@ New Icons: (36)
 
 Version 1.3.4
 ------------------------------------------------------------------------
+Add topic folder with color variations (100 icons)
+- Downloads
+- Google
+- Maps
+- Music
+- Video
 
 New Icons:
 - Youtube Kids
