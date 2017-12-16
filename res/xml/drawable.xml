@@ -226,7 +226,6 @@
 
 
     <!-- Folder icons -->
-    <!-- TODO make folders with icons inside for different purpses -->
     <category title="Folders" />
     <item drawable="ic_folder_dark" />
     <item drawable="ic_folder_blue" />
@@ -239,6 +238,7 @@
     <item drawable="ic_folder_salmon" />
     <item drawable="ic_folder_yellow" />
 
+    <!-- TODO increase padding for side and bottom for all folder themed icons -->
     <item drawable="ic_folder_download_dark" />
     <item drawable="ic_folder_download_blue" />
     <item drawable="ic_folder_download_green" />

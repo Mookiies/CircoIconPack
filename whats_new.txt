@@ -157,7 +157,7 @@ New Icons: (36)
 
 Version 1.3.4
 ------------------------------------------------------------------------
-Add topic folder with color variations (100 icons)
+Add topic folder with color variations (50 icons)
 - Downloads
 - Google
 - Maps
