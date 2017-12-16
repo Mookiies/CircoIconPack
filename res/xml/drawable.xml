@@ -238,7 +238,17 @@
     <item drawable="ic_folder_salmon" />
     <item drawable="ic_folder_yellow" />
 
-    <!-- TODO increase padding for side and bottom for all folder themed icons -->
+    <item drawable="ic_folder_cloud_dark" />
+    <item drawable="ic_folder_cloud_blue" />
+    <item drawable="ic_folder_cloud_green" />
+    <item drawable="ic_folder_cloud_light_blue" />
+    <item drawable="ic_folder_cloud_orange" />
+    <item drawable="ic_folder_cloud_pink" />
+    <item drawable="ic_folder_cloud_purple" />
+    <item drawable="ic_folder_cloud_red" />
+    <item drawable="ic_folder_cloud_salmon" />
+    <item drawable="ic_folder_cloud_yellow" />
+
     <item drawable="ic_folder_download_dark" />
     <item drawable="ic_folder_download_blue" />
     <item drawable="ic_folder_download_green" />
@@ -249,6 +259,17 @@
     <item drawable="ic_folder_download_red" />
     <item drawable="ic_folder_download_salmon" />
     <item drawable="ic_folder_download_yellow" />
+
+    <item drawable="ic_folder_fitness_dark" />
+    <item drawable="ic_folder_fitness_blue" />
+    <item drawable="ic_folder_fitness_green" />
+    <item drawable="ic_folder_fitness_light_blue" />
+    <item drawable="ic_folder_fitness_orange" />
+    <item drawable="ic_folder_fitness_pink" />
+    <item drawable="ic_folder_fitness_purple" />
+    <item drawable="ic_folder_fitness_red" />
+    <item drawable="ic_folder_fitness_salmon" />
+    <item drawable="ic_folder_fitness_yellow" />
 
     <item drawable="ic_folder_google_dark" />
     <item drawable="ic_folder_google_blue" />

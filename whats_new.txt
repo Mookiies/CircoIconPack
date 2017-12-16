@@ -158,7 +158,9 @@ New Icons: (36)
 Version 1.3.4
 ------------------------------------------------------------------------
 Add topic folder with color variations (50 icons)
+- Cloud
 - Downloads
+- Fitness
 - Google
 - Maps
 - Messages
