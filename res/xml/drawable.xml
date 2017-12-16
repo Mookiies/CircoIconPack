@@ -271,6 +271,17 @@
     <item drawable="ic_folder_fitness_salmon" />
     <item drawable="ic_folder_fitness_yellow" />
 
+    <item drawable="ic_folder_games_dark" />
+    <item drawable="ic_folder_games_blue" />
+    <item drawable="ic_folder_games_green" />
+    <item drawable="ic_folder_games_light_blue" />
+    <item drawable="ic_folder_games_orange" />
+    <item drawable="ic_folder_games_pink" />
+    <item drawable="ic_folder_games_purple" />
+    <item drawable="ic_folder_games_red" />
+    <item drawable="ic_folder_games_salmon" />
+    <item drawable="ic_folder_games_yellow" />
+
     <item drawable="ic_folder_google_dark" />
     <item drawable="ic_folder_google_blue" />
     <item drawable="ic_folder_google_green" />
