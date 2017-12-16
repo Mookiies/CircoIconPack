@@ -272,6 +272,17 @@
     <item drawable="ic_folder_maps_salmon" />
     <item drawable="ic_folder_maps_yellow" />
 
+    <item drawable="ic_folder_messages_dark" />
+    <item drawable="ic_folder_messages_blue" />
+    <item drawable="ic_folder_messages_green" />
+    <item drawable="ic_folder_messages_light_blue" />
+    <item drawable="ic_folder_messages_orange" />
+    <item drawable="ic_folder_messages_pink" />
+    <item drawable="ic_folder_messages_purple" />
+    <item drawable="ic_folder_messages_red" />
+    <item drawable="ic_folder_messages_salmon" />
+    <item drawable="ic_folder_messages_yellow" />
+
     <item drawable="ic_folder_music_dark" />
     <item drawable="ic_folder_music_blue" />
     <item drawable="ic_folder_music_green" />

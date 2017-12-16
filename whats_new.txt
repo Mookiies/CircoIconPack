@@ -161,8 +161,10 @@ Add topic folder with color variations (50 icons)
 - Downloads
 - Google
 - Maps
+- Messages
 - Music
 - Video
+
 
 New Icons:
 - Youtube Kids
