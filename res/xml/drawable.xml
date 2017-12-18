@@ -337,6 +337,17 @@
     <item drawable="ic_folder_music_salmon" />
     <item drawable="ic_folder_music_yellow" />
 
+    <item drawable="ic_folder_root_dark" />
+    <item drawable="ic_folder_root_blue" />
+    <item drawable="ic_folder_root_green" />
+    <item drawable="ic_folder_root_light_blue" />
+    <item drawable="ic_folder_root_orange" />
+    <item drawable="ic_folder_root_pink" />
+    <item drawable="ic_folder_root_purple" />
+    <item drawable="ic_folder_root_red" />
+    <item drawable="ic_folder_root_salmon" />
+    <item drawable="ic_folder_root_yellow" />
+
     <item drawable="ic_folder_video_dark" />
     <item drawable="ic_folder_video_blue" />
     <item drawable="ic_folder_video_green" />
