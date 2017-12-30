@@ -720,7 +720,8 @@
     <item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="ic_dominos" />
 
     <!-- Doodle Jumpe -->
-    <item component="ComponentInfo{com.lima.doodlejump/com.limasky.doodlejumpandroid.MainActivity}" drawable="ic_doodle_jump" />
+    <item component="ComponentInfo{com.lima.doodlejump/com.limasky.doodlejumpandroid.MainActivity\
+    }" drawable="ic_doodle_jump" />
 
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="ic_dropbox" />
@@ -860,6 +861,7 @@
 
     <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="ic_netflix" />
+    <item component="ComponentInfo{com.netflix.mediaclient/.ui.launch.UIWebViewActivity}" drawable="ic_netflix" />
 
     <!-- Next Launcher -->
     <item component="ComponentInfo{com.gtp.nextlauncher.trial/com.gtp.nextlauncher.MainActivity}" drawable="ic_next_launcher" />
