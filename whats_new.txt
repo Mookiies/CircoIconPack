@@ -173,23 +173,23 @@ Add topic folder with color variations (100 icons)
 
 
 New Icons:
-- Youtube Kids
-- Spectrum TV
 - abc
-- United Airlines
-- Swiss air
-- Delta Airlines
-- American Airlines
 - Air France
-- Kayak
-- KLM - Royal Dutch Airlines
-- British Airways
-- Brave
-- Southwest Airlines
-- One more line
-- One more dash
-- Blockfolio
-- Yahoo Finance
 - Alto
-- jetBlue
+- American Airlines
 - AmpMe
+- Blockfolio
+- Brave
+- British Airways
+- Delta Airlines
+- jetBlue
+- KLM - Royal Dutch Airlines
+- Kayak
+- One more dash
+- One more line
+- Southwest Airlines
+- Spectrum TV
+- Swiss air
+- United Airlines
+- Yahoo Finance
+- Youtube Kids
