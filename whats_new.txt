@@ -157,6 +157,8 @@ New Icons: (36)
 
 Version 1.3.4
 ------------------------------------------------------------------------
+Fixes: Fix Netflix Icon not applying
+
 Add topic folder with color variations (100 icons)
 - Cloud
 - Downloads
