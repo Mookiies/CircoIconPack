@@ -18,6 +18,7 @@
 
 <resources>
 
+    <!-- TODO work through simple icons adding apps currently at: buzzfeed.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -467,6 +468,9 @@
     <!--Google app-->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="ic_google_app" />
 
+    <!--Google arts and culture-->
+    <item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.activity.WebViewActivity}" drawable="ic_google_arts_culture" />
+
     <!--Assistant-->
     <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="ic_google_assistant" />
 
@@ -579,6 +583,9 @@
 
 
     <!-- General applications -->
+    <!-- 500px --> <!-- TODO update to the newer logo design -->
+    <item component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity}" drawable="ic_500px" />
+
     <!-- ABC App -->
     <item component="ComponentInfo{com.disney.datg.videoplatforms.android.abc/com.disney.datg.android.abc.startup.AbcSplashScreenActivity}" drawable="ic_abc" />
 
@@ -659,6 +666,9 @@
     <!-- Apple Music -->
     <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="ic_apple_music" />
 
+    <!-- Asana -->
+    <item component="ComponentInfo{com.asana.app/com.asana.ui.activities.LaunchActivity}" drawable="ic_asana" />
+
     <!-- Atom Launcher -->
     <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.LauncherAlias}" drawable="ic_atom_launcher" />
     <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.Launcher}" drawable="ic_atom_launcher"/>
@@ -719,9 +729,8 @@
     <!-- Dominos -->
     <item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="ic_dominos" />
 
-    <!-- Doodle Jumpe -->
-    <item component="ComponentInfo{com.lima.doodlejump/com.limasky.doodlejumpandroid.MainActivity\
-    }" drawable="ic_doodle_jump" />
+    <!-- Doodle Jump -->
+    <item component="ComponentInfo{com.lima.doodlejump/com.limasky.doodlejumpandroid.MainActivity}" drawable="ic_doodle_jump" />
 
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="ic_dropbox" />
@@ -750,6 +759,9 @@
 
     <!-- Facebook Messenger -->
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="ic_facebook_messenger" />
+
+    <!-- Firefox -->
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="ic_firefox" />
 
     <!-- Fitbit -->
     <item component="ComponentInfo{com.fitbit.FitbitMobile/com.fitbit.FirstActivity}" drawable="ic_fitbit" />
@@ -788,11 +800,17 @@
     <!-- Hotel tonight -->
     <item component="ComponentInfo{com.hoteltonight.android.prod/com.hoteltonight.android.prod.activity.SplashActivity}" drawable="ic_hotel_tonight" />
 
+    <!-- HQ Trivia -->
+    <item component="ComponentInfo{com.intermedia.hq/com.intermedia.EntryActivity}" drawable="ic_hq_trivia" />
+
     <!-- Hulu -->
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="ic_hulu" />
 
     <!-- iFunny -->
     <item component="ComponentInfo{mobi.ifunny/mobi.ifunny.splash.SplashActivity}" drawable="ic_ifunny" />
+
+    <!-- Imdb -->
+    <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.HomeActivity}" drawable="ic_imdb" />
 
     <!-- imgur -->
     <item component="ComponentInfo{com.imgur.mobile/com.imgur.mobile.Launcher}" drawable="ic_imgur" />
@@ -808,6 +826,9 @@
 
     <!-- kayak -->
     <item component="ComponentInfo{com.kayak.android/com.kayak.android.Splash}" drawable="ic_kayak" />
+
+    <!-- kik -->
+    <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="ic_kik" />
 
     <!-- KLM - Royal Dutch Airlines -->
     <item component="ComponentInfo{com.afklm.mobile.android.gomobile.klm/com.klm.mobile.android.core.activity.TripsActivity}" drawable="ic_klm_dutch_air" />
@@ -988,6 +1009,12 @@
     <!-- Spotify -->
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="ic_spotify" />
 
+    <!-- Stack Exchange -->
+    <item component="ComponentInfo{com.stackexchange.marvin/com.stackexchange.marvin.ui.LaunchActivity}" drawable="ic_stack_exchange" />
+
+    <!-- Stack Overflow -->
+    <item component="ComponentInfo{com.stackexchange.stackoverflow/com.stackexchange.stackoverflow.MainActivity}" drawable="ic_stack_overflow" />
+
     <!-- Starbucks -->
     <item component="ComponentInfo{com.starbucks.mobilecard/com.starbucks.mobilecard.main.activity.LandingPageActivity}" drawable="ic_starbucks" />
 
@@ -1011,6 +1038,9 @@
 
     <!-- Target -->
     <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="ic_target" />
+
+    <!-- Telegram -->
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="ic_telegram" />
 
     <!-- Textra -->
     <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="ic_textra" />
@@ -1080,6 +1110,9 @@
 
     <!-- Waze -->
     <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="ic_waze" />
+
+    <!-- WeChat -->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="ic_we_chat" />
 
     <!-- Wells Fargo -->
     <item component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.MainActivity}" drawable="ic_wells_fargo" />

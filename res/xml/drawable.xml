@@ -22,7 +22,7 @@
 
     <!-- Specific categories first, then the the rest of all icons, striving for alphabetical
          order of app name. All apps should be listed here -->
-
+    <!-- TODO adding the new apps to drawable (here) and testing them for appfilter and here -->
 
     <!-- Icons for system apps. All icons should be purple. Non purple default icons are: browser, contacts  -->
     <category title="System" />
@@ -58,6 +58,7 @@
     <item drawable="ic_google_adsense" />
     <item drawable="ic_google_analytics" />
     <item drawable="ic_google_app" />
+    <item drawable="ic_google_arts_culture" />
     <item drawable="ic_google_assistant" />
     <item drawable="ic_google_books" />
     <item drawable="ic_google_calendar" />
@@ -361,6 +362,9 @@
 
     <!-- All icons not fitting into above categories -->
     <category title="General" />
+    <!--<category title="Numbers" />-->
+    <item drawable="ic_500px" />
+
     <!--<category title="A" />-->
     <item drawable="ic_abc" />
     <item drawable="ic_action_launcher" />
@@ -389,6 +393,7 @@
     <item drawable="ic_amtrack" />
     <item drawable="ic_apex_launcher" />
     <item drawable="ic_apple_music" />
+    <item drawable="ic_asana" />
     <item drawable="ic_atom_launcher" />
     <item drawable="ic_audible" />
     <item drawable="ic_audiomack" />
@@ -427,6 +432,7 @@
     <!--<category title="F" />-->
     <item drawable="ic_facebook" />
     <item drawable="ic_facebook_messenger" />
+    <item drawable="ic_firefox" />
     <item drawable="ic_fitbit" />
     <item drawable="ic_flashfire" />
     <item drawable="ic_flipboard" />
@@ -442,10 +448,12 @@
     <item drawable="ic_hbo_now" />
     <item drawable="ic_holo_launcher" />
     <item drawable="ic_hotel_tonight" />
+    <item drawable="ic_hq_trivia" />
     <item drawable="ic_hulu" />
 
     <!--<category title="I" />-->
     <item drawable="ic_ifunny" />
+    <item drawable="ic_imdb" />
     <item drawable="ic_imgur" />
     <item drawable="ic_instagram" />
     <item drawable="ic_instagram_layout" />
@@ -454,6 +462,7 @@
 
     <!--<category title="K" />-->
     <item drawable="ic_kayak" />
+    <item drawable="ic_kik" />
     <item drawable="ic_klm_dutch_air" />
     <item drawable="ic_komoot" />
 
@@ -520,6 +529,8 @@
     <item drawable="ic_spectrum_tv" />
     <item drawable="ic_speedtest_ookla" />
     <item drawable="ic_spotify" />
+    <item drawable="ic_stack_exchange" />
+    <item drawable="ic_stack_overflow" />
     <item drawable="ic_starbucks" />
     <item drawable="ic_steam" />
     <item drawable="ic_super_su" />
@@ -528,6 +539,7 @@
 
     <!--<category title="T" />-->
     <item drawable="ic_target" />
+    <item drawable="ic_telegram" />
     <item drawable="ic_textra" />
     <item drawable="ic_thescore_esports" />
     <item drawable="ic_tinder" />
@@ -557,6 +569,7 @@
     <item drawable="ic_walgreens" />
     <item drawable="ic_walmart" />
     <item drawable="ic_waze" />
+    <item drawable="ic_we_chat" />
     <item drawable="ic_wells_fargo" />
     <item drawable="ic_whatsapp" />
     <item drawable="ic_wolfram_alpha" />
@@ -573,5 +586,6 @@
     <!--<category title="Z" />-->
     <item drawable="ic_zoom" />
     <item drawable="ic_zoosk" />
+
 
 </resources>

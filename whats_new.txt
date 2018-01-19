@@ -193,3 +193,21 @@ New Icons:
 - United Airlines
 - Yahoo Finance
 - Youtube Kids
+
+Version 1.3.5
+------------------------------------------------------------------------
+
+New Icons:
+- 500px
+- Asana
+- Doodle Jump
+- Firefox
+- Google Arts and Culture
+- HQ Trivia
+- Imdb
+- Kik
+- Stack Exchange
+- Stack Overflow
+- Telegram
+- We chat
+-
