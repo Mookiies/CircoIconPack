@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: dailymotion.svg -->
+    <!-- TODO work through simple icons adding apps currently at: ebay.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -753,12 +753,24 @@
     <!-- Coursera -->
     <item component="ComponentInfo{org.coursera.android/org.coursera.android.MainActivity}" drawable="ic_coursera" />
 
+    <!-- Daily Motion -->
+    <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.mobile.activity.InterstitialActivity}" drawable="ic_dailymotion" />
+
+    <!-- Deezer -->
+    <item component="ComponentInfo{deezer.android.app/com.deezer.android.ui.activity.LauncherActivity}" drawable="ic_deezer" />
+
     <!-- Delta Airlines -->
     <item component="ComponentInfo{com.delta.mobile.android/com.delta.mobile.android.SplashScreen}" drawable="ic_delta_air" />
+
+    <!-- Devianart -->
+    <item component="ComponentInfo{com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity}" drawable="ic_devianart" />
 
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="ic_discord" />
     <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="ic_discord" />
+
+    <!-- Discover -->
+    <item component="ComponentInfo{com.discoverfinancial.mobile/com.discover.mobile.common.login.LoginActivity895}" drawable="ic_discover" />
 
     <!-- Dominos -->
     <item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="ic_dominos" />

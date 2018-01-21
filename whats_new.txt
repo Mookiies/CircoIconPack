@@ -223,3 +223,7 @@ New Icons:
 - Buzzfeed News
 - Coursera
 - Blogger
+- Dailymotion
+- Deezer
+- Devianart
+- Discover

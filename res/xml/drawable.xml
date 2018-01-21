@@ -429,8 +429,12 @@
     <item drawable="ic_coursera" />
 
     <!--<category title="D" />-->
+    <item drawable="ic_dailymotion" />
+    <item drawable="ic_deezer" />
     <item drawable="ic_delta_air" />
+    <item drawable="ic_devianart" />
     <item drawable="ic_discord" />
+    <item drawable="ic_discover" />
     <item drawable="ic_dominos" />
     <item drawable="ic_doodle_jump" />
     <item drawable="ic_dropbox" />
