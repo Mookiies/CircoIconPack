@@ -60,6 +60,7 @@
     <item drawable="ic_google_app" />
     <item drawable="ic_google_arts_culture" />
     <item drawable="ic_google_assistant" />
+    <item drawable="ic_google_blogger" />
     <item drawable="ic_google_books" />
     <item drawable="ic_google_calendar" />
     <item drawable="ic_google_cardboard" />
@@ -401,11 +402,22 @@
 
 
     <!--<category title="B" />-->
+    <item drawable="ic_bandcamp" />
+    <item drawable="ic_bandcamp_for_artist" />
     <item drawable="ic_bank_of_america" />
+    <item drawable="ic_basecamp_2" />
+    <item drawable="ic_basecamp_3" />
+    <item drawable="ic_behance" />
+    <item drawable="ic_bing" />
+    <item drawable="ic_bitcoin_wallet" />
+    <item drawable="ic_bitly" />
     <item drawable="ic_bitmoji" />
     <item drawable="ic_blockfolio" />
     <item drawable="ic_brave" />
     <item drawable="ic_british_airways" />
+    <item drawable="ic_buffer" />
+    <item drawable="ic_buzzfeed" />
+    <item drawable="ic_buzzfeed_news" />
 
     <!--<category title="C" />-->
     <item drawable="ic_capital_one" />
@@ -414,6 +426,7 @@
     <item drawable="ic_citi" />
     <item drawable="ic_citymapper" />
     <item drawable="ic_cnn" />
+    <item drawable="ic_coursera" />
 
     <!--<category title="D" />-->
     <item drawable="ic_delta_air" />

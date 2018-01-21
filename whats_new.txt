@@ -210,4 +210,16 @@ New Icons:
 - Stack Overflow
 - Telegram
 - We chat
--
+- Bandcamp
+- Bandcamp for artists
+- Basecamp 2
+- Basecamp 3
+- Behance
+- Bing
+- Bitcoin wallet
+- Bitly
+- Buffer
+- Buzzfeed
+- Buzzfeed News
+- Coursera
+- Blogger

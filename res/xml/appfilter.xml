@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: buzzfeed.svg -->
+    <!-- TODO work through simple icons adding apps currently at: dailymotion.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -474,6 +474,9 @@
     <!--Assistant-->
     <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="ic_google_assistant" />
 
+    <!--Blogger-->
+    <item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.SignInActivity}" drawable="ic_google_blogger" />
+
     <!--Books-->
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="ic_google_books" />
 
@@ -686,8 +689,29 @@
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingStartActivity}" drawable="ic_aviate_launcher" />
     <item component="ComponentInfo{com.tul.aviate/com.yahoo.aviate.narwhal.activity.OnboardingSearchActivity}" drawable="ic_aviate_launcher" />
 
+    <!-- Bandcamp -->
+    <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="ic_bandcamp" />
+    <item component="ComponentInfo{com.bandcamp.artistapp/com.bandcamp.artistapp.RootTabActivity}" drawable="ic_bandcamp_for_artist" />
+
     <!-- Bank of America -->
     <item component="ComponentInfo{com.infonow.bofa/com.infonow.bofa.Launcher}" drawable="ic_bank_of_america" />
+
+    <!-- Basecamp -->
+    <item component="ComponentInfo{com.basecamp.app/com.basecamp.activities.AccountActivity}" drawable="ic_basecamp_2" />
+    <item component="ComponentInfo{com.basecamp.bc3/com.basecamp.bc3.activities.HomeActivity}" drawable="ic_basecamp_3" />
+
+
+    <!-- Behance -->
+    <item component="ComponentInfo{com.behance.behance/com.behance.network.ui.activities.MainActivity}" drawable="ic_behance" />
+
+    <!-- Bing -->
+    <item component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.activities.SplashActivity}" drawable="ic_bing" />
+
+    <!-- Bitcoin Wallet -->
+    <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="ic_bitcoin_wallet" />
+
+    <!-- Bitly -->
+    <item component="ComponentInfo{com.bitly.app/com.bitly.app.activity.LandingActivity}" drawable="ic_bitly" />
 
     <!-- Bitmoji -->
     <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="ic_bitmoji" />
@@ -700,6 +724,13 @@
 
     <!-- British Airways -->
     <item component="ComponentInfo{com.ba.mobile/com.ba.mobile.LaunchActivity}" drawable="ic_british_airways" />
+
+    <!-- Buffer -->
+    <item component="ComponentInfo{org.buffer.android/org.buffer.android.ui.onboarding.SplashScreen}" drawable="ic_buffer" />
+
+    <!-- Buzzfeed -->
+    <item component="ComponentInfo{com.buzzfeed.android/com.buzzfeed.android.activity.SplashActivity}" drawable="ic_buzzfeed" />
+    <item component="ComponentInfo{com.buzzfeed.news/com.buzzfeed.news.activity.SplashActivity}" drawable="ic_buzzfeed_news" />
 
     <!-- Capital One -->
     <item component="ComponentInfo{com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity}" drawable="ic_capital_one" />
@@ -718,6 +749,9 @@
 
     <!-- CNN -->
     <item component="ComponentInfo{com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.features.splash.SplashActivity}" drawable="ic_cnn" />
+
+    <!-- Coursera -->
+    <item component="ComponentInfo{org.coursera.android/org.coursera.android.MainActivity}" drawable="ic_coursera" />
 
     <!-- Delta Airlines -->
     <item component="ComponentInfo{com.delta.mobile.android/com.delta.mobile.android.SplashScreen}" drawable="ic_delta_air" />
