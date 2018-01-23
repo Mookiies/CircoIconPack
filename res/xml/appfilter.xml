@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: ebay.svg -->
+    <!-- TODO work through simple icons adding apps currently at: gauges.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -784,6 +784,9 @@
     <!-- Ebay -->
     <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}" drawable="ic_ebay" />
 
+    <!-- Ello -->
+    <item component="ComponentInfo{co.ello.ElloApp/co.ello.ElloApp.SplashActivity}" drawable="ic_ello" />
+
     <!-- ES File Explorer -->
     <!-- TODO find activity names for pro -->
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="ic_es_file_explorer" />
@@ -806,6 +809,12 @@
     <!-- Facebook Messenger -->
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="ic_facebook_messenger" />
 
+    <!-- Fandango --> <!-- TODO: find the packace/activity name of the fandango tablet app -->
+    <item component="ComponentInfo{com.fandango/com.fandango.Fandango}" drawable="ic_fandango" />
+
+    <!-- Feedly -->
+    <item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="ic_feedly" />
+
     <!-- Firefox -->
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="ic_firefox" />
 
@@ -817,6 +826,9 @@
 
     <!-- Flipboard -->
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="ic_flipboard" />
+
+    <!-- Foursquare -->
+    <item component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}" drawable="ic_foursquare" />
 
     <!-- Geico -->
     <item component="ComponentInfo{com.geico.mobile/com.geico.mobile.android.ace.geicoAppPresentation.splash.AceSplashActivity}" drawable="ic_geico" />

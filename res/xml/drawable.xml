@@ -441,6 +441,7 @@
 
     <!--<category title="E" />-->
     <item drawable="ic_ebay" />
+    <item drawable="ic_ello" />
     <item drawable="ic_es_file_explorer" />
     <item drawable="ic_espn" />
     <item drawable="ic_evernote" />
@@ -449,10 +450,13 @@
     <!--<category title="F" />-->
     <item drawable="ic_facebook" />
     <item drawable="ic_facebook_messenger" />
+    <item drawable="ic_fandango" />
+    <item drawable="ic_feedly" />
     <item drawable="ic_firefox" />
     <item drawable="ic_fitbit" />
     <item drawable="ic_flashfire" />
     <item drawable="ic_flipboard" />
+    <item drawable="ic_foursquare" />
 
     <!--<category title="G" />-->
     <item drawable="ic_geico" />

@@ -227,3 +227,7 @@ New Icons:
 - Deezer
 - Devianart
 - Discover
+- Ello
+- Fandango
+- Feedly
+- Foursquare
