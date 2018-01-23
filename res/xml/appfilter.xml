@@ -771,6 +771,8 @@
 
     <!-- Discover -->
     <item component="ComponentInfo{com.discoverfinancial.mobile/com.discover.mobile.common.login.LoginActivity895}" drawable="ic_discover" />
+    <item component="ComponentInfo{com.discoverfinancial.mobile/com.discover.mobile.common.login.LoginActivity}" drawable="ic_discover" />
+    <item component="ComponentInfo{com.discoverfinancial.mobile/com.discover.mobile.card.forgot.activity.AlternateLoginActivity}" drawable="ic_discover" />
 
     <!-- Dominos -->
     <item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="ic_dominos" />
