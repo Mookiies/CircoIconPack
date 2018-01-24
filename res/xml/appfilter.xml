@@ -691,13 +691,17 @@
 
     <!-- Bandcamp -->
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="ic_bandcamp" />
+
+    <!-- Bandcamp Artist -->
     <item component="ComponentInfo{com.bandcamp.artistapp/com.bandcamp.artistapp.RootTabActivity}" drawable="ic_bandcamp_for_artist" />
 
     <!-- Bank of America -->
     <item component="ComponentInfo{com.infonow.bofa/com.infonow.bofa.Launcher}" drawable="ic_bank_of_america" />
 
-    <!-- Basecamp -->
+    <!-- Basecamp 2 -->
     <item component="ComponentInfo{com.basecamp.app/com.basecamp.activities.AccountActivity}" drawable="ic_basecamp_2" />
+
+    <!--Basecamp 3-->
     <item component="ComponentInfo{com.basecamp.bc3/com.basecamp.bc3.activities.HomeActivity}" drawable="ic_basecamp_3" />
 
 
@@ -835,6 +839,9 @@
     <!-- Geico -->
     <item component="ComponentInfo{com.geico.mobile/com.geico.mobile.android.ace.geicoAppPresentation.splash.AceSplashActivity}" drawable="ic_geico" />
 
+    <!-- Geocachings -->
+    <item component="ComponentInfo{com.groundspeak.geocaching.intro/com.groundspeak.geocaching.intro.activities.BrandedLaunchActivity}" drawable="ic_geocaching" />
+
     <!-- Glassdoor -->
     <item component="ComponentInfo{com.glassdoor.app/com.glassdoor.gdandroid2.activities.LaunchActivity}" drawable="ic_glassdoor" />
     <item component="ComponentInfo{com.glassdoor.app/com.dropbox.client2.android.AuthActivity}" drawable="ic_glassdoor" />
@@ -843,11 +850,23 @@
     <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="ic_go_launcher" />
     <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncher}" drawable="ic_go_launcher" />
 
+    <!-- Goodreads -->
+    <item component="ComponentInfo{com.goodreads/com.goodreads.android.activity.MainActivity}" drawable="ic_goodreads" />
+
     <!-- Groupme-->
     <item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="ic_groupme" />
 
     <!-- Groupon-->
     <item component="ComponentInfo{com.groupon/com.groupon.activity.TodaysDeal}" drawable="ic_groupon" />
+
+    <!-- Gumtree AU -->
+    <item component="ComponentInfo{com.ebay.gumtree.au/com.ebay.app.common.activities.SplashScreenActivity}" drawable="ic_gumtree" />
+
+    <!-- Gumtree UK -->
+    <item component="ComponentInfo{com.gumtree.android/com.gumtree.android.splash.SplashActivity}" drawable="ic_gumtree" />
+
+    <!-- Gumtree ZA -->
+    <item component="ComponentInfo{com.ebay.gumtree.za/com.ebay.app.common.activities.SplashScreenActivity}" drawable="ic_gumtree" />
 
     <!-- HBO Now -->
     <item component="ComponentInfo{com.hbo.hbonow/com.hbo.hbonow.splash.SplashActivity}" drawable="ic_hbo_now" />

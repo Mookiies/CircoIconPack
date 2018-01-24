@@ -460,10 +460,14 @@
 
     <!--<category title="G" />-->
     <item drawable="ic_geico" />
+    <item drawable="ic_geocaching" />
+    <item drawable="ic_github" />
     <item drawable="ic_glassdoor" />
     <item drawable="ic_go_launcher" />
+    <item drawable="ic_goodreads" />
     <item drawable="ic_groupme" />
     <item drawable="ic_groupon" />
+    <item drawable="ic_gumtree" />
 
     <!--<category title="H" />-->
     <item drawable="ic_hbo_now" />

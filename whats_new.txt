@@ -231,3 +231,6 @@ New Icons:
 - Fandango
 - Feedly
 - Foursquare
+- Geocaching
+- Goodreads
+- Gumtree
