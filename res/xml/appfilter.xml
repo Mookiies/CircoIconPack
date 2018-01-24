@@ -870,6 +870,7 @@
 
     <!-- HBO Now -->
     <item component="ComponentInfo{com.hbo.hbonow/com.hbo.hbonow.splash.SplashActivity}" drawable="ic_hbo_now" />
+    <item component="ComponentInfo{com.hbo.hbonow/com.hbo.go.LaunchActivity}" drawable="ic_hbo_now" />
 
     <!-- Holo Launcher -->
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="ic_holo_launcher" />
