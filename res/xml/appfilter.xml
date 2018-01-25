@@ -18,13 +18,14 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: gauges.svg -->
+    <!-- TODO work through simple icons adding apps currently at: ifixit.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
     <!-- TODO add activities for atom launcher-->
     <!-- TODO update purple to something more vibrant -->
     <!-- TODO change light blue to RGB color space (requires updating all current icons)  -->
+    <!-- TODO consider making all beta app commonly themed -->
 
     <!-- Icons are sorted first by category, then by alphabetical order of the icon name (ie. ic_icon) -->
     <!-- WARNING: to support all launchers activity name must also include the package
@@ -872,19 +873,40 @@
     <item component="ComponentInfo{com.hbo.hbonow/com.hbo.hbonow.splash.SplashActivity}" drawable="ic_hbo_now" />
     <item component="ComponentInfo{com.hbo.hbonow/com.hbo.go.LaunchActivity}" drawable="ic_hbo_now" />
 
+    <!-- Hipchat -->
+    <item component="ComponentInfo{com.hipchat/com.hipchat.activities.SignedOutActivity_}" drawable="ic_hipchat" />
+
+    <!-- Hipchat beta -->
+    <item component="ComponentInfo{com.hipchat.beta/com.hipchat.activities.SignedOutActivity_}" drawable="ic_hipchat_beta" />
+
     <!-- Holo Launcher -->
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="ic_holo_launcher" />
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Settings}" drawable="ic_holo_launcher" />
     <item component="ComponentInfo{com.mobint.hololauncher/com.android.launcher3.ShortcutActivity}" drawable="ic_holo_launcher" />
 
+    <!-- Homify -->
+    <item component="ComponentInfo{com.online.homify/com.online.homify.views.activities.SplashActivity}" drawable="ic_homify" />
+
+    <!-- Hootsuite -->
+    <item component="ComponentInfo{com.hootsuite.droid.full/com.hootsuite.droid.full.SplashActivity}" drawable="ic_hootsuite" />
+
     <!-- Hotel tonight -->
     <item component="ComponentInfo{com.hoteltonight.android.prod/com.hoteltonight.android.prod.activity.SplashActivity}" drawable="ic_hotel_tonight" />
+
+    <!-- Houzz -->
+    <item component="ComponentInfo{com.houzz.app/com.houzz.app.SplashScreenActivity}" drawable="ic_houzz" />
 
     <!-- HQ Trivia -->
     <item component="ComponentInfo{com.intermedia.hq/com.intermedia.EntryActivity}" drawable="ic_hq_trivia" />
 
     <!-- Hulu -->
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="ic_hulu" />
+
+    <!-- Humble Bundle -->
+    <item component="ComponentInfo{com.humblebundle.library/com.humblebundle.library.DownloadListActivity}" drawable="ic_humble_bundle" />
+
+    <!-- icq -->
+    <item component="ComponentInfo{com.icq.mobile.client/ru.mail.instantmessanger.flat.main.MainActivity}" drawable="ic_icq" />
 
     <!-- iFunny -->
     <item component="ComponentInfo{mobi.ifunny/mobi.ifunny.splash.SplashActivity}" drawable="ic_ifunny" />

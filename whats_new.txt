@@ -234,3 +234,9 @@ New Icons:
 - Geocaching
 - Goodreads
 - Gumtree
+- Hipchat
+- Hipchat beta
+- Homify
+- Hootsuite
+- Houzz
+- Icq

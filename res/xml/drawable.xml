@@ -471,12 +471,19 @@
 
     <!--<category title="H" />-->
     <item drawable="ic_hbo_now" />
+    <item drawable="ic_hipchat" />
+    <item drawable="ic_hipchat_beta" />
     <item drawable="ic_holo_launcher" />
+    <item drawable="ic_homify" />
+    <item drawable="ic_hootsuite" />
     <item drawable="ic_hotel_tonight" />
+    <item drawable="ic_houzz" />
     <item drawable="ic_hq_trivia" />
     <item drawable="ic_hulu" />
+    <item drawable="ic_humble_bundle" />
 
     <!--<category title="I" />-->
+    <item drawable="ic_icq" />
     <item drawable="ic_ifunny" />
     <item drawable="ic_imdb" />
     <item drawable="ic_imgur" />
