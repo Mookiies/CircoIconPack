@@ -487,8 +487,12 @@
     <item drawable="ic_ifunny" />
     <item drawable="ic_imdb" />
     <item drawable="ic_imgur" />
+    <item drawable="ic_instacart" />
     <item drawable="ic_instagram" />
     <item drawable="ic_instagram_layout" />
+    <item drawable="ic_instapaper" />
+    <item drawable="ic_intercom" />
+    <item drawable="ic_invision" />
 
     <!--<category title="J" /> -->
 

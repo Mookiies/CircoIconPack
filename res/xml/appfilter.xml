@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: ifixit.svg -->
+    <!-- TODO work through simple icons adding apps currently at: javascript.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -917,11 +917,23 @@
     <!-- imgur -->
     <item component="ComponentInfo{com.imgur.mobile/com.imgur.mobile.Launcher}" drawable="ic_imgur" />
 
+    <!-- Instacart -->
+    <item component="ComponentInfo{com.instacart.client/com.instacart.client.browse.ICBrowseActivity}" drawable="ic_instacart" />
+
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="ic_instagram" />
 
     <!-- Instagram Layout-->
     <item component="ComponentInfo{com.instagram.layout/com.instagram.layout.LayoutActivity}" drawable="ic_instagram_layout" />
+
+    <!-- Instapaper -->
+    <item component="ComponentInfo{com.instapaper.android/com.instapaper.android.MainActivity}" drawable="ic_instapaper" />
+
+    <!-- Intercom -->
+    <item component="ComponentInfo{io.intercom.android/io.intercom.android.screens.SplashScreenActivity}" drawable="ic_intercom" />
+
+    <!-- Invision -->
+    <item component="ComponentInfo{com.invisionapp.ifa/com.invisionapp.ifa.MainActivity}" drawable="ic_invision" />
 
     <!-- jetBlue -->
     <item component="ComponentInfo{com.jetblue.JetBlueAndroid/com.jetblue.JetBlueAndroid.activities.MainActivity}" drawable="ic_jetblue" />
