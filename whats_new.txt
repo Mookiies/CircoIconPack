@@ -240,3 +240,7 @@ New Icons:
 - Hootsuite
 - Houzz
 - Icq
+- Intercom
+- Instapaper
+- Intercom
+- Invision
