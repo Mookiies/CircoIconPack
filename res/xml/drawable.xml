@@ -495,16 +495,27 @@
     <item drawable="ic_invision" />
 
     <!--<category title="J" /> -->
+    <item drawable="ic_jetblue" />
+    <item drawable="ic_justgiving" />
 
     <!--<category title="K" />-->
     <item drawable="ic_kayak" />
+    <item drawable="ic_keybase" />
+    <item drawable="ic_khanacademy" />
+    <item drawable="ic_kickstarter" />
     <item drawable="ic_kik" />
     <item drawable="ic_klm_dutch_air" />
+    <item drawable="ic_klout" />
     <item drawable="ic_komoot" />
 
     <!--<category title="L" />-->
+    <item drawable="ic_lastfm" />
     <item drawable="ic_lastpass" />
+    <item drawable="ic_line" />
+    <item drawable="ic_line_live_player" />
     <item drawable="ic_linkedin" />
+    <item drawable="ic_livejournal" />
+    <item drawable="ic_livestream" />
     <item drawable="ic_lyft" />
 
     <!--<category title="M" />-->

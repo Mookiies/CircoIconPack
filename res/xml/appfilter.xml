@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: javascript.svg -->
+    <!-- TODO work through simple icons adding apps currently at: macys.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -938,8 +938,20 @@
     <!-- jetBlue -->
     <item component="ComponentInfo{com.jetblue.JetBlueAndroid/com.jetblue.JetBlueAndroid.activities.MainActivity}" drawable="ic_jetblue" />
 
+    <!-- JustGiving -->
+    <item component="ComponentInfo{com.justgiving.app/md538205ef0c55c985943ce743f87130599.SplashScreen}" drawable="ic_justgiving" />
+
     <!-- kayak -->
     <item component="ComponentInfo{com.kayak.android/com.kayak.android.Splash}" drawable="ic_kayak" />
+
+    <!-- Keybase -->
+    <item component="ComponentInfo{io.keybase.ossifrage/io.keybase.ossifrage.MainActivity}" drawable="ic_keybase" />
+
+    <!-- Kahn Academy -->
+    <item component="ComponentInfo{org.khanacademy.android/org.khanacademy.android.ui.library.MainActivity}" drawable="ic_khanacademy" />
+
+    <!-- Kickstaerter -->
+    <item component="ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}" drawable="ic_kickstarter" />
 
     <!-- kik -->
     <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="ic_kik" />
@@ -947,16 +959,34 @@
     <!-- KLM - Royal Dutch Airlines -->
     <item component="ComponentInfo{com.afklm.mobile.android.gomobile.klm/com.klm.mobile.android.core.activity.TripsActivity}" drawable="ic_klm_dutch_air" />
 
+    <!-- Klout -->
+    <item component="ComponentInfo{com.klout.android.moose/com.klout.android.moose.splash.SplashActivity}" drawable="ic_klout" />
+
     <!-- komoot -->
     <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="ic_komoot" />
+
+    <!-- lastfm -->
+    <item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="ic_lastfm" />
 
     <!-- Lastpass-->
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="ic_lastpass" />
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.PrefsActivity}" drawable="ic_lastpass" />
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.OpenYoloRetrieveCredentialActivity}" drawable="ic_lastpass" />
 
+    <!-- line -->
+    <item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="ic_line" />
+
+    <!-- line lite -->
+    <item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}" drawable="ic_line" />
+
     <!-- Linkedin-->
     <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="ic_linkedin" />
+
+    <!-- LiveJournal -->
+    <item component="ComponentInfo{com.livejournal.android/com.livejournal.android.SplashActivity}" drawable="ic_livejournal" />
+
+    <!-- livestream -->
+    <item component="ComponentInfo{com.livestream.livestream/com.livestream2.android.activity.splash.SplashActivity}" drawable="ic_livestream" />
 
     <!-- Lyft -->
     <item component="ComponentInfo{me.lyft.android/me.lyft.android.ui.MainActivity}" drawable="ic_lyft" />

@@ -244,3 +244,13 @@ New Icons:
 - Instapaper
 - Intercom
 - Invision
+- JustGiving
+- Keybase
+- Khanacademy
+- Kickstarter
+- Klout
+- Lastfm
+- Line
+- Line lite
+- Livejournal
+- Livestream
