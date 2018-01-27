@@ -155,6 +155,7 @@ New Icons: (36)
 - fitbit
 - roku
 
+
 Version 1.3.4
 ------------------------------------------------------------------------
 Fixes: Fix Netflix Icon not applying
@@ -193,6 +194,7 @@ New Icons:
 - United Airlines
 - Yahoo Finance
 - Youtube Kids
+
 
 Version 1.3.5
 ------------------------------------------------------------------------
@@ -252,5 +254,11 @@ New Icons:
 - Lastfm
 - Line
 - Line lite
-- Livejournal
+- LiveJournal
 - Livestream
+
+
+Version 1.3.6
+------------------------------------------------------------------------
+
+New Icons:

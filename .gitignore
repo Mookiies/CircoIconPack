@@ -43,3 +43,4 @@ gradle/
 local.properties
 /apkInfo/
 /.idea/
+/release/output.json
