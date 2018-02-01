@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: macys.svg -->
+    <!-- TODO work through simple icons adding apps currently at: neo4j.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -991,8 +991,29 @@
     <!-- Lyft -->
     <item component="ComponentInfo{me.lyft.android/me.lyft.android.ui.MainActivity}" drawable="ic_lyft" />
 
+    <!-- Macys -->
+    <item component="ComponentInfo{com.macys.android/com.macys.main.ui.activity.MainActivity}" drawable="ic_macys" />
+
+    <!-- Mailchimp -->
+    <item component="ComponentInfo{com.mailchimp.mailchimp/com.mailchimp.android.mcm.ui.splash.SplashActivity}" drawable="ic_mailchimp" />
+
+    <!-- Mastercard For You -->
+    <item component="ComponentInfo{com.mastercard.mastercardforyou/com.mastercard.mastercardforyou.MainActivity}" drawable="ic_mastercard" />
+
+    <!-- Mastercard Masterpass -->
+    <item component="ComponentInfo{com.mastercard.mp.wallet/com.mastercard.mp.wallet.activity.MainControllerActivity}" drawable="ic_mastercard" />
+
+    <!-- Mastercard Nearby -->
+    <item component="ComponentInfo{com.mastercard.nearby/com.mastercard.nearby.ui.activities.SplashScreenActivity}" drawable="ic_mastercard" />
+
     <!-- Mc Donalds-->
     <item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="ic_mc_donalds" />
+
+    <!-- Medium -->
+    <item component="ComponentInfo{com.medium.reader/com.medium.android.donkey.start.SplashActivity}" drawable="ic_medium" />
+
+    <!-- Meetup -->
+    <item component="ComponentInfo{com.meetup/com.meetup.activity.Bootstrap}" drawable="ic_meetup" />
 
     <!-- Microsoft Excel-->
     <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="ic_microsoft_excel" />
@@ -1014,6 +1035,12 @@
 
     <!-- Mini Metro -->
     <item component="ComponentInfo{nz.co.codepoint.minimetro/com.unity3d.player.UnityPlayerActivity}" drawable="ic_mini_metro" />
+
+    <!-- Mixcloud -->
+    <item component="ComponentInfo{com.mixcloud.player/com.mixcloud.player.activity.SplashActivity}" drawable="ic_mixcloud" />
+
+    <!-- Monero -->
+    <item component="ComponentInfo{xmr.org.freewallet.app/xmr.org.freewallet.app.MainActivity}" drawable="ic_monero" />
 
     <!-- Money Lover -->
     <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash}" drawable="ic_money_lover" />

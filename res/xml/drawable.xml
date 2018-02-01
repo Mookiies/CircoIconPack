@@ -519,7 +519,12 @@
     <item drawable="ic_lyft" />
 
     <!--<category title="M" />-->
+    <item drawable="ic_macys" />
+    <item drawable="ic_mailchimp" />
+    <item drawable="ic_mastercard" />
     <item drawable="ic_mc_donalds" />
+    <item drawable="ic_medium" />
+    <item drawable="ic_meetup" />
     <item drawable="ic_microsoft_excel" />
     <item drawable="ic_microsoft_onedrive" />
     <item drawable="ic_microsoft_onenote" />
@@ -527,6 +532,8 @@
     <item drawable="ic_microsoft_powerpoint" />
     <item drawable="ic_microsoft_word" />
     <item drawable="ic_mini_metro" />
+    <item drawable="ic_mixcloud" />
+    <item drawable="ic_monero" />
     <item drawable="ic_money_lover" />
     <item drawable="ic_mticket" />
     <item drawable="ic_musically" />

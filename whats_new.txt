@@ -173,7 +173,7 @@ Add topic folder with color variations (100 icons)
 - Video
 
 
-New Icons:
+New Icons: (19)
 - abc
 - Air France
 - Alto
@@ -199,7 +199,7 @@ New Icons:
 Version 1.3.5
 ------------------------------------------------------------------------
 
-New Icons:
+New Icons: (55)
 - 500px
 - Asana
 - Doodle Jump
@@ -262,3 +262,10 @@ Version 1.3.6
 ------------------------------------------------------------------------
 
 New Icons:
+- Macys
+- Mailchimp
+- Mastercard
+- Medium
+- Meetup
+- Mixcloud
+- Monero
