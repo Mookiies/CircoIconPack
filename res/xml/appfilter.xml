@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: neo4j.svg -->
+    <!-- TODO work through simple icons adding apps currently at: python.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -825,6 +825,9 @@
     <!-- Firefox -->
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="ic_firefox" />
 
+    <!-- Firefox Focus -->
+    <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="ic_firefox_focus" />
+
     <!-- Fitbit -->
     <item component="ComponentInfo{com.fitbit.FitbitMobile/com.fitbit.FirstActivity}" drawable="ic_fitbit" />
 
@@ -1074,17 +1077,41 @@
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="ic_nytimes" />
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.activity.MainActivity_}" name="ic_nytimes" />
 
+    <!-- Odnoklassniki (OK) -->
+    <item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="ic_odnoklassniki" />
+
     <!-- One more dash -->
     <item component="ComponentInfo{com.smgstudio.omd/com.prime31.UnityPlayerActivity}" drawable="ic_one_more_dash" />
 
     <!-- One more line -->
     <item component="ComponentInfo{com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerNativeActivity}" drawable="ic_one_more_line" />
 
+    <!-- Opentable -->
+    <item component="ComponentInfo{com.opentable/com.opentable.activities.search.SearchResults}" drawable="ic_opentable" />
+
+    <!-- Opera -->
+    <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="ic_opera" />
+
+    <!-- Opera Beta TODO generate own icon for beta-->
+    <item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="ic_opera" />
+
+    <!-- Opera Mini TODO generate opera mini icon-->
+    <item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="ic_opera" />
+
+    <!-- Opera Mini Beta TODO generate opera mini icon-->
+    <item component="ComponentInfo{com.opera.mini.native.beta/com.opera.mini.android.Browser}" drawable="ic_opera" />
+
     <!-- Pandora -->
     <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="ic_pandora" />
 
+    <!-- Pateron -->
+    <item component="ComponentInfo{com.patreon.android/com.patreon.android.ui.shared.LauncherActivity}" drawable="ic_pateron" />
+
     <!-- PayPal-->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="ic_paypal" />
+
+    <!-- Periscope -->
+    <item component="ComponentInfo{tv.periscope.android/tv.periscope.android.LaunchActivity}" drawable="ic_periscope" />
 
     <!-- Photomath-->
     <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.MainActivity}" drawable="ic_photomath" />
@@ -1094,6 +1121,30 @@
 
     <!-- Pizza Hut -->
     <item component="ComponentInfo{com.yum.pizzahut/com.yum.pizzahut.Home}" drawable="ic_pizza_hut" />
+
+    <!-- Plangrid -->
+    <item component="ComponentInfo{com.plangrid.android/com.plangrid.android.activities.HomeActivity}" drawable="ic_plangrid" />
+
+    <!-- Player.me -->
+    <item component="ComponentInfo{me.player/me.player.app.splash.view.SplashActivity}" drawable="ic_player_me" />
+
+    <!-- Playstation -->
+    <item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity}" drawable="ic_playstation" />
+
+    <!-- Plex -->
+    <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="ic_plex" />
+
+    <!-- Plex VR -->
+    <item component="ComponentInfo{com.plexapp.android.vr/com.plexapp.plex.activities.UnityPlayerActivity}" drawable="ic_plex" />
+
+    <!-- Pluralsight -->
+    <item component="ComponentInfo{com.pluralsight/com.pluralsight.android.learner.ui.activity.launch.LaunchActivity}" drawable="ic_pluralsight" />
+
+    <!-- Plurk -->
+    <item component="ComponentInfo{com.plurk.android/com.plurk.android.start.MainActivity}" drawable="ic_plurk" />
+
+    <!-- Pocket -->
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="ic_pocket" />
 
     <!-- Pocket cast -->
     <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="ic_pocket_cast" />
@@ -1108,6 +1159,12 @@
 
     <!-- Prisma -->
     <item component="ComponentInfo{com.neuralprisma/com.prisma.ui.starter.StarterActivity}" drawable="ic_prisma" />
+
+    <!-- Protio -->
+    <item component="ComponentInfo{io.proto.player/io.proto.player.projectListActivity.ProjectListActivity}" drawable="ic_protio" />
+
+    <!-- Protonmail -->
+    <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="ic_protonmail" />
 
     <!-- Pushbullet -->
     <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="ic_pushbullet" />

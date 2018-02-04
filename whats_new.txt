@@ -262,6 +262,7 @@ Version 1.3.6
 ------------------------------------------------------------------------
 
 New Icons:
+- Firefox Focus
 - Macys
 - Mailchimp
 - Mastercard
@@ -269,3 +270,17 @@ New Icons:
 - Meetup
 - Mixcloud
 - Monero
+- OK
+- Opentable
+- Opera (mini, both betas)
+- Pateron
+- Periscope
+- Plangrid
+- Player.me
+- Playstation
+- Plex
+- Pluralsight
+- Plurk
+- Pocket
+- Protio
+- Protonmail

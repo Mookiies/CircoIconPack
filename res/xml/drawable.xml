@@ -453,6 +453,7 @@
     <item drawable="ic_fandango" />
     <item drawable="ic_feedly" />
     <item drawable="ic_firefox" />
+    <item drawable="ic_firefox_focus" />
     <item drawable="ic_fitbit" />
     <item drawable="ic_flashfire" />
     <item drawable="ic_flipboard" />
@@ -547,19 +548,33 @@
     <item drawable="ic_nytimes" />
 
     <!--<category title="O" />-->
+    <item drawable="ic_odnoklassniki" />
     <item drawable="ic_one_more_dash" />
     <item drawable="ic_one_more_line" />
+    <item drawable="ic_opentable" />
+    <item drawable="ic_opera" />
 
     <!--<category title="P" />-->
     <item drawable="ic_pandora" />
+    <item drawable="ic_pateron" />
     <item drawable="ic_paypal" />
+    <item drawable="ic_periscope" />
     <item drawable="ic_photomath" />
     <item drawable="ic_pintrest" />
     <item drawable="ic_pizza_hut" />
+    <item drawable="ic_plangrid" />
+    <item drawable="ic_player_me" />
+    <item drawable="ic_playstation" />
+    <item drawable="ic_plex" />
+    <item drawable="ic_pluralsight" />
+    <item drawable="ic_plurk" />
+    <item drawable="ic_pocket" />
     <item drawable="ic_pocket_cast" />
     <item drawable="ic_pop_the_lock" />
     <item drawable="ic_poweramp" />
     <item drawable="ic_prisma" />
+    <item drawable="ic_protio" />
+    <item drawable="ic_protonmail" />
     <item drawable="ic_pushbullet" />
 
     <!--<category title="Q" />-->
