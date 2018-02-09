@@ -583,12 +583,20 @@
     <item drawable="ic_reddit_alt" />
     <item drawable="ic_reddit_official_app" />
     <item drawable="ic_remind_me" />
+    <item drawable="ic_reverbnation" />
     <item drawable="ic_robinhood" />
     <item drawable="ic_roku" />
+    <item drawable="ic_runkeeper" />
 
     <!--<category title="S" />-->
+    <item drawable="ic_salesforce" />
+    <item drawable="ic_scribid" />
     <item drawable="ic_shazam" />
+    <item drawable="ic_shopify" />
+    <item drawable="ic_signal" />
     <item drawable="ic_skype" />
+    <item drawable="ic_slack" />
+    <item drawable="ic_slickpic" />
     <item drawable="ic_smart_launcher" />
     <item drawable="ic_smart_recorder" />
     <item drawable="ic_snapchat" />
@@ -602,7 +610,13 @@
     <item drawable="ic_stack_overflow" />
     <item drawable="ic_starbucks" />
     <item drawable="ic_steam" />
+    <item drawable="ic_steem" />
+    <item drawable="ic_stitcher" />
+    <item drawable="ic_strava" />
+    <item drawable="ic_stubhub" />
+    <item drawable="ic_stumbleupon" />
     <item drawable="ic_super_su" />
+    <item drawable="ic_swarm" />
     <item drawable="ic_swipe_snake" />
     <item drawable="ic_swiss_air" />
 
@@ -639,6 +653,7 @@
     <item drawable="ic_walmart" />
     <item drawable="ic_waze" />
     <item drawable="ic_we_chat" />
+    <item drawable="ic_weibo" />
     <item drawable="ic_wells_fargo" />
     <item drawable="ic_whatsapp" />
     <item drawable="ic_wolfram_alpha" />

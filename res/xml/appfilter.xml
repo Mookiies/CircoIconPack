@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: python.svg -->
+    <!-- TODO work through simple icons adding apps currently at: symphony.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -1184,14 +1184,32 @@
     <!-- Remind Me -->
     <item component="ComponentInfo{com.remind101/com.remind101.ui.activities.WelcomeActivity}" drawable="ic_remind_me" />
 
+    <!-- Reverbnation -->
+    <item component="ComponentInfo{com.gss.android.ReverbNation.Activities/com.gss.android.ReverbNation.Activities.MainActivity}" drawable="ic_reverbnation" />
+
     <!-- Robinhood -->
     <item component="ComponentInfo{com.robinhood.android/com.robinhood.android.activity.WelcomeActivity}" drawable="ic_robinhood" />
 
     <!-- Roku -->
     <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.WelcomeActivity}" drawable="ic_roku" />
 
+    <!-- Runkeeper -->
+    <item component="ComponentInfo{com.fitnesskeeper.runkeeper.pro/com.fitnesskeeper.runkeeper.SplashActivity}" drawable="ic_runkeeper" />
+
+    <!-- Salesforce -->
+    <item component="ComponentInfo{com.salesforce.chatter/com.salesforce.chatter.Chatter}" drawable="ic_salesforce" />
+
+    <!-- Scribid -->
+    <item component="ComponentInfo{com.scribd.app.reader0/com.scribd.app.ui.SplashScreen}" drawable="ic_scribid" />
+
     <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="ic_shazam" />
+
+    <!-- Shopify -->
+    <item component="ComponentInfo{com.shopify.mobile/com.shopify.mobile.MainActivity}" drawable="ic_shopify" />
+
+    <!-- Signal -->
+    <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="ic_signal" />
 
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="ic_skype" />
@@ -1206,6 +1224,12 @@
     <item component="ComponentInfo{com.skype.android.threeUK/com.skype.android.threeUK.SkypeActivity}" drawable="ic_skype"/>
     <item component="ComponentInfo{com.skype.android.threeAU/com.skype.android.threeAU.SkypeActivity}" drawable="ic_skype"/>
     <item component="ComponentInfo{com.skype.unlocked.raider/com.skype.unlocked.raider.ui.SplashScreenActivity}" drawable="ic_skype"/>
+
+    <!-- Slack -->
+    <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="ic_slack" />
+
+    <!-- Slickpic -->
+    <item component="ComponentInfo{com.slickpic/com.slickpic.MainActivity}" drawable="ic_slickpic" />
 
     <!-- Smart Launcher -->
     <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="ic_smart_launcher" />
@@ -1249,6 +1273,21 @@
     <!-- Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="ic_steam" />
 
+    <!-- Steem -->
+    <item component="ComponentInfo{steem.org.freewallet.app/steem.org.freewallet.app.MainActivity}" drawable="ic_steem" />
+
+    <!-- Stitcher -->
+    <item component="ComponentInfo{com.stitcher.app/com.stitcher.app.LaunchContainer}" drawable="ic_stitcher" />
+
+    <!-- Strava -->
+    <item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="ic_strava" />
+
+    <!-- Stubhub -->
+    <item component="ComponentInfo{com.stubhub/com.stubhub.StubHubSplashActivity}" drawable="ic_stubhub" />
+
+    <!-- Stumbleupon -->
+    <item component="ComponentInfo{com.stumbleupon.android.app/com.stumbleupon.android.app.activity.SplashActivity}" drawable="ic_stumbleupon" />
+
     <!-- Super SU -->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="ic_super_su" />
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Emblem}" drawable="ic_super_su"/>
@@ -1257,6 +1296,9 @@
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Chip}" drawable="ic_super_su"/>
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperSU}" drawable="ic_super_su"/>
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Original}" drawable="ic_super_su"/>
+
+    <!-- Swarm -->
+    <item component="ComponentInfo{com.foursquare.robin/com.foursquare.robin.activities.MainActivity}" drawable="ic_swarm" />
 
     <!-- Swiss Air -->
     <item component="ComponentInfo{com.gmail.kach.ivor.SwipeSnake/com.ansca.corona.CoronaActivity}" drawable="ic_swipe_snake" />
@@ -1341,6 +1383,9 @@
 
     <!-- WeChat -->
     <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="ic_we_chat" />
+
+    <!-- Weibo -->
+    <item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="ic_weibo" />
 
     <!-- Wells Fargo -->
     <item component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.MainActivity}" drawable="ic_wells_fargo" />
