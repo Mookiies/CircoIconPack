@@ -298,4 +298,11 @@ New Icons:
 - Stubhub
 - Stumbleupon
 - Swarm
+- Ted
+- Ted Connect
+- Tesla
+- Toggl
+- Trello
+- Twoo
+- Udacity
 - Weibo
