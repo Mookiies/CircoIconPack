@@ -481,35 +481,35 @@
     <!--Books-->
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="ic_google_books" />
 
-    <!--Calendar-->
+    <!-- Calendar -->
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ic_google_calendar" />
 
-    <!--Cardboard-->
+    <!-- Cardboard -->
     <item component="ComponentInfo{com.google.samples.apps.cardboarddemo/com.google.vr.cardboard.paperscope.carton.Home2Dv2}" drawable="ic_google_cardboard" />
     <item component="ComponentInfo{com.google.vr.cyclops/com.google.android.apps.cyclops.StartActivity}" drawable="ic_google_cardboard_camera" />
 
-    <!--Classroom-->
+    <!-- Classroom -->
     <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity}" drawable="ic_google_classroom" />
 
-    <!--Documents-->
+    <!-- Documents -->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_documents" />
 
-    <!--Drive-->
+    <!-- Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_drive" />
 
-    <!--Earth-->
+    <!-- Earth -->
     <item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="ic_google_earth" />
 
-    <!--Express-->
+    <!--Express -->
     <item component="ComponentInfo{com.google.android.apps.shopping.express/com.google.android.apps.shopping.express.activity.PreMainActivity}" drawable="ic_google_express" />
 
-    <!--Fit-->
+    <!--Fit -->
     <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="ic_google_fit" />
 
-    <!--Games-->
+    <!--Games -->
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="ic_google_games" />
 
-    <!--Home-->
+    <!-- Home -->
     <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="ic_google_home" />
 
     <!--Keep-->
