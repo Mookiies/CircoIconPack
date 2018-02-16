@@ -305,4 +305,9 @@ New Icons:
 - Trello
 - Twoo
 - Udacity
+- Untappd
+- Viadeo
+- Vimeo
+- Vk
+- Vsco
 - Weibo

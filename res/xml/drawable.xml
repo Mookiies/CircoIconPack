@@ -648,11 +648,17 @@
     <item drawable="ic_udacity" />
     <item drawable="ic_ultimate_ears_boom" />
     <item drawable="ic_united_airlines" />
+    <item drawable="ic_untappd" />
+    <item drawable="ic_upwork" />
 
     <!--<category title="V" />-->
     <item drawable="ic_venmo" />
+    <item drawable="ic_viadeo" />
     <item drawable="ic_viber_messenger" />
+    <item drawable="ic_vimeo" />
+    <item drawable="ic_vk" />
     <item drawable="ic_vivino" />
+    <item drawable="ic_vsco" />
 
     <!--<category title="W" />-->
     <item drawable="ic_walgreens" />

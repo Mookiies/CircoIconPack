@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: umbraco.svg -->
+    <!-- TODO work through simple icons adding apps currently at: vuejs.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -1384,14 +1384,32 @@
     <!-- United Airlines -->
     <item component="ComponentInfo{com.united.mobile.android/com.united.mobile.android.SplashScreen}" drawable="ic_united_airlines" />
 
+    <!-- Untappd -->
+    <item component="ComponentInfo{com.untappdllc.app/com.untappdllc.app.MainActivity}" drawable="ic_untappd" />
+
+    <!-- Upwork -->
+    <item component="ComponentInfo{com.upwork.android/com.upwork.android.main.MainActivity}" drawable="ic_upwork" />
+
     <!-- Venmo -->
     <item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="ic_venmo" />
+
+    <!-- Viadeo -->
+    <item component="ComponentInfo{com.viadeo.android/com.viadeo.android.ui.activity.HomeActivity}" drawable="ic_viadeo" />
 
     <!-- Viber -->
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="ic_viber_messenger" />
 
+    <!-- Vimeo -->
+    <item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity}" drawable="ic_vimeo" />
+
     <!-- Vivino -->
     <item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="ic_vivino" />
+
+    <!-- Vk -->
+    <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="ic_vk" />
+
+    <!-- Vsco -->
+    <item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity}" drawable="ic_vsco" />
 
     <!-- Walgreens -->
     <item component="ComponentInfo{com.usablenet.mobile.walgreen/com.usablenet.mobile.walgreen.AppStart}" drawable="ic_walgreens" />
