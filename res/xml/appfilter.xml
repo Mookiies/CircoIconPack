@@ -18,7 +18,7 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: symphony.svg -->
+    <!-- TODO work through simple icons adding apps currently at: vuejs.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -481,35 +481,35 @@
     <!--Books-->
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="ic_google_books" />
 
-    <!--Calendar-->
+    <!-- Calendar -->
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ic_google_calendar" />
 
-    <!--Cardboard-->
+    <!-- Cardboard -->
     <item component="ComponentInfo{com.google.samples.apps.cardboarddemo/com.google.vr.cardboard.paperscope.carton.Home2Dv2}" drawable="ic_google_cardboard" />
     <item component="ComponentInfo{com.google.vr.cyclops/com.google.android.apps.cyclops.StartActivity}" drawable="ic_google_cardboard_camera" />
 
-    <!--Classroom-->
+    <!-- Classroom -->
     <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity}" drawable="ic_google_classroom" />
 
-    <!--Documents-->
+    <!-- Documents -->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_documents" />
 
-    <!--Drive-->
+    <!-- Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_drive" />
 
-    <!--Earth-->
+    <!-- Earth -->
     <item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="ic_google_earth" />
 
-    <!--Express-->
+    <!--Express -->
     <item component="ComponentInfo{com.google.android.apps.shopping.express/com.google.android.apps.shopping.express.activity.PreMainActivity}" drawable="ic_google_express" />
 
-    <!--Fit-->
+    <!--Fit -->
     <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="ic_google_fit" />
 
-    <!--Games-->
+    <!--Games -->
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="ic_google_games" />
 
-    <!--Home-->
+    <!-- Home -->
     <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="ic_google_home" />
 
     <!--Keep-->
@@ -1309,8 +1309,17 @@
     <!-- Target -->
     <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="ic_target" />
 
+    <!-- Ted -->
+    <item component="ComponentInfo{com.ted.android/com.ted.android.view.splash.SplashActivity}" drawable="ic_ted" />
+
+    <!-- Ted Connect -->
+    <item component="ComponentInfo{com.ted.android.conference/com.ted.android.conference.activity.MainActivity}" drawable="ic_ted" />
+
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="ic_telegram" />
+
+    <!-- Tesla -->
+    <item component="ComponentInfo{com.teslamotors.tesla/com.teslamotors.TeslaApp.MainActivity}" drawable="ic_tesla" />
 
     <!-- Textra -->
     <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="ic_textra" />
@@ -1321,11 +1330,17 @@
     <!-- Tinder -->
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="ic_tinder" />
 
+    <!-- Toggl -->
+    <item component="ComponentInfo{com.toggl.timer/toggl.joey.ui.activities.SplashActivity}" drawable="ic_toggl" />
+
     <!-- Top Buzz -->
     <item component="ComponentInfo{com.ss.android.article.master/com.ss.android.article.pagenewark.activity.SplashActivity}" drawable="ic_top_buzz" />
 
     <!-- Top Buzz Viral -->
     <item component="ComponentInfo{com.ss.android.article.topbuzzvideo.en/com.ss.android.article.pagenewark.activity.SplashActivity}" drawable="ic_top_buzz_v" />
+
+    <!-- Trello -->
+    <item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="ic_trello" />
 
     <!-- Trip Advisor -->
     <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity}" drawable="ic_trip_advisor" />
@@ -1345,6 +1360,9 @@
     <!-- Twitter -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="ic_twitter" />
 
+    <!-- Twoo -->
+    <item component="ComponentInfo{com.twoo/com.twoo.splash.SplashActivity}" drawable="ic_twoo" />
+
     <!-- TWRP -->
     <item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity}" drawable="ic_twrp" />
 
@@ -1357,20 +1375,41 @@
     <!-- Uber eats -->
     <item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity}" drawable="ic_uber_eats" />
 
+    <!-- Udacity -->
+    <item component="ComponentInfo{com.udacity.android/com.udacity.android.ui.catalog.CatalogActivity}" drawable="ic_udacity" />
+
     <!-- Ultimate Ears Boom -->
     <item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.activities.MainActivity}" drawable="ic_ultimate_ears_boom" />
 
     <!-- United Airlines -->
     <item component="ComponentInfo{com.united.mobile.android/com.united.mobile.android.SplashScreen}" drawable="ic_united_airlines" />
 
+    <!-- Untappd -->
+    <item component="ComponentInfo{com.untappdllc.app/com.untappdllc.app.MainActivity}" drawable="ic_untappd" />
+
+    <!-- Upwork -->
+    <item component="ComponentInfo{com.upwork.android/com.upwork.android.main.MainActivity}" drawable="ic_upwork" />
+
     <!-- Venmo -->
     <item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="ic_venmo" />
+
+    <!-- Viadeo -->
+    <item component="ComponentInfo{com.viadeo.android/com.viadeo.android.ui.activity.HomeActivity}" drawable="ic_viadeo" />
 
     <!-- Viber -->
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="ic_viber_messenger" />
 
+    <!-- Vimeo -->
+    <item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity}" drawable="ic_vimeo" />
+
     <!-- Vivino -->
     <item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="ic_vivino" />
+
+    <!-- Vk -->
+    <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="ic_vk" />
+
+    <!-- Vsco -->
+    <item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity}" drawable="ic_vsco" />
 
     <!-- Walgreens -->
     <item component="ComponentInfo{com.usablenet.mobile.walgreen/com.usablenet.mobile.walgreen.AppStart}" drawable="ic_walgreens" />

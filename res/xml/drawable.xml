@@ -622,31 +622,43 @@
 
     <!--<category title="T" />-->
     <item drawable="ic_target" />
+    <item drawable="ic_ted" />
     <item drawable="ic_telegram" />
+    <item drawable="ic_tesla" />
     <item drawable="ic_textra" />
     <item drawable="ic_thescore_esports" />
     <item drawable="ic_tinder" />
+    <item drawable="ic_toggl" />
     <item drawable="ic_top_buzz" />
     <item drawable="ic_top_buzz_v" />
+    <item drawable="ic_trello" />
     <item drawable="ic_trip_advisor" />
     <item drawable="ic_tumblr" />
     <item drawable="ic_tunein_radio" />
     <item drawable="ic_twitch" />
     <item drawable="ic_twitch_messenger" />
     <item drawable="ic_twitter" />
+    <item drawable="ic_twoo" />
     <item drawable="ic_twrp" />
 
     <!--<category title="U" />-->
     <item drawable="ic_uber" />
     <item drawable="ic_uber_driver" />
     <item drawable="ic_uber_eats" />
+    <item drawable="ic_udacity" />
     <item drawable="ic_ultimate_ears_boom" />
     <item drawable="ic_united_airlines" />
+    <item drawable="ic_untappd" />
+    <item drawable="ic_upwork" />
 
     <!--<category title="V" />-->
     <item drawable="ic_venmo" />
+    <item drawable="ic_viadeo" />
     <item drawable="ic_viber_messenger" />
+    <item drawable="ic_vimeo" />
+    <item drawable="ic_vk" />
     <item drawable="ic_vivino" />
+    <item drawable="ic_vsco" />
 
     <!--<category title="W" />-->
     <item drawable="ic_walgreens" />
