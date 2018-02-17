@@ -310,4 +310,13 @@ New Icons:
 - Vimeo
 - Vk
 - Vsco
+- Wattpad
 - Weibo
+- When I Work
+- Wikipedia
+- Wire
+- Wordpress
+- Xero
+- Xing
+- Yammer
+- Zillow

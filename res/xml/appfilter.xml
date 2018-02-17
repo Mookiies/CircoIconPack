@@ -1406,16 +1406,19 @@
     <item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="ic_vivino" />
 
     <!-- Vk -->
-    <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="ic_vk" />
+    <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="ic_vk" />
 
     <!-- Vsco -->
-    <item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity}" drawable="ic_vsco" />
+    <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="ic_vsco" />
 
     <!-- Walgreens -->
     <item component="ComponentInfo{com.usablenet.mobile.walgreen/com.usablenet.mobile.walgreen.AppStart}" drawable="ic_walgreens" />
 
     <!-- Walmart -->
     <item component="ComponentInfo{com.walmart.android/com.walmart.android.app.main.MainActivity}" drawable="ic_walmart" />
+
+    <!-- Wattpad -->
+    <item component="ComponentInfo{wp.wattpad/wp.wattpad.ui.activities.LoginActivity}" drawable="ic_wattpad" />
 
     <!-- Waze -->
     <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="ic_waze" />
@@ -1432,14 +1435,35 @@
     <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="ic_whatsapp" />
 
+    <!-- When I Work -->
+    <item component="ComponentInfo{com.thisclicks.wiw/com.thisclicks.wiw.ui.scheduler.ScheduleActivity}" drawable="ic_when_i_work" />
+
+    <!-- Wikipedia -->
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="ic_wikipedia" />
+
+    <!-- Wikipedia Beta -->
+    <item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.main.MainActivity}" drawable="ic_wikipedia" />
+
+    <!-- Wire -->
+    <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="ic_wire" />
+
     <!-- Wolfram Alpha -->
     <item component="ComponentInfo{com.wolfram.android.alpha/com.wolfram.android.alpha.activity.SplashScreenActivity}" drawable="ic_wolfram_alpha" />
+
+    <!-- Wordpress -->
+    <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="ic_wordpress" />
 
     <!-- Xbox -->
     <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="ic_xbox" />
 
+    <!-- Xero -->
+    <item component="ComponentInfo{com.xero.touch/com.xero.touch.auth.login.MainActivity}" drawable="ic_xero" />
+
     <!-- Xfinity Stream TV -->
     <item component="ComponentInfo{com.xfinity.cloudtvr/com.xfinity.common.view.LaunchActivity}" drawable="ic_xfinity_stream_tv" />
+
+    <!-- Xing -->
+    <item component="ComponentInfo{com.xing.android/com.xing.android.landing.presentation.ui.MainActivity}" drawable="ic_xing" />
 
     <!-- Yahoo Finance -->
     <item component="ComponentInfo{com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.activity.Main}" drawable="ic_yahoo_finance" />
@@ -1447,8 +1471,23 @@
     <!-- Yahoo Mail -->
     <item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity}" drawable="ic_yahoo_mail" />
 
+    <!-- Yammer -->
+    <item component="ComponentInfo{com.yammer.v1/com.yammer.droid.ui.LauncherActivity}" drawable="ic_yammer" />
+
     <!-- Yelp -->
     <item component="ComponentInfo{com.yelp.android/com.yelp.android.ui.activities.RootActivity}" drawable="ic_yelp" />
+
+    <!-- Zillow  --> <!-- TODO make icons for other zillow apps -->
+    <item component="ComponentInfo{com.zillow.android.zillowmap/com.zillow.android.re.ui.SplashScreenActivity}" drawable="ic_zillow" />
+
+    <!-- Zillow Mortgage -->
+    <item component="ComponentInfo{com.zillow.android.zmm/com.zillow.android.mortgage.ui.MarketTrendsActivity}" drawable="ic_zillow" />
+
+    <!-- Zillow Rental Management -->
+    <item component="ComponentInfo{com.zillow.postlet/com.zillow.postlet.controller.startup.StartActivity}" drawable="ic_zillow" />
+
+    <!-- Zillow Rentals -->
+    <item component="ComponentInfo{com.zillow.android.rentals/com.zillow.android.re.ui.SplashScreenActivity}" drawable="ic_zillow" />
 
     <!-- Zoom -->
     <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="ic_zoom" />
