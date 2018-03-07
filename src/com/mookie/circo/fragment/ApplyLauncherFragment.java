@@ -41,8 +41,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Fragment handling clicks on launcher apply buttons. If installed sends to launcher apply page,
- * if not installed sends to google play store page, and if not supported displays toast.
+ * Fragment handling clicks on launcher apply buttons. If installed sends to launcher apply page.
+ * If not installed or not supported displays toast.
  *
  * @author mgscr
  */
