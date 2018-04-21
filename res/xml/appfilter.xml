@@ -663,6 +663,7 @@
 
     <!-- Amtrack -->
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
+    <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.Amtrak}" drawable="ic_amtrack" />
 
     <!-- Apex -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
