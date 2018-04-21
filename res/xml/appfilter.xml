@@ -18,7 +18,6 @@
 
 <resources>
 
-    <!-- TODO work through simple icons adding apps currently at: vuejs.svg -->
     <!-- TODO consider using grade to simulate drawable sub directories.
         https://stackoverflow.com/questions/9029051/is-it-possible-to-use-sub-folders-in-drawables-in-android -->
     <!-- TODO figure out themeing smart launcher system icons-->
@@ -663,6 +662,7 @@
 
     <!-- Amtrack -->
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
+    <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.Amtrak}" drawable="ic_amtrack" />
 
     <!-- Apex -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
