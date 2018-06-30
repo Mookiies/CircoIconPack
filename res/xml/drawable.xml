@@ -22,7 +22,6 @@
 
     <!-- Specific categories first, then the the rest of all icons, striving for alphabetical
          order of app name. All apps should be listed here -->
-    <!-- TODO adding the new apps to drawable (here) and testing them for appfilter and here -->
 
     <!-- Icons for system apps. All icons should be purple. Non purple default icons are: browser, contacts  -->
     <category title="System" />
@@ -39,6 +38,7 @@
     <item drawable="ic_music" />
     <item drawable="ic_phone" />
     <item drawable="ic_settings" />
+    <item drawable="ic_sms_alt2_purple" />
     <item drawable="ic_voice_recorder" />
 
 
@@ -216,6 +216,16 @@
     <item drawable="ic_settings_red" />
     <item drawable="ic_settings_salmon" />
     <item drawable="ic_settings_yellow" />
+
+    <item drawable="ic_sms_alt2_blue" />
+    <item drawable="ic_sms_alt2_green" />
+    <item drawable="ic_sms_alt2_light_blue" />
+    <item drawable="ic_sms_alt2_orange" />
+    <item drawable="ic_sms_alt2_pink" />
+    <item drawable="ic_sms_alt2_purple" />
+    <item drawable="ic_sms_alt2_red" />
+    <item drawable="ic_sms_alt2_salmon" />
+    <item drawable="ic_sms_alt2_yellow" />
 
     <item drawable="ic_voice_recorder_blue" />
     <item drawable="ic_voice_recorder_green" />
