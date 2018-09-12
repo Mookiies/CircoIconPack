@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><!-- For Atom Launcher -->
 <themeInfo>
     <packageName>com.mookie.circo</packageName>
-    <versionName>1.3.1</versionName>
-    <versionCode>15</versionCode>
+    <versionName>1.3.7</versionName>
+    <versionCode>22</versionCode>
     <themeName>Circo</themeName>
 
     <!-- Default Component Color -->

@@ -302,25 +302,25 @@
     <item component="ComponentInfo{cast.meow.right.com.castformuzei/cast.meow.right.com.castformuzei.GalleryActivity}" drawable="ic_gallery" />
 
     <!-- Messaging -->
-    <item component="ComponentInfo{com.android.contacts/com.android.mms.ui.ConversationList}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversation.LaunchConversationActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversationlist.ConversationListActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.mobile9.messaging/com.mobile9.messaging.MainActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.motorola.messaging/com.android.mms.ui.ConversationList}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.motorola.messaging/com.motorola.messaging.activity.ConversationListActivity}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.rim.messaging/com.rim.messaging.NativeSmsMms}" drawable="ic_sms" />
-    <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="ic_sms" />
+    <item component="ComponentInfo{com.android.contacts/com.android.mms.ui.ConversationList}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversation.LaunchConversationActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversationlist.ConversationListActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.mobile9.messaging/com.mobile9.messaging.MainActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.motorola.messaging/com.android.mms.ui.ConversationList}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.motorola.messaging/com.motorola.messaging.activity.ConversationListActivity}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.rim.messaging/com.rim.messaging.NativeSmsMms}" drawable="ic_sms_alt2_purple" />
+    <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="ic_sms_alt2_purple" />
 
     <!-- Music -->
     <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="ic_music" />
@@ -421,7 +421,7 @@
 
     <!-- Replacements with Nova Launchers internal database of system apps -->
     <item component=":PHONE" drawable="ic_phone" />
-    <item component=":SMS" drawable="ic_sms" />
+    <item component=":SMS" drawable="ic_sms_alt2_purple" />
     <item component=":BROWSER" drawable="ic_browser" />
     <item component=":CALENDAR" drawable="ic_calendar" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="ic_app_drawer_" />
