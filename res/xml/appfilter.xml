@@ -545,6 +545,7 @@
 
     <!-- Rewards-->
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="ic_google_rewards" />
+    <item component="ComponentInfo{com.google.android.apps.paidtasks/.activity.LaunchActivity}" drawable="ic_google_rewards" />
 
     <!-- Sheets-->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_google_sheets" />
@@ -663,6 +664,7 @@
     <!-- Amtrack -->
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="ic_amtrack" />
     <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.Amtrak}" drawable="ic_amtrack" />
+    <item component="ComponentInfo{com.amtrak.rider/.MainActivity}" drawable="ic_amtrack" />
 
     <!-- Apex -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="ic_apex_launcher" />
